@@ -7,6 +7,7 @@ Note: This document will be open-sourced. We are transparent by default especial
 ## Content
 1. Mission
 2. Values
+	3. Document everything
 3. Communication & Tools
 	1. Slack
 	2. Github
