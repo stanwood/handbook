@@ -2,9 +2,11 @@
 
 ### Retreats
 
+We meet 2x per year for a two day workshop.
+
 ### Workshops
 
-### Cooking with the CEO
+Between the retreats teams can meet as often as they see fit.
 
 ### Grill the boss
 
