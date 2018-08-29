@@ -87,6 +87,14 @@ Failure is the best way too learn.
 
 We admit failures - even brag about them.
 
+### Language
+
+stanwood is an (UK) English speaking company. 
+
+With the exception of a very few English is not our first language and quite frankly, it could use a bit of work. 
+
+All written and oral communication must be in English. Yes, even between to country man.
+
 ## II. Hacker mindset
 
 We work smart:

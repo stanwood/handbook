@@ -14,13 +14,34 @@ Same on every other platform that we use.
 
 ## Channels
 
-#general Official stuff
+### #general
+Official stuff. Only the CEO posts here.
 
-#status Good morning, be-right-back, back, good night + what are you going to do today
+### #status 
 
-#random GIFs, cat videos etc. to
+Post "Good morning", "be-right-back", "back", "good night" + what are you going to do today.
 
-#programming_X General programming talks and ask for help
+The first line of your post and the first emoij will become your profile status message. Use it to communicate your availability to people who try to reach you.
+
+When leaving for vacation please use this template:  
+`:desert_island: on vacation till August 23rd`
+
+### #random
+
+GIFs, cat videos etc. to
+
+### #programming_X
+
+General programming talks and ask for help
+
+### Tackleberry
+
+Our very own police bot will sent you reminders that require your actions from time to time. 
+
+- Tickets that need your estimation
+- Tickets that need to be moved
+- Tickets that have are already 50% over estimate: Update the `Remaining estimate` and inform your pm
+- Tickets that have are already 100% over estimate: Update the `Remaining estimate` and inform your pm
 
 ## Guidelines
 
@@ -32,7 +53,7 @@ Project channels starting with "_". All real-time discussion belongs there. ackn
 
 Jira, Zeplin, Github, Bitrise post to the channel project channel.
 
-No project talk in direct messages, as this is lost to the company.
+Please do not hold project talk in direct messages, as this is lost to the company. Use a public channel instead.
 
 When asking someone something, always use @username. Some developers are a member of dozens of channels and might miss your question.
 

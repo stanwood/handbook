@@ -24,17 +24,18 @@ Feel free to ask questions through issues (!add link) and contribute by creating
 4. People Operations
 	1. Recruiting
 	2. Compensation
-	2. Onboarding
+	2. On-boarding
 	3. Roles
 	5. Leadership
 	5. Training
 	6. People Development
-	7. Timetracking
-	8. Offboarding
+	7. Time tracking
+	8. Off-boarding
 	9. Alumni
-5. Developer Operations
+5. Core processes
 	6. Developer operations
 	8. Documentation
+	9. Permissions
 6. Sales
 
 ## Lingo

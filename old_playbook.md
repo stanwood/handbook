@@ -4,12 +4,6 @@
 
 ## 15. Other
 
-Slack: "Holiday status"
-Process: Reporting overruns
-Process: Computers should be english
-Process: Masterclases
-Toggl: Logging non-ticket work
-Slack: Use threads
 Process: How to get permissions
 Process: Adding flight times
 Policy: Logging travel and workshop times
