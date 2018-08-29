@@ -58,3 +58,39 @@ If we cannot reproduce a bug, we keep it in the Backlog as an "Unclear bug" assi
 We use versions as an additional tool to organize tickets. The rules are loose.
 
 However: When releasing a version to testers and clients a version must put together with all implemented tickets since the last release.
+
+## Statuses
+
+[X. Statusname [Person in charge]: Description]
+
+Inbox [PM]: Clients and tools dump stuff in here, project managers add details
+
+Needs Estimation [Project Lead]: Developer adds an "Original Estimate". // Suggestion: [(developer_estimation * 1.5 )+ 15%(for Code Review)]
+
+Needs Approval [Client or PM]: Clients approves/declines.
+
+Approved Backlog [Project Lead]: Approved by client, but not ready to be taken by developer in this sprint
+
+Ready for Development [Dev]: Sprint backlog, filled by the project manager. Developer takes ticket from there and moves to next status.
+
+Working On [Dev]: Developer implements, (if UI-task: adds screenshots), assigns other dev to code review
+
+Code Review [Dev]: reviewer approves, assigns author, author merges to dev, author moves to QA with QA-instructions
+
+QA [PM or QA Manager]: Project managers: reviews or asks QA-Manager to review. if failed: Assigns back to author working on if approved: moves to client review (if no client: done)
+
+Needs client review [Client]: Client approves/declines 10. Done [PM] (Won't fix [PM]: Tickets, that will not get solved and need no further attention) (Duplicate [PM]: Duplicates, need to be linked to the original first) Crashlytics Issues
+
+PM should create a bug ticket and add the issues link in the description
+
+PM should add a checklist with -Issue Closed
+
+The developer should close the issue on Crashlytics once the bug has been fixed and the ticket is moved to Done
+
+Prio: 'Blocker' We use this to indicate that we cannot proceed with a ticket due to something missing by someone else. i.e. an API to be finished or a design to be created.
+
+The project manager reviews those blockers regularly to check, if the the constraint has been lifted.
+
+### Guidelines
+
+Discussions on issues belong in the comments in the issue. If something is discussed in slack or in a call, the project lead is responsible for summarising the decision on the ticket.
