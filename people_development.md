@@ -2,17 +2,6 @@
 
 ## Goals and Development
 
-Share
-User icon
-Hannes Kleist
-Last modified Aug 20, 2018
-1. Goals (WIP)
-2. KPI (WIP)
-3. 360° Feedback
-I. HOW TO
-II. EXAMPLES
-III. NOTES
-4. Leadership feedback
 stanwood is the embodiment of change. We want to improve every day. One important step (others are Analyses, Planning, Doing and Collecting Data) is the Review.
 
 Every Woody has a performance review meeting with their team lead every quarter. 

@@ -34,3 +34,17 @@ Feel free to ask questions through issues (!add link) and contribute by creating
 	6. Project process
 	7. Sprints
 6. Sales
+
+## Lingo
+
+We use UK English both written and spoken. 
+
+We refer to employees and freelancers as "team members" or "Woodies". New Woodies are called "Wookies".
+
+When talking about clients, users or team members we use the plural to avoid female and/or male pronouns. 
+
+We try to use neutral terms where-ever possible. If not possible  we alternate between female and male pronouns. 
+
+## License
+
+This handbook is under MIT license. 
