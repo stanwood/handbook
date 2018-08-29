@@ -19,6 +19,8 @@ Feel free to ask questions through issues (!add link) and contribute by creating
 	3. Jira
 	4. E-Mail
 	5. Confluence
+	6. Bitrise
+	7. Testfairy
 4. People Operations
 	1. Recruiting
 	2. Compensation
@@ -31,8 +33,8 @@ Feel free to ask questions through issues (!add link) and contribute by creating
 	8. Offboarding
 	9. Alumni
 5. Developer Operations
-	6. Project process
-	7. Sprints
+	6. Developer operations
+	8. Documentation
 6. Sales
 
 ## Lingo
