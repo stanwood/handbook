@@ -165,6 +165,22 @@ We don't let people go lightly.
 We review, feedback, mentor and give second changes.
 We help people we let go, to find a new job.
 
+Sexual harassment or discrimination, both active and by passive toleration is not
+
+We do not tolerate sexual harassment, discrimination based on
+
+- Age
+- Disability
+- Race
+- Nationality
+- Religious belief or lack of religious belief
+- Life expectancy
+- Sex
+- Sexual orientation
+- Transgender status
+
+, violent acts, threats or encouragement of violence, fighting, bullying, coercion or use of abusive or threatening words directed to, about or against a team member, client or third party, even in a joking manner. Violations of this value is a fireable offence. 
+
 ## V. Working remotely
 
 We work where we can work best: near our families, at those places we choose to because we want, not because we must.
