@@ -12,6 +12,8 @@ Every freelancer and employee needs to sign 3 documents:
 	4. Freelancing contract: [Template](https://docs.google.com/document/d/1Cm8LBm9Tu9wxHfxUUhzih0u9gVu2cFFpJIqxOuPDTqc/edit?usp=sharing)
 	5. Employment contract: [Template](https://docs.google.com/document/d/1MMVa-_HVo0tX1oQnxJmjHYp0oxQLP6qh4_hnz23xgt0/edit?usp=sharing)
 
+We only use digital contracts via DocuSign. Paper is a pain.
+
 ## Freelance vs. Full time employee
 
 We prefer working on a freelance basis because this 

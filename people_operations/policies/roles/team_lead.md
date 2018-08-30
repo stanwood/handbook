@@ -1,0 +1,24 @@
+# Team lead
+
+- Define developer recruitments standards
+- Interview and recruit new developers
+- Coordinate project roster
+- Aim to spread project across the team and to keep a refresh cycle.
+- Make sure the team is well mixed and get the chance to work with everyone.
+- Push the boundaries of Platform OS capabilities
+- Team framework responsibilities, evangelist
+- Set team member per framework
+- Oversee the team development, and policy implementation
+- Work alongside Head of Platform Architecture to define and improve a global architecture
+- Plan and manage 3 annual workshops
+- Ask developers for topics*
+- The lead would organise the workshop, topic etc.
+- Liaise with the Head of Engineering to make sure platforms aligned
+- Training
+	- Workshops and master classes
+	- Feedback process: Individualise training per developer
+	- Pair programming
+- Work alongside the PM's to utilize the best working environment
+- Support the team with any issues they have, and identify strength and weakness.
+- Prepare and establish quarterly team review
+- Navigate and support project leads with ongoing projects.

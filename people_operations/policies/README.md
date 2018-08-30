@@ -1,6 +1,12 @@
 # People Operations - Policies
 
 - [Roles](roles.md)
+- [Team lead](/roles/team_lead.md)
+	- [Project lead](/roles/project_lead.md)
+	- [Senior developer](/roles/senior_developer.md)
+	- [Mid level developer](/roles/mid_level_developer.md)
+	- [Project manager](/roles/project_manager.md)
+	- [QA manager](/roles/qa_manager.md)
 - [Compensation](compensation.md)
 - [Contracts](contracts.md)
 - [Leadership](leadership.md)
