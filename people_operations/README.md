@@ -1,1 +1,16 @@
 # People Operations
+
+5. [Processes](processes)
+	- [Recruiting](processes/recruiting.md)
+	- [On-boarding](processes/on_boarding.md)
+	- [Time tracking](processes/time_tracking.md)
+	- [Training](processes/training.md)
+	- [People Development](processes/people_development.md)
+	- [Off-boarding](processes/off_boarding.md)
+6. [Policies](policies)
+	- [Roles](policies/roles.md)
+	- [Compensation](policies/compensation.md)
+	- [Leadership](policies/leadership.md)
+	- [Meet ups](policies/meet_ups.md)
+	- [Travel](policies/travel.md)
+	- [Alumni](policies/alumni.md)
