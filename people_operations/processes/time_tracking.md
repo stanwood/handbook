@@ -22,7 +22,25 @@ Make sure to answer all messages in slack at least within 1h during 10:00 and 18
 
 Post in #status, should you be afk for more than 1 h during 10:00 and 18:00 CET
 
-## Namining
+## Workshops
+
+When participating or preparing for a workshop book on "Internal  Workshops".
+
+## Travel
+
+We do not pay for the time you spent traveling, so please do not book it.
+
+However, if you bring your laptop and work while on transit, please book normally on the project and you will of course be paid.
+
+## Masterclasses
+
+Please book the time for participating and preparing for Masterclasses on "Internal Workshops"
+
+## Sales
+
+When you are helping with a pitch or a sales presentation please book on project "Sales".
+
+## Naming
 
 Use the jira ticket ID and a description, i.e. LEN-01 My awesome new feature
 Assign a project.

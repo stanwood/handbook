@@ -189,6 +189,8 @@ We do not tolerate sexual harassment, discrimination based on
 
 , violent acts, threats or encouragement of violence, fighting, bullying, coercion or use of abusive or threatening words directed to, about or against a team member, client or third party, even in a joking manner. Violations of this value is a fireable offence. 
 
+We kindly nudge each other should we for instance use the male form of a word by adding the eggplant emoji to the post.
+
 ## V. Working remotely
 
 We work where we can work best: near our families, at those places we choose to because we want, not because we must.
@@ -201,3 +203,5 @@ When someone annoys us, we assume ignorance before bad intentions.
 Make an extra effort at communication.
 
 We want to be able whenever, where-ever and how much we want. Towards that end we build our processes around asynchronous work, document everything and try to avoid the need for real time communication and collaboration. 
+
+We do not discriminate for your choice of location of our team members. We pay the same wether you live in London or Bangkok. But that also means, we do not pay for travel time.

@@ -4,20 +4,6 @@
 
 ## 15. Other
 
-Process: How to get permissions
-Process: Adding flight times
-Policy: Logging travel and workshop times
-Policy: Always build proxies
-Policy: Third party frameworks
-Policy: Sharing photos from company events
-Policy: Travel booking and expensing
-Policy: Hardware Expensing
-Policy: Transparency
-People: Compensation
-People: Recruiters
-Policy: Friendliness, no-gender, tolerance, egg-plant
-Legal: NDA & Data processing agreements for freelancers
-Policy: Hiring freelancers vs. full time employees
 Policy: Docusign for contracts
 Policy: Data protection by default
 Invoicing: Required fields on an invoice, deadlines and template

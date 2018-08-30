@@ -33,14 +33,16 @@ Feel free to ask questions through [issues](https://gitlab.com/stanwood/handbook
 	6. [Policies](people_operations/policies)
 		- [Roles](people_operations/policies/roles.md)
 		- [Compensation](people_operations/policies/compensation.md)
+		- [Contracts](people_operations/policies/contracts.md)
 		- [Leadership](people_operations/policies/leadership.md)
 		- [Meet ups](people_operations/policies/meet_ups.md)
 		- [Travel](people_operations/policies/travel.md)
 		- [Alumni](people_operations/policies/alumni.md)
 7. [Core processes](core_processes)
 	- [Developer operations](core_processes/developer_operations.md)
-	- [Documentation](core_processes/documentation)
-	- [Permissions](core_processes/permissions)
+	- [API](core_procsses/api.md)
+	- [Documentation](core_processes/documentatio.mdn)
+	- [Permissions](core_processes/permissions.md)
 6. [Sales](sales)
 
 ## Language
