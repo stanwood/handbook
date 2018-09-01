@@ -51,6 +51,8 @@ Feel free to ask questions through [issues](https://gitlab.com/stanwood/handbook
 	- [Documentation](core_processes/documentatio.mdn)
 	- [Permissions](core_processes/permissions.md)
 6. [Sales](sales)
+7. [Finance](finance)
+	- [Invoicing](finance/invoicing.md)
 
 ## Language
 
