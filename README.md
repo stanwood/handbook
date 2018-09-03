@@ -4,7 +4,7 @@ stanwood's processes and policies
 
 ## Background
 
-We are to be "transparent by default". We want to be as transparent potential clients and our team both current and future. As such this document is open-source.
+We are to be "transparent by default". We want to be equally transparent to potential clients and our team both current and future. As such this document is open-source.
 
 We also want to be an active part of the remote-work community and want to share what we learned with other startups in an effort to bring the wonders of distributed to the world.
 
