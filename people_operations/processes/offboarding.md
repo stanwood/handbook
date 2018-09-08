@@ -35,3 +35,25 @@ Before it comes to that we
 Try to increase sales.
 Try to get funding.
 Try to find developers who can work part-time, take sabbaticals or work somewhere else for a bit.
+
+## Last day
+
+### Ops
+
+- Disable all accounts from onboarding
+
+### CEO
+
+- Write a personal note to the person leaving
+- Thank the person on #general
+
+### Person leaving
+
+- Reply to CEO post with a personal message to the team and leave your private email to stay in touch [Optional]
+- Remove stanwood GDrive
+- Remove all accounts and passwords from password manager
+- Remove all code repos and stanwood docs from your computer
+- Remove all private data from your computer [if company computer]
+- Reset all devices to factory settings [If company hardware]
+- Sent hardware back to CEO [if company hardware]
+- Sent last invoice (if freelancer)
