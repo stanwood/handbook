@@ -54,11 +54,14 @@ https://app.bugfender.com/team/12213
 https://docs.google.com/spreadsheets/d/1Te6wxnS8Bu_WSHf4Eio567Uk4_kmA8hduZL9HUK6ksc/edit#gid=0
 
 14. MyTaxi
+https://de.mytaxi.com/login.html?target=corporate
 
+15. Trello 
+https://trello.com/stanwood3/members
 
-15. TODO: Setup Jira + Toggle Sync:
+16. TODO: Setup Jira + Toggle Sync:
 New devs: Enable Toggl + Jira Sync, please: https://toggl-jira-sync.appspot.com/login
 
-16. After they accepted everything:
+17. After they accepted everything:
 Add them to the project and general slack channels
 Welcome them in #general
