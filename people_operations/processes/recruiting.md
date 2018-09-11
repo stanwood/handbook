@@ -5,7 +5,8 @@
 @leads to have a 10min call to evaluate if the candidate fit the team - perfect English and  super fun ("beer test")
 
 ## Step 2: Phase two
-Technical test. @leads to decide on a platform for online tests 
+
+Technical test. @leads to decide on a platform for online tests.
 
 ### Android
 For starters, we're going to use the pluralsight quick assessment until we've set up remoteinterview.io questions: https://stackoverflow.com/users/story/integration/assessment?s=1
@@ -43,7 +44,7 @@ https://app.pluralsight.com/score/skill-assessment/react/intro
 
 ## Phase three: In depth interview
 
-#### Initial interview by team lead to identify candidates technical and personal skills. 30-60 min
+Initial interview by team lead to identify candidates technical and personal skills. 30-60 min
 
 ## Phase four: Coding task
 
