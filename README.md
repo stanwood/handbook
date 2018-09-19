@@ -8,7 +8,8 @@ We are to be "transparent by default". We want to be equally transparent to pote
 
 We also want to be an active part of the remote-work community and want to share what we learned with other startups in an effort to bring the wonders of distributed to the world.
 
-Feel free to ask questions through [issues](https://gitlab.com/stanwood/handbook/issues/new) and contribute by creating [merge requests](https://gitlab.com/stanwood/handbook/merge_requests/new). When creating an issue, use a link to the line you are referring to for easy access, i.e. https://gitlab.com/stanwood/handbook/blob/master/mission.md#L5.
+Feel free to ask questions through [issues](https://gitlab.com/stanwood/handbook/issues/new) and contribute by creating [merge requests](https://gitlab.com/stanwood/handbook/merge_requests/new). When creating an issue, use a link to the line you are referring to for easy access, i.e. 
+https://gitlab.com/stanwood/handbook/blob/master/mission.md#L5.
 
 ## Content
 1. [Mission](mission.md)
