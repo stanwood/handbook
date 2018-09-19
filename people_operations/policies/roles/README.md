@@ -7,7 +7,7 @@ Report to the CEO. Every team member is part of one team and reports to their le
 - android: Sven
 - API: Marcin
 - iOS: Tal
-- Web: Stefan
+- Web: Marcin (interim)
 - Project management: Hannes (interim)
 - QA: Hannes (interim)
 
