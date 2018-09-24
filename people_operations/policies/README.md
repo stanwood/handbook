@@ -1,6 +1,6 @@
 # People Operations - Policies
 
-- [Roles](roles.md)
+- [Roles](/roles)
 - [Team lead](/roles/team_lead.md)
 	- [Project lead](/roles/project_lead.md)
 	- [Senior developer](/roles/senior_developer.md)
