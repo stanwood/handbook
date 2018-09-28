@@ -5,17 +5,19 @@
 We provide a transparent and unified payment scheme based on hourly rates that reflect the impact for the company, responsibilities and scarcity of the skill set.
 
 ## Developers and project managers
-New guys: 25€
-Mid level: 30€
-Senior: 35€
-Project lead: 40€
-Team lead: 45€
+
+- New guys: 25€
+- Mid level: 30€
+- Senior: 35€
+- Project lead: 40€
+- Team lead: 45€
 
 ## *QA manager*
-Junior: 15€
-Mid: 20€
-Senior: 25€
-Team lead: 30€
+
+- Junior: 15€
+- Mid: 20€
+- Senior: 25€
+- Team lead: 30€
 
 We *do not downgrade* existing hourly rates. We will heal the existing "injustices" with a general rate increase in the next years.
 
