@@ -53,4 +53,4 @@ iOS: Ronan, Tal
 
 Android: Miłosz, André, Sven
 
-Web: Stefan
+Web: Arni
