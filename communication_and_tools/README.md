@@ -8,3 +8,5 @@
 - [Bitrise](bitrise.md)
 - [Codeship](codeship.md)
 - [Testfairy](testfairy.md)
+- [Sketch](sketch.md)
+- [Zeplin](zeplin.md)
