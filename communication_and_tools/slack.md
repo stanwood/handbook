@@ -45,8 +45,6 @@ Our very own police bot will sent you reminders that require your actions from t
 
 ## Guidelines
 
-When switching project, ping both @pms in the project channel.
-
 When responding to todos in slack, open a thread, use "On it {time}" (i.e. "On it in 1h") and "Done"/:white_check_mark:
 
 Project channels starting with "_". All real-time discussion belongs there. acknowledge
@@ -56,8 +54,6 @@ Jira, Zeplin, Github, Bitrise post to the channel project channel.
 Please do not hold project talk in direct messages, as this is lost to the company. Use a public channel instead.
 
 When asking someone something, always use @username. Some developers are a member of dozens of channels and might miss your question.
-
-BTW: Hannes is sometimes offline for a couple of hours when with a client. Best ask via comment in a Jira ticket then.
 
 Always use threats. 
 
