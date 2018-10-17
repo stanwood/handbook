@@ -69,7 +69,7 @@ Overhead: We should not spend more than
 
 The person responsible for the next step must be assigned to the ticket. i.e. when asking a question that question that blocks the ticket, please assign the person you asked.
 
-Order of work: Weekly priority sent up until Monday; Priority: Critical, Status: Needs estimation, QA, Working on, Ready for Development
+Order of work: Weekly priority sent up until Monday; Priority: Critical, Status: Needs estimation, QA, Code Review, Working on, Ready for Development
 
 All tickets must receive
 
