@@ -26,7 +26,7 @@ Naming in Jira
 - Never push or merge directly into master and develop. Only reviewed pull requests are allowed to be merged.
 - All feature/hotfix branches must be merged into the release branch via pull requests during the sprint
 - Commit & push approx. all 3 hours
-- Create pull request for every issue before you move to "QA" and assign the reviewer in github
+- Create pull request for every issue before you move to "Code Review" and assign the reviewer in github
 - On go live: Lead merges to master, creates a tag and adds release notes from Jira, PM: 
 
 ## Naming
