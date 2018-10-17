@@ -10,6 +10,7 @@ We are using a custom Gitflow.
 
 - master: deployed version
 - develop: clean development version, for testing and beta release
+- stage: merged from develop for testing
 
 - feature/SEL-12-awesome-feature
 - hotfix/SEL-13-awesome-hotfix (fixing something in master)
