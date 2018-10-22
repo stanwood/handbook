@@ -16,8 +16,10 @@ There are 5 reasons for ending or not extending a contract:
 
 ## Process
 
-- The leads and Hannes together decide to initiate the process for a person.
-- The employee is told by his Lead with Hannes present
+- The team lead and the CEO decide to start the process.
+- All team leads discuss the issue.
+- The team lead of of the team member and the CEO decide to end the contract.
+- The employee is told by his lead with Hannes present
 - That he/she is officially on-notice for four weeks
 - What changes are required to stay in the company
 - That daily check-ins with Hannes and the respective Lead will be performed
