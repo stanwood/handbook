@@ -18,6 +18,7 @@ There are 5 reasons for ending or not extending a contract:
 
 - The team lead and the CEO decide to start the process.
 - All team leads discuss the issue.
+- Team leads have a veto, that the CEO can override.
 - The team lead of of the team member and the CEO decide to end the contract.
 - The employee is told by his lead with Hannes present
 - That he/she is officially on-notice for four weeks
