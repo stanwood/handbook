@@ -51,6 +51,9 @@ https://gitlab.com/stanwood/handbook/blob/master/mission.md#L5.
 	- [API](core_procsses/api.md)
 	- [Documentation](core_processes/documentatio.mdn)
 	- [Permissions](core_processes/permissions.md)
+	- [CD CI](core_processes/cdci)
+		- Confluence
+		- [Gitlab](core_processes/cdci/web_gitlab.md)
 6. [Sales](sales)
 7. [Finance](finance)
 	- [Invoicing](finance/invoicing.md)

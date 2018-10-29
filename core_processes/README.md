@@ -5,3 +5,6 @@
 - [Documentation](documentation)
 - [API](api.md)
 - [Permissions](permissions)
+- [CD CI](cdci)
+	- Confluence (TBD)
+	- [Gitlab](CDCI/web_gitlab.md)
