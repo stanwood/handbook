@@ -93,7 +93,11 @@ stanwood is an (UK) English speaking company.
 
 With the exception of a very few English is not our first language and quite frankly, it could use a bit of work. 
 
-All written and oral communication must be in English. Yes, even between to country man.
+All written and oral communication must be in English. Yes, even between to countrymen.
+
+We try to avoid abbrevations and industry speak as much as possible to enable anyone reading our stuff to follow up.
+Only use jargon, if there is no equivalent in normal English. 
+This also helps not coming across pompous ;-)
 
 ## II. Hacker mindset
 
