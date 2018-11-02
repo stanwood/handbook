@@ -8,3 +8,4 @@
 - [CD CI](cdci)
 	- Confluence (TBD)
 	- [Gitlab](CDCI/web_gitlab.md)
+- [Release and testing processes web](release_processes_web.md)

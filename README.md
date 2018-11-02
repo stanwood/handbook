@@ -54,6 +54,7 @@ https://gitlab.com/stanwood/handbook/blob/master/mission.md#L5.
 	- [CD CI](core_processes/cdci)
 		- Confluence
 		- [Gitlab](core_processes/cdci/web_gitlab.md)
+	- [Release and testing processes web](release_processes_web.md)
 6. [Sales](sales)
 7. [Finance](finance)
 	- [Invoicing](finance/invoicing.md)
