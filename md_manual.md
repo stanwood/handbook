@@ -2,11 +2,11 @@
 
 ## I. Background
 
-True to our mantra of transparency and openness I want to share how to ”handle” me. This is both an attempt to make the communication you have with me more pleasant, productive and inspiring, but also I would like you to help me grow into a better person.
+True to our mantra of transparency and openness, I want to share how to ”handle” me. This is both an attempt to make the communication you have with me more pleasant, productive and inspiring, but also I would like you to help me grow into a better person.
 
 ### General Rule
 
-9 times out of 10 I am wrong and what I ask for is half baked, ill-informed or down right stupid. Please always hold my feet to the fire and challenge me.
+9 times out of 10 I am wrong and what I ask for is half-baked, ill-informed or downright stupid. Please always hold my feet to the fire and challenge me.
 
 If I rub you wrong, please know that I am a flawed person with limited knowledge, an ego, short attention span and a flaring personality. 
 
@@ -30,7 +30,7 @@ I enjoy deep thought, data and abstract thinking. If you argue from an experienc
 
 ### 3. Wits
 
-I enjoy laughing and make other people laugh. My heroes are Stephen Fry, Hugh Laurie, Monty Python, Eddy Izzard, Dave Chappelle, Chris Rock, Stephen Colbert, Jon Stewart and [UK inventor of the office]. Play on words especially entertain me. 
+I enjoy laughing and make other people laugh. My heroes are Stephen Fry, Hugh Laurie, Monty Python, Eddy Izzard, Dave Chappelle, Chris Rock, Stephen Colbert, Jon Stewart and [UK inventor of the office]. Play on words especially entertains me. 
 
 Feel free to make fun of me, but be smart about it.
 
@@ -40,43 +40,43 @@ I am captivated by great storytellers. If you can tell a story over half an hour
 
 ### 5. Self motivation
 
-I like people, how understand the goals we work towards it. You can make me very happy, by suggestion some improvement or idea all the time.
+I like people, who understand the goals we work towards. You can make me very happy by suggesting improvements or ideas regularly.
 
 ### 6. Grand visions and passions
 
-I enjoy people who want to change the world or have a passion for a particular topic - can be totally unrelated to coding and stanwood.
+I enjoy people who want to change the world or have a passion for a particular topic - it can be totally unrelated to coding or stanwood.
 
 ### 8. Sharing successes and gratitude
 
-Nothing we achieve could be done without the help of our team. Be humble, share success and express gratitude on a daily basis, will get you into my good book.
+Nothing we achieve could be done without the help of our team. Be humble, share your success and express gratitude on a daily basis - this will get you into my good books.
 
 ## III. What annoys me
 
 ### 1. Whining
 
-I do not like being around people who complain constantly. Case in point: I have broken up a number relations with people working in corporate. I had friends who do nothing but complain about their stupid bosses and co workers every time we meet.
+I do not like being around people who complain constantly. Case in point: I have broken up a number of relations with people working in corporate. I had friends who did nothing but complain about their stupid bosses and co-workers every time we met.
 
-*Love it, leave it of or change it!*
+*Love it, leave it or change it!*
 
-If you want to do either of these things, I am happy to spent an evening with you and working on a plan...
+If you want to do either of these things, I am happy to spend an evening with you and work on a plan.
 
-But complain over and over again about the same thing, without any plan to change the situation, I would rather spend the time with my lovely wife, my kids or one of the many inspiring Woodies.
+But if you complain about the same thing over and over again without any plan to change the situation, I would rather spend the time with my lovely wife, my kids or one of our many inspiring Woodies.
 
 ### 2. Misuse of power/politicking
 
-Being a freedom loving guy, I cannot stand people who use the power for their own gain or play politics. 
+Being a freedom loving guy, I cannot stand people who use power for their own gain or play politics. 
 
-Calling rank, manipulating people or using any kind of force or leverage annoys the crab out of me. 
+Calling rank, manipulating people or using any kind of force or leverage annoys the crap out of me. 
 
-Win people with argument, wit, gentle nudging or charm, please.
+Win people with arguments, wit, gentle nudging or charm, please.
 
 ### 3. -ismns
 
-Being a straight, white, male, central-European enjoying a superb (and free) education, publicly available (and free) health care system and the rule of law puts us unto a unique and blessed position. But we did not earn this. We were just super lucky.
+Being a straight, white, Central-european male enjoying a superb (and free) education, publicly available (and free) health care system and the rule of law, puts us unto a unique and blessed position. But we did not earn this. We were just super lucky.
 
-Our nationality, talents, body, religions, race, gender, sexual orientation was handed to us by chance. Feel superior or even worst - treating other people inferior, just because they were less lucky at the throw of the dice, is simply ignorant.
+Our nationality, talents, body, religion, race, gender, sexual orientation was handed to us by chance. Feeling superior or treating other people inferior, just because they were less lucky at the throw of the dice, is simply ignorant.
 
-We discriminate a 1000 times per day without even realising it and with that we are telling people - who were not that lucky - that they are second class: 
+We discriminate a 1000 times per day without even realising it and with that we are telling people, who were not that lucky, that they are second class: 
 
 - using the male from of pronouns or job titles
 - using CET as default time zone
