@@ -8,7 +8,7 @@
 	- [People Development](processes/people_development.md)
 	- [Off-boarding](processes/off_boarding.md)
 6. [Policies](policies)
-	- [Roles](policies/roles.md)
+	- [Roles](policies/roles)
 	- [Compensation](policies/compensation.md)
 	- [Leadership](policies/leadership.md)
 	- [Meet ups](policies/meet_ups.md)
