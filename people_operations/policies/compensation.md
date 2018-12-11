@@ -23,7 +23,7 @@ We *do not downgrade* existing hourly rates. We will heal the existing "injustic
 
 ## Full time employees
 
-Full time employees get a wage based on the gross cost hourly rate + 20% (employer payment for pension health insurance, ...) x 8 h / week x 220 d / week.
+Full time employees get a wage based on the gross cost hourly rate + 20% (employer payment for pension health insurance, ...) x 8 h / day x 220 d / year.
 
 
 So if an employee and a freelancer work those 1760 h per year, they cost the company the same amount.
@@ -37,11 +37,11 @@ So if an employee and a freelancer work those 1760 h per year, they cost the com
 
 *Employee:*
 
-Wage: 40 €/h x 8 h/d x 220 d/w x 80% = 56,320 €
+Wage: 40 €/h x 8 h/d x 220 d/y x 80% = 56,320 €
 
-Benefits: 40 €/h x 8 h/d x 220 d/w x 20% = 14,080 €
+Benefits: 40 €/h x 8 h/d x 220 d/y x 20% = 14,080 €
 
 *Freelancer*
 
-Fee: 40 €/h x 8 h/d x 220 d/w = 70,400 €
+Fee: 40 €/h x 8 h/d x 220 d/y = 70,400 €
 
