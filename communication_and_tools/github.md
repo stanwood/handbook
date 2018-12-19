@@ -39,6 +39,8 @@ This greatly speeds up code review, QA and invoicing.
 - Branch: feature,hotfix,bugfix/SEL-123-{ticket-description}
 - Commit: SEL-123 {ticket description} or SEL-123 {commit description}
 
+`ticket-description` does not have to be exact same as `Summary` in jira. It can be rphrased as long as meaning is not lost. 
+
 ## Code Review
 
 What to look our for.
