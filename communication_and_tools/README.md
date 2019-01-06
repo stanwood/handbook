@@ -10,3 +10,4 @@
 - [Testfairy](testfairy.md)
 - [Sketch](sketch.md)
 - [Zeplin](zeplin.md)
+- [Hubspot](hubspot.md)
