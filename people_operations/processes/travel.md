@@ -33,10 +33,19 @@ When two Woodies meet or meet with a client, the company pays for food.
 
 ## Expensing
 
-Freelancers expense travels via their next invoice. Add the original receipts to the invoice (same PDF).
+**Freelancers** expense travels via their next invoice. Add the original receipts to the invoice (same PDF).
 
-Employees use the Trello board process and [this template](https://docs.google.com/spreadsheets/d/1LILG2ueFgdeqXS-tCdWisUCvq2DeMp45LFToFoikoLI/edit?usp=sharing) for travel and [this template](https://docs.google.com/spreadsheets/d/1DlZ2iThARh8JPzB0a6RhCsJYLBft2cOzGEZBlkPAADg/edit?usp=sharing) for all other expenses.
+**Employees** use the Trello board process and [this template](https://docs.google.com/spreadsheets/d/1LILG2ueFgdeqXS-tCdWisUCvq2DeMp45LFToFoikoLI/edit?usp=sharing) for travel and [this template](https://docs.google.com/spreadsheets/d/1DlZ2iThARh8JPzB0a6RhCsJYLBft2cOzGEZBlkPAADg/edit?usp=sharing) for all other expenses.
 
 Sent those expense forms and the original receipts non-zipped to the CEO.
 
 You will be paid within 2-3 weeks, depending on Funke's speed to push those forms through their process.
+
+**Booked by Anita**
+
+After booking 
+
+1. Go to https://www.lufthansa.com/de/de/rechnungsbeleg
+2. Enter booking code
+3. Download the receipt (make sure it has the VAT on it)
+4. Sent to invoice@stanwood.de
