@@ -355,7 +355,6 @@ We try to avoid abbreviations and industry speak as much as possible to enable a
 Only use jargon, if there is no equivalent in ordinary English.
 That also helps not coming across pompous ;-)
 
-
 We use UK English both written and spoken.
 
 We refer to employees and freelancers as "team members" or "Woodies". New Woodies are called "Wookies".
