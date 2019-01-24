@@ -58,6 +58,7 @@ https://gitlab.com/stanwood/handbook/blob/master/mission.md#L5.
 6. [Sales](sales)
 7. [Finance](finance)
 	- [Invoicing](finance/invoicing.md)
+	- [Accounting](finance/accounting.md)
 
 ## Language
 
