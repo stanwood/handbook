@@ -67,10 +67,13 @@ https://de.mytaxi.com/login.html?target=corporate
 
 https://trello.com/stanwood3/members
 
-## 16. TODO: Setup Jira + Toggle Sync:
+16. Rydoo (Employees only)
+
+https://expense.rydoo.com/admin/settings/user/create
+
+16. TODO: Setup Jira + Toggle Sync:
 New devs: Enable Toggl + Jira Sync, please: https://toggl-jira-sync.appspot.com/login
 
-## 17. After they accepted everything:
-
+X. After they accepted everything:
 Add them to the project and general slack channels
 Welcome them in #general
