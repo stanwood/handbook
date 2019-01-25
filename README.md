@@ -218,7 +218,7 @@
     + [Process](#process-1)
     + [Last day](#last-day)
       - [Ops](#ops)
-      - [CEO](#ceo)
+      - [MD](#MD)
       - [Person leaving](#person-leaving)
   * [Alumni](#alumni)
 - [Support processes](#support-processes)
@@ -495,7 +495,7 @@ We do not discriminate for your choice of location of our team members. We pay t
 - 200 mini articles @karinkleist
 - 1000 social followers @karinkleist
 - 12 presentations at conventions @hanneskl
-- Meet 10 remote CEOs @hanneskl
+- Meet 10 remote MDs @hanneskl
 
 ## Teams [WIP]
 
@@ -557,7 +557,7 @@ We need to have clear policies on
 
 Of course, we always strive to involve everyone in all discussions.
 
-| Topic | CEO | Team Leads | Heads | PMs | Developers | Examples
+| Topic | MD | Team Leads | Heads | PMs | Developers | Examples
 | - | - | - | - | - | - | -
 | Initial project staffing | Advise | Decide |  | Advice |  |
 | Ongoing project staffing | Decide | Advise |  | Advise |  |
@@ -588,7 +588,7 @@ We are facing four opposing principles when it comes to permissions.
 2. Code and documentation: Every team member has read permissions.
 3. Our Head of Automation closely guards writing-permissions.
 4. Contact the Head of Automation in #operations in Slack if you need more permissions.
-5. Every admin permission should be with three people: CEO, Head of backend development, Head of Automation.
+5. Every admin permission should be with three people: MD, Head of backend development, Head of Automation.
 
 
 
@@ -606,7 +606,7 @@ Examples:
 - if one of your team members is unhappy or not performing
 - if a client or project manager is unresponsive, unclear in his briefings or confused
 - if a project is not running well
-- if the CEO is a tyrant
+- if the MD is a tyrant
 
 2. As a leader, you are only a facilitator. Your team does the actual work and deserves all praise.
 
@@ -811,7 +811,7 @@ Same on every other platform that we use.
 ### Channels
 
 #### #general
-Official stuff. Only the CEO posts here.
+Official stuff. Only the MD posts here.
 
 #### #status
 
@@ -1764,7 +1764,7 @@ We want to get better at what we do every day. For that we offer the following t
 
 We pay both hours and courses for everyone to learn any (really any) of the trades that we use at stanwood. If you are a coder, who wants to learn to design: You are welcome — a QA manager who wants to learn Accounting: Yes, please.
 
-Just ping the CEO or your team lead, and we set you up.
+Just ping the MD or your team lead, and we set you up.
 
 ### Masterclasses
 
@@ -1793,7 +1793,7 @@ Between the retreats, teams can meet as often as they see fit.
 
 #### Grill the boss
 
-Every week the CEO invites one happy Woody to fly to Munich and spent an evening cooking and drinking.
+Every week the MD invites one happy Woody to fly to Munich and spent an evening cooking and drinking.
 I did that with the latest batch of Wookies and selected Woodies over the last weeks, and I loved it.
 
 All expenses paid of course.
@@ -1804,7 +1804,7 @@ As soon as we hit 52 team members, I will up this to 2x week.
 
 If you want to meet a Woody in person, we are sponsoring the flight with up to 200€ and a stay at the hotel up to 100€.
 
-Sent me a direct message to the CEO and explain, why you want to go.
+Sent me a direct message to the MD and explain, why you want to go.
 
 We will be generous.
 
@@ -1984,10 +1984,10 @@ There are 5 reasons for ending or not extending a contract:
 
 ### Process
 
-- The team lead and the CEO decide to start the process.
+- The team lead and the MD decide to start the process.
 - All team leads to discuss the issue.
-- Team leads have a veto that the CEO can override.
-- The team lead of the team member and the CEO decide to end the contract.
+- Team leads have a veto that the MD can override.
+- The team lead of the team member and the MD decide to end the contract.
 - The employee is told by his lead with Hannes present
 - That he/she is officially on-notice for four weeks
 - What changes are required to stay in the company
@@ -2017,20 +2017,20 @@ Before it comes to that we
 
 - Disable all accounts from onboarding
 
-#### CEO
+#### MD
 
 - Write a personal note to the person leaving
 - Thank the person on #general
 
 #### Person leaving
 
-- Reply to CEO post with a personal message to the team and leave your private email to stay in touch [Optional]
+- Reply to MD post with a personal message to the team and leave your private email to stay in touch [Optional]
 - Remove stanwood GDrive
 - Remove all accounts and passwords from password manager
 - Remove all code repository and stanwood docs from your computer
 - Remove all private data from your computer [if company computer]
 - Reset all devices to factory settings [If company hardware]
-- Sent hardware back to CEO [if company hardware]
+- Sent hardware back to MD [if company hardware]
 - Sent last invoice (if freelancer)
 
 ## Alumni
@@ -2122,7 +2122,7 @@ Every lead is responsible for a cost centre.
     1. On the first of the month
     2. Grab your hours from [Toggl](https://www.toggl.com/app/reports/summary/1229046/period/prevMonth)
     3. Create an invoice with those hours
-    4. Sent it to invoice@stanwood.de and put the CEO on CC.
+    4. Sent it to invoice@stanwood.de and put the MD on CC.
     6. After 2-3 weeks you should have the money on your account.
 
 
@@ -2134,7 +2134,7 @@ Those emails get forwarded to a candis.io account (to have a central log for all
 
 Corporate processes all those emails and assigns them to our office assistants. They assign a cost centre and approve it.
 
-After 1-2 days, those invoices are assigned to our CEO who approves as well.
+After 1-2 days, those invoices are assigned to our MD who approves as well.
 
 After that, another corporate employee approves the invoice as well. With that, the invoices are paid 1-5 days later.
 
