@@ -1612,8 +1612,10 @@ https://trello.com/stanwood3/members
 
 https://expense.zoho.com/app#/usersmanagement/users
 
-### 16. TODO: Setup Jira + Toggle Sync:
-New devs: Enable Toggl + Jira Sync, please: https://toggl-jira-sync.appspot.com/login
+### 16. TODO: Setup Jira/gitlab + Toggle Sync:
+Install and configure our own Toggl Chrome extension fork: https://gitlab.com/stanwood/internal/tools/toggl-sync/wikis/home
+
+New devs: Enable Toggl + Jira Sync, please: https://toggl-jira-sync.appspot.com/login (still needed with the aforementioned?)
 
 ### 17. After they accepted everything:
 
