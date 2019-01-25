@@ -1,1 +1,0 @@
-See our [private recruitment section](https://gitlab.com/stanwood/internal/recruiting/blob/master/process.md).
