@@ -2323,3 +2323,7 @@ We write and plan the posts in a [GDoc](https://docs.google.com/document/d/1E4mt
 **Goal**
 
 Publish one post on every channel every day.
+
+#### 2. Blog
+
+We plan our blog articles in a [GSheet](https://docs.google.com/spreadsheets/d/1nMkUHs_I-A0i-QDiyXCdA_UaDBXNLZqX0gg_TrbjQX4/edit#gid=0)
