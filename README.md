@@ -228,8 +228,15 @@
     + [Cost centres](#cost-centres)
   * [Freelancer Invoices](#freelancer-invoices)
   * [Processing invoices](#processing-invoices)
-  * [Sales](#sales)
-  
+  * [Sales and Marketing](#sales-and-marketing)
+    + [Our skills](#our-skills)
+    + [Passions](#passions)
+    + [Tilt](#tilt)
+    + [Segments](#segments)
+    + [Channels](#channels)
+    + [Content](#content)
+    + [Marketing Operations](#marketing-operations)
+
 # Introduction
 
 ## Background
@@ -2142,9 +2149,9 @@ After that, another corporate employee approves the invoice as well. With that, 
 
 The whole process takes 10 business days at best and sometimes up to three weeks.
 
-## Sales
+## Sales and Marketing
 
-### Our skkills
+### Our skills
 
 #### Digital Transformation
 
@@ -2290,7 +2297,7 @@ The whole process takes 10 business days at best and sometimes up to three weeks
 - Multi-tenant apps
 - Next tech: Bots, AI...
 
-### 3. Digital Transformation
+#### 3. Digital Transformation
 
 - Product stories
 - Change management
@@ -2301,3 +2308,18 @@ The whole process takes 10 business days at best and sometimes up to three weeks
 - How to make your company future proof?
 - No back-office (candies, Zohoo, Goldstein, weworks/mindspace)
 - Paperless
+
+### Marketing Operations
+
+#### 1. Social Media
+
+We schedule post to instagram, facebook, twitter (MD and company accounts), 
+linkedin (MD and company accounts) and xing (via API) via [Hubspot's social 
+media publishing tool](https://app.hubspot.com/social/4628060)
+ at least 7 days in advance. 
+
+We write and plan the posts in a [GDoc](https://docs.google.com/document/d/1E4mt5aAR0tQEbOnuPBJ7nzczP2morFc9oUH18Fd3LRs/edit#).
+
+**Goal**
+
+Publish one post on every channel every day.
