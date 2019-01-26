@@ -116,6 +116,7 @@
       - [Build numbers](#build-numbers)
   * [Tickets](#tickets)
     + [Ticket live cycle](#ticket-live-cycle)
+    + [Project Setup Android](#project-setup-android)
     + [Release Procedure Web Projects](#release-procedure-web-projects)
       - [1. During Development](#1-during-development)
       - [2. Creating a testable version](#2-creating-a-testable-version)
@@ -1234,6 +1235,47 @@ We use automatically increasing build numbers from Bitrise. We use the same buil
 |     Delegating tickets     |          |     Decide     |
 |     Architecture     |          |     Enforce     |     Implement
 |     Review code     |          |     Review     |
+
+### Project setup Android
+
+1. Ask Martin to create a new repository
+2. Check out the repository
+3. Create a new app in the checked out repository
+	- In the create-app-flow select Fragment + ViewModel (package is feature.<feature>.ui)
+	- Add Kotlin support
+	- Select API 21+
+4. Add [Navigation Components](https://developer.android.com/topic/libraries/architecture/navigation/navigation-implementing) and convert MainActivity to use navigation to load the first Fragment
+5. Add `/.idea/navEditor.xml` to _gitignore_
+6. Set compile options within Android:
+```groovy
+compileOptions {
+	sourceCompatibility JavaVersion.VERSION_1_8
+	targetCompatibility JavaVersion.VERSION_1_8
+}
+```
+7. Add data binding in app's _build.gradle_:
+```groovy
+dataBinding {
+	enabled = true
+}
+```
+8. Configure build types:
+```groovy
+buildTypes {
+	stage {
+		matchingFallbacks ['release']
+		minifyEnabled true
+		proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+	}
+	release {
+		minifyEnabled true
+		proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+	}
+}
+```
+9. Configure [bitrise](https://stanwood.atlassian.net/wiki/spaces/AN/pages/174293065/Bitrise+Setup+for+Android+apps)
+10. Set up [Code Style](https://stanwood.atlassian.net/wiki/spaces/AN/pages/473235458/Code+Style#CodeStyle-Alternative:ktlint-gradle) -> use the alternative gradle-plugin approach further down the page (be careful with Windows, some things likely need to be adapted there)
+11. Set up [architecture](https://github.com/stanwood/framework-arch-android) (general, DI etc.)
 
 ### Release Procedure Web Projects
 
