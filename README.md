@@ -21,7 +21,23 @@
     + [III. Love it, leave it or change it](#iii-love-it--leave-it-or-change-it)
     + [IV. Respect, Friendship and Support](#iv-respect--friendship-and-support)
     + [V. Working remotely](#v-working-remotely)
-  * [Goals](#goals)
+- [Goals](#goals)
+  * [Company 2019](#company-2019)
+    + [1. Grow](#1-grow)
+    + [2. Delight clients](#2-delight-clients)
+    + [3. Become the autority on digital business and remote work](#3-become-the-autority-on-digital-business-and-remote-work)
+  * [Teams [WIP]](#teams--wip-)
+    + [PM Goals [WIP]](#pm-goals--wip-)
+      - [GOAL 1: Improve expectation management and keep client close](#goal-1--improve-expectation-management-and-keep-client-close)
+        * [How:](#how-)
+        * [Tools for Measurement [WIP]:](#tools-for-measurement--wip--)
+      - [GOAL 2: Increase Product Quality](#goal-2--increase-product-quality)
+        * [How](#how)
+        * [Tools for Measurement [WIP]:](#tools-for-measurement--wip---1)
+      - [GOAL 3: Burn down Backlog every sprint](#goal-3--burn-down-backlog-every-sprint)
+        * [How:](#how--1)
+        * [Tools for Measurement [WIP]:](#tools-for-measurement--wip---2)
+- [Goals 2020 [WIP]](#goals-2020--wip-)
 - [Responsibilities](#responsibilities)
   * [General](#general)
   * [Permission Management](#permission-management)
@@ -50,9 +66,9 @@
     + [1. Client Communication](#1-client-communication)
     + [2. Jira Hygiene](#2-jira-hygiene)
     + [3. Internal communication](#3-internal-communication)
-    + [4. Fill backlog](#4-fill-backlog)
+    + [4. Sprint planning call](#4-sprint-planning-call)
     + [5. Keep documentation and Zeplin up to date](#5-keep-documentation-and-zeplin-up-to-date)
-    + [6. Up-selling](#6-up-selling)
+    + [6. Upselling](#6-upselling)
 - [Tools](#tools)
   * [Zeplin](#zeplin)
     + [Background](#background-2)
@@ -72,7 +88,8 @@
   * [Sketch](#sketch)
     + [Background](#background-4)
     + [Naming convention](#naming-convention)
-  * [Hubspot](#hubspot)
+  * [Hubspot Sales/CRM [WIP]](#hubspot-sales-crm--wip-)
+    + [Logging E-Mail conversations](#logging-e-mail-conversations)
   * [Jira](#jira)
     + [Background](#background-5)
     + [Types of Work](#types-of-work)
@@ -85,12 +102,14 @@
     + [Versioning](#versioning)
     + [Statuses](#statuses)
       - [Guidelines](#guidelines-2)
-  * [GitHub](#github)
+  * [GitHub/gitlab](#github-gitlab)
     + [Background](#background-6)
     + [Gitflow](#gitflow)
+      - [Perennial branches](#perennial-branches)
     + [Guidelines](#guidelines-3)
     + [Naming](#naming)
     + [Code Review](#code-review)
+      - [Mandatory reviewers](#mandatory-reviewers)
   * [E-Mail](#e-mail)
   * [Bitrise](#bitrise)
     + [Background](#background-7)
@@ -116,7 +135,7 @@
       - [Build numbers](#build-numbers)
   * [Tickets](#tickets)
     + [Ticket live cycle](#ticket-live-cycle)
-    + [Project Setup Android](#project-setup-android)
+    + [Project setup Android](#project-setup-android)
     + [Release Procedure Web Projects](#release-procedure-web-projects)
       - [1. During Development](#1-during-development)
       - [2. Creating a testable version](#2-creating-a-testable-version)
@@ -172,7 +191,8 @@
     + [13. Add birthday and anniversary to Hannes Calendar and Spreadsheet](#13-add-birthday-and-anniversary-to-hannes-calendar-and-spreadsheet)
     + [14. MyTaxi](#14-mytaxi)
     + [15. Trello](#15-trello)
-    + [16. TODO: Setup Jira + Toggle Sync:](#16-todo--setup-jira---toggle-sync-)
+    + [16. Zohoo (Employees only)](#16-zohoo--employees-only-)
+    + [16. TODO: Setup Jira/gitlab + Toggle Sync:](#16-todo--setup-jira-gitlab---toggle-sync-)
     + [17. After they accepted everything:](#17-after-they-accepted-everything-)
   * [Continuous Performance Management](#continuous-performance-management)
     + [1 on 1 reviews](#1-on-1-reviews)
@@ -205,7 +225,10 @@
     + [Hotels](#hotels)
     + [Flights](#flights)
     + [Dinners](#dinners)
+    + [What we pay for](#what-we-pay-for)
     + [Expensing](#expensing)
+      - [Freelancers](#freelancers)
+      - [Employees](#employees)
   * [Time Tracking](#time-tracking)
     + [Background](#background-13)
     + [Working hours](#working-hours)
@@ -219,7 +242,7 @@
     + [Process](#process-1)
     + [Last day](#last-day)
       - [Ops](#ops)
-      - [MD](#MD)
+      - [MD](#md)
       - [Person leaving](#person-leaving)
   * [Alumni](#alumni)
 - [Support processes](#support-processes)
@@ -231,12 +254,20 @@
   * [Processing invoices](#processing-invoices)
   * [Sales and Marketing](#sales-and-marketing)
     + [Our skills](#our-skills)
+      - [Digital Transformation](#digital-transformation)
+      - [Product management](#product-management)
+      - [Distributed](#distributed)
     + [Passions](#passions)
     + [Tilt](#tilt)
     + [Segments](#segments)
-    + [Channels](#channels)
+    + [Channels](#channels-1)
     + [Content](#content)
+      - [1. Distributed](#1-distributed)
+      - [2. Product management](#2-product-management)
+      - [3. Digital Transformation](#3-digital-transformation)
     + [Marketing Operations](#marketing-operations)
+      - [1. Social Media](#1-social-media)
+      - [2. Blog](#2-blog)
 
 # Introduction
 
@@ -1001,28 +1032,21 @@ The project manager reviews those blockers regularly to check if the constraint 
 
 Discussions on issues belong in the comments in the issue. If we discuss something is discussed in slack or a call, the project lead is responsible for summarising the decision on the ticket.
 
-## GitHub
+## GitHub/gitlab
 
 ### Background
 
-We use Github to host our code.
+We use Github/gitlab to host our code.
 
 ### Gitflow
 
 We are using a custom Gitflow.
 
-- master: deployed version
+#### Perennial branches
+
+- master: deployed versions
 - develop: clean development version, for testing and beta release
-- stage: merged from `develop` for testing
-
-- feature/SEL-12-awesome-feature
-- hotfix/SEL-13-awesome-hotfix (fixing something in master)
-- bugfix/SEL-14-awesome-bugfix(fixing)
-Naming in Jira
-
-- PR: SEL-123 {Ticket description}
-- Branch: feature,hotfix,bugfix/SEL-123-{Ticket-description}
-- Commit: SEL-123 {Ticket description} or SEL-123 {Commit description}
+- stage: merged from `develop` for testing (not on Android)
 
 ### Guidelines
 
@@ -1030,17 +1054,29 @@ Naming in Jira
 - All feature/hotfix branches must be merged into the release branch via pull requests during the sprint
 - Commit & push approx. all 3 hours
 - Create pull request for every issue before you move to "Code Review" and assign the reviewer in GitHub
-- On "go live": Lead merges to master, creates a tag and adds release notes from Jira, PM:
+- On "go live": Project lead merges to master, creates a tag and adds release notes from Jira
 
 ### Naming
 
 For Jira and Toggl to auto import the code changes, we need to follow some naming conventions.
 
-- Pull request: SEL-123 {Ticket description}
-- Branch: feature,hotfix,bugfix/SEL-123-{ticket-description}
-- Commit: SEL-123 {ticket description} or SEL-123 {commit description}
+- Pull request: 
+	- _github_: SEL-123 {Ticket description}
+	- _gitlab_: #123 Ticket description 
+		- reference the ticket in the description as well, e.g. "See #123" to have an easy to use backlink to the original ticket so that the reviewers can check the ticket contents and can enable time tracking on that ticket. 
+		- **Remove the default "Closes #123" as it will close the ticket right after merging which is NOT what we want**
+- Branch: 
+	- Use `-` for whitespaces in the branch name (just as gitlab does when it auto-creates the branch for you), don't use `_`
+	- _github_: feature,hotfix,bugfix/SEL-123-{ticket-description}, e.g.
+		- feature/SEL-12-awesome-feature
+		- hotfix/SEL-13-awesome-hotfix (fixing something in master)
+		- bugfix/SEL-14-awesome-bugfix (fixing)
+	- _gitlab_: 123-{ticket-description} (best create the branch directly from the ticket via the web UI and then check it out locally)
+- Commit: 
+	- _github_: SEL-123 {commit description}
+	- _gitlab_: #123 {commit description}
 
-`ticket-description` does not have to be the same as `Summary` in Jira. You can rephrase it as long as the meaning does not get lost.
+`ticket-description` in branch names does not have to be the same as `Summary` in Jira/gitlab as there can be multiple branches per ticket. You can rephrase it as long as the meaning does not get lost.
 
 ### Code Review
 
@@ -1050,9 +1086,10 @@ Only use GitHub comments for the initial and short discussions. More extended di
 
 When we add new libraries which have not been pre-approved via the library list, please include one of the following developers as a reviewer and describe why you used that particular library (and what possible pitfalls it has) in the PR description.
 
-iOS: Ronan, Tal
+#### Mandatory reviewers
+iOS: Tal
 
-Android: Miłosz, André, Sven
+Android: the project lead
 
 Web: Arni
 
