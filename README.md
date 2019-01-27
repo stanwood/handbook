@@ -1597,13 +1597,17 @@ All accounts (except GitHub) must be the @stanwood.de email.
 ### 1. E-mail
 https://admin.google.com/stanwood.de/AdminHome
 
-Sent a password to private email of the user.
+Lead sends a password to private email of the user and asks new employee to change PW right after logging in.
+
+All following invites (if not mentioned otherwise) go to that new Email address.
 
 ### 2. Slack
 https://stanwood.slack.com/admin
 
 1. Add user
 2. Add user to group
+
+The new handle will only be usable after registration.
 
 ### 3. Github and Gitlab
 Add private GitHub handle to teams
@@ -1633,42 +1637,38 @@ https://stanwood.1password.com
 
 https://app.zeplin.io/organization/dashboard.html#oid=58a2f20e6d53d90f4bfd9fee
 
-### 8. Invision
-
-https://projects.invisionapp.com
-
-### 9. Holiday Calendar
+### 8. Holiday Calendar
 
 https://calendar.google.com/calendar/b/1/render#
 
-### 10. Applause
+### 9. Applause
 
 https://platform.applause.com/account/usermgmt/teammgmt
 
-### 13. Add birthday and anniversary to Hannes Calendar and Spreadsheet
+### 10. Add birthday and anniversary to Hannes Calendar and Spreadsheet
 
 https://docs.google.com/spreadsheets/d/1Te6wxnS8Bu_WSHf4Eio567Uk4_kmA8hduZL9HUK6ksc/edit#gid=0
 
-### 14. MyTaxi
+### 11. MyTaxi
 
 https://de.mytaxi.com/login.html?target=corporate
 
-### 15. Trello
+### 12. Trello
 
 https://trello.com/stanwood3/members
 
-### 16. Zohoo (Employees only)
+### 13. Zohoo (Employees only)
 
 https://expense.zoho.com/app#/usersmanagement/users
 
-### 16. TODO: Setup Jira/gitlab + Toggle Sync:
+### 14. TODO for new employee: Setup Jira/gitlab + Toggle Sync:
 Install and configure our own Toggl Chrome extension fork: https://gitlab.com/stanwood/internal/tools/toggl-sync/wikis/home
 
 New devs: Enable Toggl + Jira Sync, please: https://toggl-jira-sync.appspot.com/login (still needed with the aforementioned?)
 
-### 17. After they accepted everything:
+### 15. After they accepted everything:
 
-Add them to the project and general slack channels
+Add them to the project and general slack channels.
 Welcome them in #general
 
 ## Continuous Performance Management
