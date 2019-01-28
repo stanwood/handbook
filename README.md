@@ -287,7 +287,7 @@ Make sure to update the TOC after you added or edited headlines. https://ecotrus
 # Strategy
 ## Mission
 
-We are here to build excellent technology the most fun way.
+stanwood exists to build excellent technology in a fun and relaxed way.
 
 We want to build the largest distributed digital agency in the world to bring the joys of remote work to more developers.
 
