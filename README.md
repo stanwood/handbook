@@ -285,6 +285,7 @@ https://gitlab.com/stanwood/handbook/blob/master/mission.md#L5.
 Make sure to update the TOC after you added or edited headlines. https://ecotrust-canada.github.io/markdown-toc/
 
 # Strategy
+
 ## Mission
 
 stanwood exists to build excellent technology in a fun and relaxed way.
@@ -295,7 +296,7 @@ To achieve that, we need happy clients.
 
 Clients are happy when we deliver excellent products in time and budget and give the clients a sense that we are on top of things at all times.
 
-## Values
+## Professional conduct
 
 ### I. Enthusiasm & fun personality
 
@@ -339,7 +340,9 @@ We write clean code. That includes
 - Short functions - should be visible on the screen
 - Clear and understandable naming
 
-### V. Transparency and openness
+## Values
+
+### I. Transparency and openness
 
 We believe that transparency in itself is a virtue. The more we act in the open, the less likely we are to fall victim to internal politics or mistrust.
 
@@ -1037,6 +1040,18 @@ Discussions on issues belong in the comments in the issue. If we discuss somethi
 ### Background
 
 We use Github/gitlab to host our code.
+
+### Gitlab Structure
+
+Although gitlab is currently only under consideration we use the following structure of groups
+
+/handbook (the handbook)
+
+/internal (internal documents)
+
+/open-source/`{project key}` (open source proejcts)
+
+/apps/`{client key}`/`{project key}` (client projects)
 
 ### Gitflow
 
