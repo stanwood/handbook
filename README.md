@@ -539,6 +539,13 @@ We do not discriminate for your choice of location of our team members. We pay t
 - 12 presentations at conventions @hanneskl
 - Meet 10 remote MDs @hanneskl
 
+### 4. Calm our operations
+
+- Devs answer "How stressful do you feel your job is?" "Sometimes" on average
+(Never, Almost never, Sometimes, Often, All the time)
+- Reduce the number of projects per dev per week by 50% - as measured by Gini coefficient
+- Reduce the number of toggl tasks / hour by 50%
+
 ## Teams [WIP]
 
 ### PM Goals [WIP]
