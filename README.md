@@ -26,6 +26,7 @@
     + [1. Grow](#1-grow)
     + [2. Delight clients](#2-delight-clients)
     + [3. Become the autority on digital business and remote work](#3-become-the-autority-on-digital-business-and-remote-work)
+    + [4. Calm our operations](#4-calm-our-operations)
   * [Teams [WIP]](#teams--wip-)
     + [PM Goals [WIP]](#pm-goals--wip-)
       - [GOAL 1: Improve expectation management and keep client close](#goal-1--improve-expectation-management-and-keep-client-close)
@@ -543,7 +544,6 @@ We do not discriminate for your choice of location of our team members. We pay t
 
 - Devs answer "How stressful do you feel your job is?" "Sometimes" on average
 (Never, Almost never, Sometimes, Often, All the time)
-- Reduce the number of projects per dev per week by 50% - as measured by Gini coefficient
 - Reduce the number of toggl tasks / hour by 50%
 
 ## Teams [WIP]
