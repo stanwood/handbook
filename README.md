@@ -531,7 +531,7 @@ We do not discriminate for your choice of location of our team members. We pay t
 - Customer satisfaction 90% @pms
 - Sprint goals hit 90% @dev_teams
 - Major release budgets hit 90% @pms
-- Production and client bugs < 5% of total tickets @qa
+- Production and client bugs < 1% of total tickets @qa
 
 ### 3. Become the autority on digital business and remote work
 
