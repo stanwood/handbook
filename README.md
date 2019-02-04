@@ -535,10 +535,9 @@ We do not discriminate for your choice of location of our team members. We pay t
 
 ### 3. Become the autority on digital business and remote work
 
-- 200 mini articles @karinkleist
-- 1000 social followers @karinkleist
+- 200 social posts @karinkleist
+- 10,000 social followers @karinkleist
 - 12 presentations at conventions @hanneskl
-- Meet 10 remote MDs @hanneskl
 
 ### 4. Calm our operations
 
