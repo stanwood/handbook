@@ -2065,10 +2065,35 @@ Book non-ticket project work on one of the Tasks in Toggl:
 
 - Client communication
 - Internal communication
+- Estimation
 - Ticket review
+- Test agency
 - QA
 - Testing
 - Deploying
+
+On invoices they get mapped to
+
+1. Added pro rata to tickets
+    - Internal communication
+    - QA
+    - Testing
+
+2. Consulting
+    - Client communication
+
+3. Concepting
+    - Estimation
+
+4. Project management    
+    - Ticket review
+
+5. Review test agency
+    - Test agency
+
+6. Deployment
+    - Deploying
+    - Service Desk
 
 Book non-project work on project Travel & Admin. Try to book as much project hours as possible.
 
