@@ -777,15 +777,16 @@ Order of priorities:
 
 ### 1. Client Communication
 
-- Keep client informed about progress and blockers 3x per week.
-- Send one personal mail
+- Keep client informed about progress, spent budget and blockers 3x per week.
+- Send at least one personal mail a week
 - React within 15 minutes to calls.*
-- React within 4 hours to emails*
-- Create tickets to all issues raised within one day.*
+- React within 1 hour to emails, but aim to be faster.* A short "we are on it, I will get back to you" is ok, but aim for client satisfaction.
+- Create tickets to all issues raised within one day.* 
+- For client raised tickets, add the label `client_reported_bug` to any bug, that the clients caught (on stage or production) or bugs we find on production.
 
-* During business hours.
+ `* During business hours.
 
-### 2. Jira Hygiene
+### 2. Jira/gitlab Hygiene
 
 Once a day: 
 
@@ -795,21 +796,22 @@ Once a day:
 - Ensure:
 - tickets are well described
 - documentation regarding that ticket is up to date
-- everything discussed in Slack is synced back to Jira
+- everything discussed in Slack is synced back to Jira/gitlab
 
 ### 3. Internal communication
 
+1. Offer a PM office hour for all devs 2x a day: 10am, 4pm in stanwood.appear.in/yourname. Post that to slack.
+1. all project questions should get cleared in this call: minimize project chatter outside these hours. Exeptions: a) Friday for building and submitting (everything goes), b) emergencies
 1. Keep your lead and all devs up to date of milestones, next milestones, of the pressing issues, blockers and goals 3x per week.
-2. Send an update post for all your projects in slack channel #done friday until 12:00. Keep the post numbered and think about it as a logbook.
+2. Send an update post for all your projects in slack channel #done friday noon until 12:00am. Keep the post numbered and think about it as a logbook.
 3. for every project, include status, blockers, next milestones
 4. is there a sprint in the following week, also include when the *sprint planning call* has been and who attended the planning call(s) (client, dev-teams, qa)
 
 ### 4. Sprint planning call
 
-At least every Thursday before the sprint: Grab the client and your team (including QA) and fill the backlog of the team according to the sprint planing spreadsheet. 
-Make sure all tickets are well described before the sprint starts.
-All Devs should be able to work on it without further questions.
-Include acceptance criteria for QA.
+1. At least every Thursday before the sprint: Grab the client and your team (including QA) and fill the backlog of the team according to the sprint planing spreadsheet. Separate calls with client if it makes no sense to have a big round with all devs.
+1. Make sure all tickets are well described before the sprint starts. All Devs should be able to work on it without further questions.
+1. After ticket creation: Tickets go to QA to add acceptance criteria, then to estimation to Dev.
 
 ### 5. Keep documentation and Zeplin up to date
 
@@ -927,7 +929,6 @@ Example: 1.1.2 Onboarding - Welcome Screen - Disabled
 
 ### Logging E-Mail conversations
 
-*DO NOT* connect your Gmail to hubspot
 
 1. Make sure you have hubspot sales access (free is ok)
 2. Add your sending addresses to your email aliases under `Profile & Preferences` in Hubspot
@@ -936,9 +937,8 @@ Example: 1.1.2 Onboarding - Welcome Screen - Disabled
 Activate `Log` and `Track` in the compose-view when **sending** Mails. If it's a known contact with GDPR consent, Hubspot will add the log to the contact.
 If have no Chrome, use `4628060@bcc.hubspot.com`
 5. *Receiving client communication:*
-If the client did not cc is to our sales address, the mail will not get logged.
+If the client did not cc is to our sales address, the mail will not get logged. (WIP for autotracking with inbox connection)
 Forward the mail **before** replying to `4628060@forward.hubspot.com`
-6. If a client does not accept our GDPR terms, add him/her to `Never log` in hubspot [CRM settings](https://app.hubspot.com/sales-products-settings/4628060/bcc)
 
 ## Jira
 
