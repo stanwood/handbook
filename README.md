@@ -1415,6 +1415,15 @@ Non-ticket todos
 
 ## API Guidelines
 
+### Permissions & Setup
+
+*IMPORTANT*: Only the backend team is allowed to create firebase, contentful or GAE instances.
+
+They do that via a script that ensures all our policies are enforce.
+
+If individuals set up those instances, they forget imortant security or permissions policies
+and endangering our operations or even clients data.
+
 ### Background
 
 The decision for an API can have tremendous implications for the overall effort (and pain) of developing frontend. We have seen projects exploding 10x because of APIs we had no control over.
