@@ -760,7 +760,6 @@ As Senior developers, you have significant experience in software development, k
 ### Design and implement new features
 As a senior developer, you do most of the heavy lifting during development.
 
-Push back on features that add complexity
 Push back on features that add complexity to the project lead. We are not here to solve every client feature request but look for the quickest, and safest solution that supports the code base.
 
 Ongoing bug fixes, and maintenance
@@ -777,14 +776,23 @@ Order of priorities:
 
 ### 1. Client Communication
 
+#### keep the client close
 - Keep client informed about progress, spent budget and blockers 3x per week.
 - Send at least one personal mail a week
-- React within 15 minutes to calls.*
-- React within 1 hour to emails, but aim to be faster.* A short "we are on it, I will get back to you" is ok, but aim for client satisfaction.
+- React on average within 15 minutes to calls.*
+- React on average within 2 hours to emails, but always aim to be faster.* A short "we are on it, I will get back to you" is ok, but aim for client satisfaction.
+- 100% answering of all client requests in 1 workday.
+- use hubspot to log all client communication (gmail connection or extension with bcc)
 - Create tickets to all issues raised within one day.* 
 - For client raised tickets, add the label `client_reported_bug` to any bug, that the clients caught (on stage or production) or bugs we find on production.
 
  `* During business hours.
+
+#### get to know the client satisfaction and improve
+For all A-Level sprints:
+- update all hubspot client properties for satisfaction once a week:
+- update the CSAT Rating (subjective)
+- after each major release, ask the client to rate us with the NPS score (form)
 
 ### 2. Jira/gitlab Hygiene
 
@@ -807,17 +815,33 @@ Once a day:
 3. for every project, include status, blockers, next milestones
 4. is there a sprint in the following week, also include when the *sprint planning call* has been and who attended the planning call(s) (client, dev-teams, qa)
 
-### 4. Sprint planning call
+### 4. Sprint steering
 
 1. At least every Thursday before the sprint: Grab the client and your team (including QA) and fill the backlog of the team according to the sprint planing spreadsheet. Separate calls with client if it makes no sense to have a big round with all devs.
 1. Make sure all tickets are well described before the sprint starts. All Devs should be able to work on it without further questions.
 1. After ticket creation: Tickets go to QA to add acceptance criteria, then to estimation to Dev.
+1. Wednesday: check the burndown of the sprint: should be more than 50%
+1. make sure the sprint burndown reaches 100% at Thursday, 23:59 CET
+
+### 5. Make sure we hit 50% project profitability
+
+1. weekly update and control the budget with all toggl logged hours
+2. alarm your lead if your projects wents lower than 50% profitability rate (check the PM dashboard)
+3. push back unreasonable features
+4. Do not start before:
+    Offer send & client signed budget
+    Designs and Specifications
+    Mock API from us
+    Kick off with team & client
+
+
+
 
 ### 5. Keep documentation and Zeplin up to date
 
 ### 6. Upselling
 
-Suggest features and improvements to clients.
+Suggest features and improvements to clients. Don't sell unneccesary stuff: Offer and delight. We are inbound, not outbound.
 
 
 # Tools
@@ -929,14 +953,15 @@ Example: 1.1.2 Onboarding - Welcome Screen - Disabled
 
 ### Logging E-Mail conversations
 
-
 1. Make sure you have hubspot sales access (free is ok)
 2. Add your sending addresses to your email aliases under `Profile & Preferences` in Hubspot
 3. Install the [hubspot sales extension](https://chrome.google.com/webstore/detail/hubspot-sales/oiiaigjnkhngdbnoookogelabohpglmd?hl=en&hsCtaTracking=650e1a05-dcfb-4d71-905f-c45130741113%7Ca5a89f8f-84cf-4783-bfac-0fc86cdc4789&__hssc=20629287.2.1546784988350&__hstc=20629287.18bf70c1f9f3c6ad0c95a8381712ec66.1528271662874.1546781634695.1546784988350.33&__hsfp=1062686129). 
-4. *Sending:*
+4. connect your gmail to hubspot
+or:
+5. *Sending:*
 Activate `Log` and `Track` in the compose-view when **sending** Mails. If it's a known contact with GDPR consent, Hubspot will add the log to the contact.
 If have no Chrome, use `4628060@bcc.hubspot.com`
-5. *Receiving client communication:*
+6. *Receiving client communication:*
 If the client did not cc is to our sales address, the mail will not get logged. (WIP for autotracking with inbox connection)
 Forward the mail **before** replying to `4628060@forward.hubspot.com`
 
