@@ -1049,7 +1049,7 @@ Although gitlab is currently only under consideration we use the following struc
 
 /internal (internal documents)
 
-/open-source/`{project key}` (open source proejcts)
+/open-source/`{project key}` (open source projects)
 
 /apps/`{client key}`/`{project key}` (client projects)
 
