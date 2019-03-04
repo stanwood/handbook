@@ -1653,7 +1653,7 @@ Fee: 40 €/h x 8 h/d x 220 d/y = 70,400 €
 
 New employees need these accounts.
 
-All accounts (except GitHub and Gitlab) must be the @stanwood.de email.
+All accounts (except GitHub and Gitlab) must be the @stanwood.io email.
 
 ### 0. TODO new employee
 Ask them to read this handbook thoroughly!
