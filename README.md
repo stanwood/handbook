@@ -2076,7 +2076,15 @@ However, if you bring your laptop and work while on transit, please usually book
 
 ### Masterclasses
 
-Please book the time for participating and preparing for Masterclasses on "Internal Workshops".
+Please book the time for participating and preparing for Masterclasses on "_Internal Workshops_".
+
+### Marketing / Content
+
+Marketing, writing articles and posts or work on our own website are tracked on "_content_"
+
+### Onboarding
+
+If you are a wookie in your first onboarding-weeks, you can book onboarding time on "_onboarding_".
 
 ### Sales
 
