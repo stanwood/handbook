@@ -813,7 +813,10 @@ Once a day:
 1. Keep your lead and all devs up to date of milestones, next milestones, of the pressing issues, blockers and goals 3x per week.
 2. Send an update post for all your projects in slack channel #done friday noon until 12:00am. Keep the post numbered and think about it as a logbook.
 3. for every project, include status, blockers, next milestones
-4. is there a sprint in the following week, also include when the *sprint planning call* has been and who attended the planning call(s) (client, dev-teams, qa)
+4. is there a sprint in the following week, also include 
+ 1.    if the *sprint planning call* took place, 
+ 2.    how many hours are in the backlog for that sprint 
+ 3.    and which teams attended the planning call(s) (client, dev-teams, qa).
 
 ### 4. Sprint steering
 
@@ -826,13 +829,13 @@ Once a day:
 ### 5. Make sure we hit 50% project profitability
 
 1. weekly update and control the budget with all toggl logged hours
-2. alarm your lead if your projects wents lower than 50% profitability rate (check the PM dashboard)
+2. alarm your lead and team if your projects wents lower than 50% profitability rate (check the PM dashboard), and if non-coding work gets higher than 40%.
 3. push back unreasonable features
 4. Do not start before:
-    Offer send & client signed budget
-    Designs and Specifications
-    Mock API from us
-    Kick off with team & client
+ 1.    Offer send & client signed budget
+ 2.    Designs and Specifications
+ 3.    Mock API from us
+ 4.    Kick off with team & client
 
 
 
