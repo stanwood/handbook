@@ -814,9 +814,9 @@ Once a day:
 2. Send an update post for all your projects in slack channel #done friday noon until 12:00am. Keep the post numbered and think about it as a logbook.
 3. for every project, include status, blockers, next milestones
 4. is there a sprint in the following week, also include 
- 1.    if the *sprint planning call* took place, 
- 2.    how many hours are in the backlog for that sprint 
- 3.    and which teams attended the planning call(s) (client, dev-teams, qa).
+    1. if the *sprint planning call* took place, 
+    2. how many hours are in the backlog for that sprint 
+    3. and which teams attended the planning call(s) (client, dev-teams, qa).
 
 ### 4. Sprint steering
 
@@ -832,10 +832,10 @@ Once a day:
 2. alarm your lead and team if your projects wents lower than 50% profitability rate (check the PM dashboard), and if non-coding work gets higher than 40%.
 3. push back unreasonable features
 4. Do not start before:
- 1.    Offer send & client signed budget
- 2.    Designs and Specifications
- 3.    Mock API from us
- 4.    Kick off with team & client
+    1.    Offer send & client signed budget
+    2.    Designs and Specifications
+    3.    Mock API from us
+    4.    Kick off with team & client
 
 
 
