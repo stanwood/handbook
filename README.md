@@ -1649,6 +1649,16 @@ Benefits: 40 €/h x 8 h/d x 220 d/y x 20% = 14,080 €
 
 Fee: 40 €/h x 8 h/d x 220 d/y = 70,400 €
 
+### Perks
+
+One of our goals is to reduce stress level and help ourselfes with mental health issues.
+
+For us a mental health issue is just a health issue as a broken arm or a cold - although tougher to heal from.
+
+Towards that end do we offer every team member and alumni a free subscription to the meditation & mindfullness app Headspace.
+
+https://work.headspace.com/fooxessoftwareentwicklungsgmbh/join
+
 ## Onboarding
 
 New employees need these accounts.
