@@ -1669,7 +1669,7 @@ https://work.headspace.com/fooxessoftwareentwicklungsgmbh/join
 
 New employees need these accounts.
 
-All accounts (except GitHub and Gitlab) must be the @stanwood.de email.
+All accounts (except GitHub and Gitlab) must be the @stanwood.io email.
 
 ### 0. TODO new employee
 Ask them to read this handbook thoroughly!
