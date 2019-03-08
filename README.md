@@ -26,6 +26,7 @@
     + [1. Grow](#1-grow)
     + [2. Delight clients](#2-delight-clients)
     + [3. Become the autority on digital business and remote work](#3-become-the-autority-on-digital-business-and-remote-work)
+    + [4. Calm our operations](#4-calm-our-operations)
   * [Teams [WIP]](#teams--wip-)
     + [PM Goals [WIP]](#pm-goals--wip-)
       - [GOAL 1: Improve expectation management and keep client close](#goal-1--improve-expectation-management-and-keep-client-close)
@@ -530,14 +531,19 @@ We do not discriminate for your choice of location of our team members. We pay t
 - Customer satisfaction 90% @pms
 - Sprint goals hit 90% @dev_teams
 - Major release budgets hit 90% @pms
-- Production and client bugs < 5% of total tickets @qa
+- Production and client bugs < 1% of total tickets @qa
 
 ### 3. Become the autority on digital business and remote work
 
-- 200 mini articles @karinkleist
-- 1000 social followers @karinkleist
+- 200 social posts @karinkleist
+- 10,000 social followers @karinkleist
 - 12 presentations at conventions @hanneskl
-- Meet 10 remote MDs @hanneskl
+
+### 4. Calm our operations
+
+- Devs answer "How stressful do you feel your job is?" "Sometimes" on average
+(Never, Almost never, Sometimes, Often, All the time)
+- Reduce the number of toggl tasks / hour by 50%
 
 ## Teams [WIP]
 
