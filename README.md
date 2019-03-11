@@ -1687,11 +1687,11 @@ Fee: 40 €/h x 8 h/d x 220 d/y = 70,400 €
 
 ## Onboarding
 
-New employees need these accounts.
+New employees (aka Wookies) need these accounts.
 
-All accounts (except GitHub and Gitlab) must be the @stanwood.de email.
+All accounts (except GitHub and Gitlab) must be the @stanwood.io email.
 
-### 0. TODO new employee
+### 0. TODO Wookie / new employee
 Ask them to read this handbook thoroughly!
 
 ### 1. E-mail
@@ -1710,9 +1710,12 @@ https://stanwood.slack.com/admin
 The new handle will only be usable after registration.
 
 ### 3. Github and Gitlab
-Add private GitHub handle to teams
+Add private GitHub.com and gitlab.com handle to teams if handle already exists.
 
 https://github.com/orgs/stanwood/teams
+
+**ToDo Wookie**
+If you have no account there, create new account and send your username to your lead
 
 ### 4. Toggl
 
@@ -1761,7 +1764,12 @@ https://trello.com/stanwood3/members
 
 https://expense.zoho.com/app#/usersmanagement/users
 
-### 14. TODO for new employee: Setup Jira/gitlab + Toggle Sync:
+### 14. Bitrise
+
+**ToDo Wookie**
+If you have no account there, create new account and send your username to your lead
+
+### 14. TODO for Wookie: Setup Jira/gitlab + Toggle Sync:
 Install and configure our own Toggl Chrome extension fork: https://gitlab.com/stanwood/internal/tools/toggl-sync/wikis/home
 
 New devs: Enable Toggl + Jira Sync, please: https://toggl-jira-sync.appspot.com/login (still needed with the aforementioned?)
