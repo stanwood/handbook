@@ -887,11 +887,12 @@ Official stuff. Only the MD posts here.
 #### #status
 
 Post "Good morning", "be-right-back", "back", "good night" + what are you going to do today.
+Post "off" when you are leaving.
 
 The first line of your post and the first emoji becomes your profile status message. Use it to communicate your availability to people who try to reach you.
 
 When leaving for vacation, please use this template:
-`:desert_island: on vacation till August 23rd.`
+`:desert_island: on vacation, back at August 23rd.`
 
 #### #random
 
@@ -912,17 +913,30 @@ Our very own police bot are be sent you reminders that require your actions from
 
 ### Guidelines
 
-When responding to todos in slack, open a thread, use "On it {time}" (i.e. "On it in 1h") and "Done"/:white_check_mark:
+**Responding**
+- when responding to todos in slack, open a thread, use "On it {time}" (i.e. "On it in 1h") and "Done"/:white_check_mark:
+- whenever possible, use meaningfull slack reactions instead of posting an reply (example: https://twitter.com/stanwood_apps/status/1094899597443518464)
+- add the handle of the person you are responding in the thread
+- one thread per question, don't mix up two questions in a thread without a clear differenciation (e.g. numbers)
 
-Project channels starting with "_". All real-time discussion belongs there. acknowledge
+**Naming**
+Project channels starting with "_". All real-time discussion belongs there.
+Jira, Zeplin, Github, Bitrise post to the project channel.
 
-Jira, Zeplin, Github, Bitrise post to the channel project channel.
-
+**Transparency**
 Please do not hold project talk in direct messages. We lose that information to the company. Use a public channel instead.
+We are transparent by default, example:
+- https://twitter.com/stanwood_apps/status/1098134836148084736
+- https://twitter.com/stanwood_apps/status/1095262491444166657
+
 
 When asking someone something, always use @username. Some developers are a member of dozens of channels and might miss your question.
 
-Always use threats.
+**Always use threads:**
+- start your thread with a *bold headline* in the main channel to keep the channel clean
+- first line: add short one-line summary
+- add the handles of people you need to react with a clear CTA (e.g. FYI, acknowledge, review etc.)
+Example: https://twitter.com/stanwood_apps/status/1094220876600492032 
 
 ### What to use slack for
 
@@ -963,12 +977,15 @@ Example: 1.1.2 Onboarding - Welcome Screen - Disabled
 or:
 5. *Sending:*
 Activate `Log` and `Track` in the compose-view when **sending** Mails. If it's a known contact with GDPR consent, Hubspot will add the log to the contact.
-If have no Chrome, use `4628060@bcc.hubspot.com`
+If you no not use chrome, use `4628060@bcc.hubspot.com`
 6. *Receiving client communication:*
-If the client did not cc is to our sales address, the mail will not get logged. (WIP for autotracking with inbox connection)
+If the client did not cc is to our sales address, the mail will not get logged.
 Forward the mail **before** replying to `4628060@forward.hubspot.com`
 
 ## Jira
+
+**Note:**
+We experiment with gitlab at the moment for a complete replacement for jira.
 
 ### Background
 We use Jira as our central tool for organising our development process around tickets.
