@@ -1992,7 +1992,7 @@ Our office manager books hotels in #office centrally for everyone. Invoices are 
 
 ### Flights
 
-Every team member books and pays their flights, train rides or car trips themselves. 
+Every team member books and pays their flights, train rides or car trips themselves in advance. 
 
 ### Dinners
 
@@ -2006,8 +2006,8 @@ As a general rule: You are a guardian of the company. We trust you to make the r
 
 - Economy class on first tier airlines (Lufthansa, BA, El-Al)
 - Direct flights outside business hours
-- Upgrade your seats to emergency exit row, if you are planing to work
-- Frequent travelers may book business class
+- Upgrade your seats to emergency exit row, if you are planning to work
+- Frequent travellers (30+ flights per year) may book business class
 
 **Trains**
 
@@ -2018,7 +2018,7 @@ As a general rule: You are a guardian of the company. We trust you to make the r
 
 - Motel One
 - London: Pullmann
-- Frequent travelers can book 25hours
+- Frequent travellers can book 25hours
 
 **Conference Rooms**
 
