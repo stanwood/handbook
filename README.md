@@ -556,7 +556,7 @@ We do not discriminate for your choice of location of our team members. We pay t
 1. How do you rate the client satisfaction? Customer Satisfaction Score (CSAT) 1-10
 
 Answers get recorded in the company property.
-1. Once a month, the client gets a short Mail with asking for *Net promoter score* survey.
+1. After each major release, the client gets a Mail with asking for *Net promoter score* survey and how he thinks that we did.
 
 #### GOAL 2: Increase Product Quality
 ##### How
