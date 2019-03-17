@@ -875,7 +875,7 @@ We use slack as our daily real-time communication tool for projects and our cent
 
 Add a full name, picture, phone number and email.
 
-Username: @firstname if taken @nickname
+Username: ``@firstname``, if taken ``@nickname``
 
 Same on every other platform that we use.
 
@@ -1716,6 +1716,9 @@ https://stanwood.slack.com/admin
 2. Add user to group
 
 The new handle will only be usable after registration.
+
+**ToDo Wookie**
+Choose username by following Guideline [guideline](#profile)
 
 ### 3. Github and Gitlab
 Add private GitHub.com and gitlab.com handle to teams if handle already exists.
