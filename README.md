@@ -902,6 +902,14 @@ GIFs, cat videos etc. to
 
 General programming talks and ask for help
 
+#### #project_management
+
+General project management and ask for help
+
+#### #done
+
+PMs post statusupdates for all their projects once a week. See [PM internal communication](#3-internal-communication) for guideline.
+
 #### Tackleberry
 
 Our very own police bot are be sent you reminders that require your actions from time to time.
