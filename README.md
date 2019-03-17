@@ -81,6 +81,8 @@
       - [#status](#-status)
       - [#random](#-random)
       - [#programming_X](#-programming-x)
+      - [#project_management](#-project_management)
+      - [#done](#-done)
       - [Tackleberry](#tackleberry)
     + [Guidelines](#guidelines-1)
     + [What to use slack for](#what-to-use-slack-for)
