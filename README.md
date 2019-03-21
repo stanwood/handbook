@@ -784,7 +784,7 @@ Order of priorities:
 - React on average within 15 minutes to calls.*
 - React on average within 2 hours to emails, but always aim to be faster.* A short "we are on it, I will get back to you" is ok, but aim for client satisfaction.
 - 100% answering of all client requests in 1 workday.
-- use hubspot to log all client communication (gmail connection or extension with bcc)
+- use hubspot to log all client communication (gmail connection or extension with bcc) [see](#hubspot-salescrm-wip)
 - Create tickets to all issues raised within one day.* 
 - For client raised tickets, add the label `client_reported_bug` to any bug, that the clients caught (on stage or production) or bugs we find on production.
 
