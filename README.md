@@ -2302,7 +2302,7 @@ Every lead is responsible for a cost centre.
 
     - Full name of the company or freelancer
     - Full address of the company or freelancer
-    - Full address of stanwood
+    - Full address of stanwood (take from website imprint)
     - Tax ID or VAT ID even if there is no tax applicable
     - Date of the invoice
     - The month of service provided (usually the prior month
