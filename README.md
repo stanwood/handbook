@@ -2315,7 +2315,7 @@ Every lead is responsible for a cost centre.
     - Gross sum (net + tax)
     - If reverse charge
         - add "No tax due to reverse-charge."
-        - add "stanwood VAT ID: DE 263524087".
+        - add "stanwood VAT ID: DE 321356612".
     - IBAN and BIC
 
     In Germany, you might be a "Kleinunternehmer". Check with your accountant and then add this to your invoice:
