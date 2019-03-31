@@ -545,45 +545,39 @@ We do not discriminate for your choice of location of our team members. We pay t
 
 ### PM Goals [WIP]
 
-#### GOAL 1: Improve expectation management and keep client close
+#### PM TEAM GOAL 1: Improve expectation management and keep client close
 ##### How:
 1. At least once a week: update the client about: *budget, blocker, progress*.
-1. Ask the clients how updated they feel (one NPS question/month, one subjective PM estimation per week)
+1. Ask the clients how updated they feel (one NPS survey per release, one subjective PM estimation per week)
 1. underpromise and overdeliver
 
 ##### Tools for Measurement [WIP]:
-1. All client communication goes through hubspot. If a client question gets not answered in 1 day, we will get an alert. (operationalization still to be discussed)
+1. Log all client communication in hubspot and connect your inbox. Respond to client mails ø 2h, 100% within 1 workday.
 2. For all active clients the PM gets a form from hubspot once a week to answer:
 1. Did you update the client about: budget, about blocker, about progress?
-1. How do you rate the client satisfaction? Customer Satisfaction Score (CSAT) 1-10
+1. How do you rate the client satisfaction? Customer Satisfaction Score (CSAT) 1-10. Goal: Score above 8
 
 Answers get recorded in the company property.
-1. After each major release, the client gets a Mail with asking for *Net promoter score* survey and how he thinks that we did.
+1. After each major release, the client gets a short mail with asking for *Net Promoter Score* survey. Goal Score above 8.
 
-#### GOAL 2: Increase Product Quality
+#### PM TEAM GOAL 2: Project Profitability above 50%
 ##### How
-1. session based crash-free rate above 99%
-2. 0% critical bug-tickets reported from the client for tickets with status "done", < 5% other bugs @qa
-3. 90% of tickets pass QA at the first attempt @dev_teams
-4. average app rating in stores is >4. Measured by % of 5 stars in that year.
+1. Weekly controlling with toggl timelogs and the burndown dashboard
+2. Push back unreasonable features (use the our Hubspot email templates therefore)
+3. Do not start before:
+    1. Offer send & client signed budget
+    2. Designs and Specifications
+    3. Mock API from us
+    4. Kick off with team & client
 
-##### Tools for Measurement [WIP]:
-1. firebase session crash rate
-2. client mails with bug reports, ticket created with a label (PM sets label) to be recognizable as client reportet
-3. qa ticket rejection rate
-4. gathered by App Annie rating
 
-#### GOAL 3: Burn down Backlog every sprint
+#### PM TEAM GOAL 3: Burn down Backlog every sprint
 
 ##### How:
-1. 100% burndown of all sprint tickets
-2. Average Time a ticket is in QA stays below 24h (during working days)
-3. We send a QA checklist with all we have QA'd to the client at Friday with the build
-
-##### Tools for Measurement [WIP]:
-1. milestone is with 100% at end of sprint
-2. report from gitlab
-3. to be checked if reported in client communication (hubspot conversation)
+1. Sprint kickoff call week before sprint stats
+2. Give daily PM office hours during a sprint
+3. Seering the sprint
+4. 100% burndown of all sprint tickets (Dashboard, gitlab milestone 100%)
 
 # Goals 2020 [WIP]
 
