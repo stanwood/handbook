@@ -1767,8 +1767,16 @@ https://de.mytaxi.com/login.html?target=corporate
 
 https://trello.com/stanwood3/members
 
-### 13. Zohoo (Employees only)
+### 13. Zoho
 
+Teamlead adds Wookie to zoho people.
+
+**ToDo Wookie**
+Update your info in
+https://people.zoho.com/stanwood/zp#selfservice/user/profile
+
+**Zoho Expense (Employees only)**
+Employees expense with zoho expense.
 https://expense.zoho.com/app#/usersmanagement/users
 
 ### 14. Bitrise
