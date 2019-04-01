@@ -274,9 +274,9 @@
 
 ## Background
 
-We are to be "transparent by default". We want to be equally transparent to potential clients and our team both current and future. As such this document is open-source.
+We aim to be"transparent by default". We want to be equally transparent to potential clients and our team - both current and future. Hence the open-source nature of this document.
 
-We also want to be an active part of the remote-work community and want to share what we learned with other startups to bring the wonders of distributed to the world.
+We also want to be an active part of the remote-work community and want to share what we've learned with other startups to bring the wonders of working as a distributed team to the world.
 
 ## Update the handbook
 
@@ -289,13 +289,13 @@ Make sure to update the TOC after you added or edited headlines. https://ecotrus
 
 ## Mission
 
-stanwood exists to build excellent technology in a fun and relaxed way.
+stanwood was created to build excellent technology in a fun and relaxed way.
 
 We want to build the largest distributed digital agency in the world to bring the joys of remote work to more developers.
 
 To achieve that, we need happy clients.
 
-Clients are happy when we deliver excellent products in time and budget and give the clients a sense that we are on top of things at all times.
+Clients are happy when we deliver excellent products on time and budget and give them the sense that we are on top of things at all times.
 
 ## Professional conduct
 
@@ -305,13 +305,13 @@ We are fun to work with (wink)
 
 We are outgoing, confident, charming, helpful and honest.
 
-We communicate openly and timely.
+We communicate openly and in a timely manner.
 
 We are not shy, hide in slack or keep grudges.
 
 ### II. Time-to-market focus
 
-We focus on shipping stuff to the client and his/her users.
+We focus on shipping stuff to our client and their users.
 
 We are super efficient.
 
@@ -347,40 +347,40 @@ We write clean code. That includes
 
 We believe that transparency in itself is a virtue. The more we act in the open, the less likely we are to fall victim to internal politics or mistrust.
 
-We also want to enable potential clients and team members to know, what they are facing.
+We also want to enable potential clients and team members to know what they are facing.
 
 #### Exceptions
 
-**Very private **
+**Very private**
 
-Some documents are not made public reside in the GDrive of the MD.
+Some documents are not made public and reside in the GDrive of the MD. These are:
 
 1. All data considered private under data protection regulations or other laws.
 2. Contracts with freelancers and employees.
 
 **Internal**
 
-Some documents are only available to team members and not the public. They reside in databases, GDrive, Debitoor or Github.
+Some documents are only available to team members and not the public. They reside in databases, GDrive, Debitoor, Github or GitLab. These being:
 
 1. Production client data - only accessible by admins.
 2. Client contracts and offers.
 3. Slack conversations - except direct messages or confidential discussions in #leads_private.
 4. Code and tickets on non-open-source projects
-5. Passwords and production keys (1password).
+5. Passwords and production keys (1Password).
 
 #### Openness and honesty
 
-We prefer a hard truth over mollycoddling. However, you can tell even a hard truth kindly.
+We prefer the hard truth over mollycoddling. However, you can tell even a hard truth kindly.
 
-We embrace numbers and data over gut feeling or single experiences.
+We embrace numbers and data over gut feelings or single experiences.
 
 However, we also know, that data is only a small part of the truth.
 
-We do not misuse numbers. We know, they are biased and need interpretation.
+We do not misuse numbers. We know they are biased and need interpretation.
 
 #### Failure
 
-Human beings have been wrong most of the time in their history.
+Human beings made mistakes in all of history.
 
 We try to fail often and fast.
 
@@ -392,19 +392,19 @@ We admit failures - even brag about them.
 
 stanwood is a (UK) English speaking company.
 
-Except for a very few English is not our first language and quite frankly, it could use a bit of work.
+Except for very few, English is not our first language and quite frankly, it could use a bit of work.
 
-All written and oral communication must be in English. Yes, even between to countrymen.
+All written and oral communication must be in English. Yes, even between countrymen.
 
-We try to avoid abbreviations and industry speak as much as possible to enable anyone reading our stuff to follow up.
-Only use jargon, if there is no equivalent in ordinary English.
-That also helps not coming across pompous ;-)
+We try to avoid abbreviations and industry speak as much as possible so that anyone can understand our wirting.
+Only use jargon, if there is no equivalent in everyday English.
+That also helps us not to come across as pompous ;-)
 
-We use UK English both written and spoken.
+We use UK English in both wirting and speaking.
 
 We refer to employees and freelancers as "team members" or "Woodies". New Woodies are called "Wookies".
 
-When talking about people we use the plural to avoid female or male pronouns, we try to use neutral terms where-ever possible. If not possible we alternate between female and male pronouns.
+When talking about people we use the plural to avoid female or male pronouns and we try to use neutral terms where-ever possible. If not possible we alternate between female and male pronouns.
 
 ### II. Hacker mindset
 
@@ -416,7 +416,7 @@ Reuse existing solutions.
 
 Do not reinvent the wheel.
 
-We work super efficient.
+We work super efficiently.
 
 We understand the 80/20-rule.
 
@@ -434,25 +434,25 @@ We always try to improve our processes and policies: They should help, not hampe
 
 We are open to new suggestions and improvements.
 
-We try out new things as soon as possible.
+We try out new things early and often.
 
 ### IV. Ownership
 
 We take personal responsibility for our products.
 
-If you find something broken, we make sure you fix it.
+If you find something that is broken, we make sure you fix it.
 
 If someone must do something, we pound them into action - repeatedly.
 
-We take personal responsibility of tasks.
+We take personal responsibility for our tasks.
 
 We never ignore an email or post when someone uses our handle.
 
-We acknowledge questions or tasks within 1h in slack or 24h in an email.
+We acknowledge questions or tasks within 1h in Slack or in 24h in an email.
 
 If we cannot complete it right away, we give an ETA.
 
-Should we not be able to hold that ETA, we inform the other with a new ETA asap.
+Should we not be able to hold that ETA, we inform the other with a new ETA as soon as possible.
 
 We test and iterate our output and our processes as often as possible.
 
@@ -464,7 +464,7 @@ Instead of complaining, we focus on what we can control.
 
 ### IV. Respect, Friendship and Support
 
-We are a family and talk friendly, respectfully and helpful.
+We are a family and talk friendly, respectfully and helpfully.
 
 The team is more important than the individual.
 
@@ -481,29 +481,19 @@ We support each other wherever we can.
 
 We don't let people go lightly.
 We review, feedback, mentor and give second chances.
-We help people we let go, to find a new job.
+We help people we let go to find a new job.
 
-Sexual harassment or discrimination, both active and by passive toleration is not.
+Sexual harassment or discrimination - neither active nor passive - is tolerated.
 
-We do not tolerate sexual harassment, discrimination based on
+We do not tolerate harassment or discrimination based on age, disability, race, nationality, religious belief or lack of religious belief, life expectancy, sex, sexual orientation, transgender status.
 
-- Age
-- Disability
-- Race
-- Nationality
-- Religious belief or lack of religious belief
-- Life expectancy
-- Sex
-- Sexual orientation
-- Transgender status
-
-We do not tolerate violent acts, threats or encouragement of violence, fighting, bullying, coercion or use of abusive or threatening words directed to, about or against a team member, client or third party, even in a joking manner. First-time violations of this value is a fireable offence.
+We do not tolerate violent acts, threats or encouragement of violence, fighting, bullying, coercion or use of abusive or threatening words, directed to, about or against a team member, client or third party, even in a joking manner. First-time violations of this value is a fireable offence.
 
 We kindly nudge each other should we, for instance, use the male form of a word by adding the eggplant emoji to the post.
 
 ### V. Working remotely
 
-We work where we can work best: near our families, at those places we choose to because we want, not because we must.
+We work where we can work best: near our families and at the places we choose, because we want to, not because we have to.
 
 We treat each other the same - despite our location.
 
@@ -512,9 +502,9 @@ When someone annoys us, we assume ignorance before bad intentions.
 
 Make an extra effort at communication.
 
-We want to be able whenever where-ever and how much we want. Towards that end, we build our processes around asynchronous work, document everything and try to avoid the need for real-time communication and collaboration.
+We want to be able to work whenever, whereever and how much we want. Towards that end we build our processes around asynchronous work, document everything and try to avoid the need for real-time communication and collaboration.
 
-We do not discriminate for your choice of location of our team members. We pay the same whether you live in London or Bangkok. However, that also means we do not pay for travel time.
+We do not discriminate based on the locations chosen by our team members. We pay the same whether you live in London or Bangkok. However, that also means, that we do not pay for travel time.
 
 # Goals
 
