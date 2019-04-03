@@ -1767,7 +1767,12 @@ https://de.mytaxi.com/login.html?target=corporate
 
 https://trello.com/stanwood3/members
 
-### 13. Zoho
+### 13. appear.in
+
+https://stanwood.appear.in/org/users
+
+
+### 14. Zoho
 
 Teamlead adds Wookie to zoho people.
 
@@ -1779,17 +1784,17 @@ https://people.zoho.com/stanwood/zp#selfservice/user/profile
 Employees expense with zoho expense.
 https://expense.zoho.com/app#/usersmanagement/users
 
-### 14. Bitrise
+### 15. Bitrise
 
 **ToDo Wookie**
 If you have no account there, create new account and send your username to your lead
 
-### 14. TODO for Wookie: Setup Jira/gitlab + Toggle Sync:
+### 16. TODO for Wookie: Setup Jira/gitlab + Toggle Sync:
 Install and configure our own Toggl Chrome extension fork: https://gitlab.com/stanwood/internal/tools/toggl-sync/wikis/home
 
 New devs: Enable Toggl + Jira Sync, please: https://toggl-jira-sync.appspot.com/login (still needed with the aforementioned?)
 
-### 15. After they accepted everything:
+### 17. After they accepted everything:
 
 Add them to the project and general slack channels.
 Welcome them in #general
