@@ -26,6 +26,7 @@
     + [1. Grow](#1-grow)
     + [2. Delight clients](#2-delight-clients)
     + [3. Become the autority on digital business and remote work](#3-become-the-autority-on-digital-business-and-remote-work)
+    + [4. Calm our operations](#4-calm-our-operations)
   * [Teams [WIP]](#teams--wip-)
     + [PM Goals [WIP]](#pm-goals--wip-)
       - [GOAL 1: Improve expectation management and keep client close](#goal-1--improve-expectation-management-and-keep-client-close)
@@ -275,9 +276,9 @@
 
 ## Background
 
-We are to be "transparent by default". We want to be equally transparent to potential clients and our team both current and future. As such this document is open-source.
+We aim to be"transparent by default". We want to be equally transparent to potential clients and our team - both current and future. Hence the open-source nature of this document.
 
-We also want to be an active part of the remote-work community and want to share what we learned with other startups to bring the wonders of distributed to the world.
+We also want to be an active part of the remote-work community and want to share what we've learned with other startups to bring the wonders of working as a distributed team to the world.
 
 ## Update the handbook
 
@@ -296,7 +297,7 @@ We want to build the largest distributed digital agency in the world to bring th
 
 To achieve that, we need happy clients.
 
-Clients are happy when we deliver excellent products in time and budget and give the clients a sense that we are on top of things at all times.
+Clients are happy when we deliver excellent products on time and budget and give them the sense that we are on top of things at all times.
 
 ## Professional conduct
 
@@ -306,13 +307,13 @@ We are fun to work with (wink)
 
 We are outgoing, confident, charming, helpful and honest.
 
-We communicate openly and timely.
+We communicate openly and in a timely manner.
 
 We are not shy, hide in slack or keep grudges.
 
 ### II. Time-to-market focus
 
-We focus on shipping stuff to the client and his/her users.
+We focus on shipping stuff to our client and their users.
 
 We are super efficient.
 
@@ -348,40 +349,40 @@ We write clean code. That includes
 
 We believe that transparency in itself is a virtue. The more we act in the open, the less likely we are to fall victim to internal politics or mistrust.
 
-We also want to enable potential clients and team members to know, what they are facing.
+We also want to enable potential clients and team members to know what they are facing.
 
 #### Exceptions
 
-**Very private **
+**Very private**
 
-Some documents are not made public reside in the GDrive of the MD.
+Some documents are not made public and reside in the GDrive of the MD. These are:
 
 1. All data considered private under data protection regulations or other laws.
 2. Contracts with freelancers and employees.
 
 **Internal**
 
-Some documents are only available to team members and not the public. They reside in databases, GDrive, Debitoor or Github.
+Some documents are only available to team members and not the public. They reside in databases, GDrive, Debitoor, Github or GitLab. These being:
 
 1. Production client data - only accessible by admins.
 2. Client contracts and offers.
 3. Slack conversations - except direct messages or confidential discussions in #leads_private.
 4. Code and tickets on non-open-source projects
-5. Passwords and production keys (1password).
+5. Passwords and production keys (1Password).
 
 #### Openness and honesty
 
-We prefer a hard truth over mollycoddling. However, you can tell even a hard truth kindly.
+We prefer the hard truth over mollycoddling. However, you can tell even a hard truth kindly.
 
-We embrace numbers and data over gut feeling or single experiences.
+We embrace numbers and data over gut feelings or single experiences.
 
 However, we also know, that data is only a small part of the truth.
 
-We do not misuse numbers. We know, they are biased and need interpretation.
+We do not misuse numbers. We know they are biased and need interpretation.
 
 #### Failure
 
-Human beings have been wrong most of the time in their history.
+Human beings made mistakes in all of history.
 
 We try to fail often and fast.
 
@@ -393,19 +394,19 @@ We admit failures - even brag about them.
 
 stanwood is a (UK) English speaking company.
 
-Except for a very few English is not our first language and quite frankly, it could use a bit of work.
+Except for very few, English is not our first language and quite frankly, it could use a bit of work.
 
-All written and oral communication must be in English. Yes, even between to countrymen.
+All written and oral communication must be in English. Yes, even between countrymen.
 
-We try to avoid abbreviations and industry speak as much as possible to enable anyone reading our stuff to follow up.
-Only use jargon, if there is no equivalent in ordinary English.
-That also helps not coming across pompous ;-)
+We try to avoid abbreviations and industry speak as much as possible so that anyone can understand our wirting.
+Only use jargon, if there is no equivalent in everyday English.
+That also helps us not to come across as pompous ;-)
 
-We use UK English both written and spoken.
+We use UK English in both wirting and speaking.
 
 We refer to employees and freelancers as "team members" or "Woodies". New Woodies are called "Wookies".
 
-When talking about people we use the plural to avoid female or male pronouns, we try to use neutral terms where-ever possible. If not possible we alternate between female and male pronouns.
+When talking about people we use the plural to avoid female or male pronouns and we try to use neutral terms where-ever possible. If not possible we alternate between female and male pronouns.
 
 ### II. Hacker mindset
 
@@ -417,7 +418,7 @@ Reuse existing solutions.
 
 Do not reinvent the wheel.
 
-We work super efficient.
+We work super efficiently.
 
 We understand the 80/20-rule.
 
@@ -435,25 +436,25 @@ We always try to improve our processes and policies: They should help, not hampe
 
 We are open to new suggestions and improvements.
 
-We try out new things as soon as possible.
+We try out new things early and often.
 
 ### IV. Ownership
 
 We take personal responsibility for our products.
 
-If you find something broken, we make sure you fix it.
+If you find something that is broken, we make sure you fix it.
 
 If someone must do something, we pound them into action - repeatedly.
 
-We take personal responsibility of tasks.
+We take personal responsibility for our tasks.
 
 We never ignore an email or post when someone uses our handle.
 
-We acknowledge questions or tasks within 1h in slack or 24h in an email.
+We acknowledge questions or tasks within 1h in Slack or in 24h in an email.
 
 If we cannot complete it right away, we give an ETA.
 
-Should we not be able to hold that ETA, we inform the other with a new ETA asap.
+Should we not be able to hold that ETA, we inform the other with a new ETA as soon as possible.
 
 We test and iterate our output and our processes as often as possible.
 
@@ -465,7 +466,7 @@ Instead of complaining, we focus on what we can control.
 
 ### IV. Respect, Friendship and Support
 
-We are a family and talk friendly, respectfully and helpful.
+We are a family and talk friendly, respectfully and helpfully.
 
 The team is more important than the individual.
 
@@ -482,29 +483,19 @@ We support each other wherever we can.
 
 We don't let people go lightly.
 We review, feedback, mentor and give second chances.
-We help people we let go, to find a new job.
+We help people we let go to find a new job.
 
-Sexual harassment or discrimination, both active and by passive toleration is not.
+Sexual harassment or discrimination - neither active nor passive - is tolerated.
 
-We do not tolerate sexual harassment, discrimination based on
+We do not tolerate harassment or discrimination based on age, disability, race, nationality, religious belief or lack of religious belief, life expectancy, sex, sexual orientation, transgender status.
 
-- Age
-- Disability
-- Race
-- Nationality
-- Religious belief or lack of religious belief
-- Life expectancy
-- Sex
-- Sexual orientation
-- Transgender status
-
-We do not tolerate violent acts, threats or encouragement of violence, fighting, bullying, coercion or use of abusive or threatening words directed to, about or against a team member, client or third party, even in a joking manner. First-time violations of this value is a fireable offence.
+We do not tolerate violent acts, threats or encouragement of violence, fighting, bullying, coercion or use of abusive or threatening words, directed to, about or against a team member, client or third party, even in a joking manner. First-time violations of this value is a fireable offence.
 
 We kindly nudge each other should we, for instance, use the male form of a word by adding the eggplant emoji to the post.
 
 ### V. Working remotely
 
-We work where we can work best: near our families, at those places we choose to because we want, not because we must.
+We work where we can work best: near our families and at the places we choose, because we want to, not because we have to.
 
 We treat each other the same - despite our location.
 
@@ -513,9 +504,9 @@ When someone annoys us, we assume ignorance before bad intentions.
 
 Make an extra effort at communication.
 
-We want to be able whenever where-ever and how much we want. Towards that end, we build our processes around asynchronous work, document everything and try to avoid the need for real-time communication and collaboration.
+We want to be able to work whenever, whereever and how much we want. Towards that end we build our processes around asynchronous work, document everything and try to avoid the need for real-time communication and collaboration.
 
-We do not discriminate for your choice of location of our team members. We pay the same whether you live in London or Bangkok. However, that also means we do not pay for travel time.
+We do not discriminate based on the locations chosen by our team members. We pay the same whether you live in London or Bangkok. However, that also means, that we do not pay for travel time.
 
 # Goals
 
@@ -532,30 +523,55 @@ We do not discriminate for your choice of location of our team members. We pay t
 - Customer satisfaction 90% @pms
 - Sprint goals hit 90% @dev_teams
 - Major release budgets hit 90% @pms
-- Production and client bugs < 5% of total tickets @qa
+- Production and client bugs < 1% of total tickets @qa
 
 ### 3. Become the autority on digital business and remote work
 
-- 200 mini articles @karinkleist
-- 1000 social followers @karinkleist
+- 200 social posts @karinkleist
+- 10,000 social followers @karinkleist
 - 12 presentations at conventions @hanneskl
-- Meet 10 remote MDs @hanneskl
+
+### 4. Calm our operations
+
+- Devs answer "How stressful do you feel your job is?" "Sometimes" on average
+(Never, Almost never, Sometimes, Often, All the time)
+- Reduce the number of toggl tasks / hour by 50%
 
 ## Teams
 
-### PM Goals
+### Web/iOS/Backend Goals
 
-#### Objective 1: Improve expectation management and keep client close
+#### GOAL 1: Profitability (All except QA, Sales)
 
-##### Key results:
+- Measurement 1: More than 40% team profit margin
 
-1. Respond to client mails ø 2h, 100% within 1 workday. Measured via hubspot stats. 
-Log all client communication in hubspot and connect your inbox.
-2. All active clients the PMs fill out a form from hubspot once a week to answer: 
-Did you update the client about: budget, about blocker, about progress?
-3. After each major release, the client gets a short mail with asking for *Net Promoter Score* survey. Goal Score above 8.
+- Measurement 2: More than 50% project profit margin
 
-##### Measures:
+#### GOAL 2: Reliability & Quality
+
+- Measurement 1: Less than 10% of tickets left in the backlog for a sprint on Saturday 02:00 (Post QA)
+
+- Measurement 2: Estimation accuracy: Less than +/- 10% on average per ticket (Devs)
+
+- Measurement 3: Less than 1% of all tickets are major production and client reported bugs (Non-API teams only)
+
+- Measurement 4: 99% error free responses (in Runscope on production) (API only)
+
+- Measurement 5: 100% monitoring coverage on production (API only)
+
+- Measurement 6: Less than 1% crash rate on production apps latest version (QA only)
+
+- Measurement 7: Less than 1% of all tickets from the last year are open bug tickets per project (QA only)
+ 
+#### GOAL 3: Ticket turnaround
+
+- Measurement 1: Working on > Code Review (tbd h)  (iOS only, android depending on numbers)
+
+- Measurement 2: Code Review > Done (tbd h)  (iOS only, android depending on numbers)
+ 
+- Measurement 3: 80% of tickets passing QA (iOS, Web, Android) (get numbers @hannes)
+
+### PM Goals [WIP]
 
 1. At least once a week: update the client about: *budget, blocker, progress*.
 2. Ask the clients how updated they feel (one NPS survey per release, one subjective PM estimation per week)
@@ -597,6 +613,7 @@ Did you update the client about: budget, about blocker, about progress?
 
 
 # Responsibilities
+
 ## General
 
 We need to have clear policies on
@@ -643,6 +660,37 @@ We are facing four opposing principles when it comes to permissions.
 
 
 # Roles
+
+## Leadership
+
+### Background on leadership
+
+When choosing managers we consider a bunch of criteria - based on quantitative research by universities and how successful startups select and develop managers.
+
+In particular, we are inspired by Google. Apart from being one of the most successful companies in the world, they are consistently ranked the best-place-to-work by her employees. Their mixture of employee empowerment, influences from the Montessori of Larry and Sergey and the reliance on the latest research and - of course - loads and loads of their own data truly matches our own values.
+
+### Leadership criteria 
+
+1. Empathy: Can the lead consider the perspective and situation of the other person.
+2. Humbleness: 90% of our decisions are wrong. Act the part!
+3. Ownership: A lead sees a problem and makes it her own until it's fixed. 
+4. Leadership: "Every success is due to the team, every failure is mine." and generally leading by example.
+5. Smarts: We just love people who are smarter than us. So much to learn...
+6. Consciences: Only the hard stuff is worth doing.
+7. Communication: Running a remote team is x10 as hard as in an office. Exceptional communication skills (verbally, written and non-verbally) are key.
+
+### Technical skills to become a leader
+
+We do not consider technical skills to be awfully important.
+
+We do not promote the best "screwdriver" to run team "screwdriver". Our leads are tasked with helping the Woodies to grow as a person, becoming an entrepreneur, an amazing team member and generally an awesome human being. They shall also make the team perform better and reduce stress. 
+
+We hire only the smartest, most dedicated and fun people* and want to empower them as much as possible.
+
+Promoting on tech skills alone will achieve exactly the opposite. With the best (i.e. Python) coder managing a team, the members would too often refer to the lead instead of making their own decisions. This inevitably leads to micromanagement and a hierarchical corporate structure.
+
+* Actually we want to turn the traditional hierarchy on its head. I wanna be the dumbest person. So we only hire people who are smarter or more experienced than the person who is hiring. If you doubt that, ask @paddy about the original ObjC code in ON AIR and Glamour.
+
 ## Team lead
 
 ### Philosophy
@@ -715,37 +763,35 @@ Project leads oversee the project development, are the direct contact for PM's a
 
 ### Responsibilities
 
-- Be the single contact for PM's
-- Review ticket description
-- Enforce stanwood architecture
-- Estimate new tickets
-- Delegate the work to their supporting team
-- Code review
-- Single contact for PM's
-- During the ongoing project development, you are the primary contact for PM's:
+#### Application Architecture
 
-- Keep them up to date with current feature development
-- Inform of over budget tickets
-- Discuss release dates
-- Communication is vital for the success of the project.
+- Propose alternative and simpler solutions, even if they do not meet 100% of requirements. Clients often accept such tradeoffs.
+- Ensure Stanwood architecture is used to reuse code and limit complexity
+- Code review to ensure code quality
 
-- Review ticket description
-- Create subtasks if needed
-- Reject features due to the complexity
-- Reject tickets that do not include all the information needed for implementation
-- Missing endpoints
-- Missing design
-- Bug tickets: missing Crashlytics link, steps to replicate, device information
-- Missing full description of requirements
-- Enforce stanwood architecture
-- Making sure to enforce the architecture on all projects.
+#### Project planning
 
-- Estimate new tickets
-- Break down tickets to subtasks if needed.
+- Make sure the ticket's description is sufficient to start development, for example:
+ - Check if designs are provided
+ - Check if Backend is available 
+ - In case of a bug, tickets check if there is sufficient data to start bug fixing like Crashlytics link, steps to replicate, info about the device
+- Check if tickets scope is not too large and break it down into sub tickets. A good rule of the thumb to ensure ticket estimate is not over 4h
+- Assign tickets to your peers to ensure optimal workload and highest chances to complete tasks on time
+- Review tickets estimations to make sure it is realistic. Not overinflated or too optimistic
+- Review and agree with PM scope of work and timelines, especially important milestones like app release. 
 
-- Delegate the work to their supporting team
+#### Project execution
 
-As part of being a project lead, you manage up to three active projects. You spend 30% of your time and delegate most of the tickets to the supporting developer.
+During project execution, you are a single point of contact for a PM for your platform. It means:
+
+- Proactively communicate project progress as required by PM.
+- As soon as you are aware of any new risks for project schedule, cost or quality inform PM and propose mitigation steps.
+
+#### Application Documentation
+
+- Make sure 1password has all used secrets and password for the project.
+- Update slack channels with necessary information
+- Maintain project readme
 
 ### Code review
 Making sure code review is done by stanwood best practice and follow the guidelines. PR/CR Guidelines
@@ -766,6 +812,7 @@ As Senior developers, you have significant experience in software development, k
 - Liaise with project leads on new deadlines and new features
 
 ### Design and implement new features
+
 As a senior developer, you do most of the heavy lifting during development.
 
 Push back on features that add complexity to the project lead. We are not here to solve every client feature request but look for the quickest, and safest solution that supports the code base.
@@ -776,6 +823,7 @@ Keep project documentation up to date
 Work alongside the project lead and update the documentation on a regular basis.
 
 ### Maintain and manage the existing code base
+
 Make sure we are not adding technical debt when maintaining the code base. Should there be a case where the current code base does not support ongoing development, involve the project-lead?
 
 ## Project managers
@@ -1116,7 +1164,7 @@ Although gitlab is currently only under consideration we use the following struc
 
 /internal (internal documents)
 
-/open-source/`{project key}` (open source proejcts)
+/open-source/`{project key}` (open source projects)
 
 /apps/`{client key}`/`{project key}` (client projects)
 
@@ -1482,6 +1530,15 @@ Non-ticket todos
 
 ## API Guidelines
 
+### Permissions & Setup
+
+*IMPORTANT*: Only the backend team is allowed to create firebase, contentful or GAE instances.
+
+They do that via a script that ensures all our policies are enforce.
+
+If individuals set up those instances, they forget imortant security or permissions policies
+and endangering our operations or even clients data.
+
 ### Background
 
 The decision for an API can have tremendous implications for the overall effort (and pain) of developing frontend. We have seen projects exploding 10x because of APIs we had no control over.
@@ -1706,6 +1763,16 @@ Benefits: 40 €/h x 8 h/d x 220 d/y x 20% = 14,080 €
 *Freelancer*
 
 Fee: 40 €/h x 8 h/d x 220 d/y = 70,400 €
+
+### Perks
+
+One of our goals is to reduce stress level and help ourselfes with mental health issues.
+
+For us a mental health issue is just a health issue as a broken arm or a cold - although tougher to heal from.
+
+Towards that end do we offer every team member and alumni a free subscription to the meditation & mindfullness app Headspace.
+
+https://work.headspace.com/fooxessoftwareentwicklungsgmbh/join
 
 ## Onboarding
 
