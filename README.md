@@ -82,6 +82,8 @@
       - [#status](#-status)
       - [#random](#-random)
       - [#programming_X](#-programming-x)
+      - [#project_management](#-project_management)
+      - [#done](#-done)
       - [Tackleberry](#tackleberry)
     + [Guidelines](#guidelines-1)
     + [What to use slack for](#what-to-use-slack-for)
@@ -535,7 +537,7 @@ We do not discriminate based on the locations chosen by our team members. We pay
 (Never, Almost never, Sometimes, Often, All the time)
 - Reduce the number of toggl tasks / hour by 50%
 
-## Teams [WIP]
+## Teams
 
 ### Web/iOS/Backend Goals
 
@@ -569,47 +571,53 @@ We do not discriminate based on the locations chosen by our team members. We pay
  
 - Measurement 3: 80% of tickets passing QA (iOS, Web, Android) (get numbers @hannes)
 
-### PM Goals [WIP]
+### PM Goals
 
-#### GOAL 1: Improve expectation management and keep client close
-##### How:
+#### Objective 1: Improve expectation management and keep client close
+
+##### Key results:
+
+1. Respond to client mails ø 2h, 100% within 1 workday. Measured via hubspot stats. 
+Log all client communication in hubspot and connect your inbox.
+2. All active clients the PMs fill out a form from hubspot once a week to answer: 
+Did you update the client about: budget, about blocker, about progress?
+3. After each major release, the client gets a short mail with asking for *Net Promoter Score* survey. Goal Score above 8.
+
+##### Measures:
+
 1. At least once a week: update the client about: *budget, blocker, progress*.
-1. Ask the clients how updated they feel (one NPS question/month, one subjective PM estimation per week)
-1. underpromise and overdeliver
+2. Ask the clients how updated they feel (one NPS survey per release, one subjective PM estimation per week)
+3. Underpromise and overdeliver
 
-##### Tools for Measurement [WIP]:
-1. All client communication goes through hubspot. If a client question gets not answered in 1 day, we will get an alert. (operationalization still to be discussed)
-2. For all active clients the PM gets a form from hubspot once a week to answer:
-1. Did you update the client about: budget, about blocker, about progress?
-1. How do you rate the client satisfaction? Customer Satisfaction Score (CSAT) 1-10
+#### Objective 2: Project profitability above 50%
 
-Answers get recorded in the company property.
-1. Once a month, the client gets a short Mail with asking for *Net promoter score* survey.
+##### Key Results
 
-#### GOAL 2: Increase Product Quality
-##### How
-1. session based crash-free rate above 99%
-2. 0% critical bug-tickets reported from the client for tickets with status "done", < 5% other bugs @qa
-3. 90% of tickets pass QA at the first attempt @dev_teams
-4. average app rating in stores is >4. Measured by % of 5 stars in that year.
+1. Project profitabilty above 50% as measured by Toggl in BigQuery and Data studio
 
-##### Tools for Measurement [WIP]:
-1. firebase session crash rate
-2. client mails with bug reports, ticket created with a label (PM sets label) to be recognizable as client reportet
-3. qa ticket rejection rate
-4. gathered by App Annie rating
+##### Measures
 
-#### GOAL 3: Burn down Backlog every sprint
+1. Weekly controlling with toggl timelogs and the burndown dashboard
+2. Push back unreasonable features (use the our Hubspot email templates therefore)
+3. Do not start before:
+    - Offer send & client signed budget
+    - Designs and Specifications
+    - Mock API from us
+    - Kick off with team & client
 
-##### How:
-1. 100% burndown of all sprint tickets
-2. Average Time a ticket is in QA stays below 24h (during working days)
-3. We send a QA checklist with all we have QA'd to the client at Friday with the build
 
-##### Tools for Measurement [WIP]:
-1. milestone is with 100% at end of sprint
-2. report from gitlab
-3. to be checked if reported in client communication (hubspot conversation)
+#### Objective 3: Deliver projects in time
+
+#### Key results:
+
+1. 100% burn down (See company goals)
+
+##### Measures
+
+1. Sprint kickoff call week before sprint stats
+2. Give daily PM office hours during a sprint
+3. Seering the sprint
+4. 100% burndown of all sprint tickets (Dashboard, gitlab milestone 100%)
 
 # Goals 2020 [WIP]
 
@@ -819,7 +827,6 @@ As Senior developers, you have significant experience in software development, k
 
 As a senior developer, you do most of the heavy lifting during development.
 
-Push back on features that add complexity
 Push back on features that add complexity to the project lead. We are not here to solve every client feature request but look for the quickest, and safest solution that supports the code base.
 
 Ongoing bug fixes, and maintenance
@@ -837,45 +844,77 @@ Order of priorities:
 
 ### 1. Client Communication
 
-- Keep client informed about progress and blockers 3x per week.
-- Send one personal mail
-- React within 15 minutes to calls.*
-- React within 4 hours to emails*
-- Create tickets to all issues raised within one day.*
+#### Keep the client close
+- Keep client informed about progress, spent budget and blockers 3x per week.
+- Send at least one personal mail a week.
+- React on average within 15 minutes to calls.*
+- React on average within 2 hours to emails, but always aim to be faster.* A short "we are on it, I will get back to you" is ok, but aim for client satisfaction.
+- React to all client requests in 1 workday.
+- Use hubspot to log all client communication (gmail connection or extension with bcc) [see](#hubspot-salescrm-wip)
+- Create tickets to all issues raised within one day.* 
+- For client raised tickets, add the label `client_reported_bug` to any bug, that the clients caught (on stage or production) or bugs we find on production.
 
-* During business hours.
+ * During business hours.
 
-### 2. Jira Hygiene
+#### Measure client satisfaction and improve
+
+For all A-Level sprints:
+
+- Update all hubspot client properties for satisfaction once a week:
+- Update the CSAT Rating (subjective)
+- After each major release, ask the client to rate us with the NPS score (form)
+
+### 2. Jira/gitlab Hygiene
 
 Once a day: 
 
-- zero the inbox
-- ping project leads to estimate - if ticket update > 24h
-- ping assignee - if ticket update > 1w
+- Zero the inbox
+- Ping the project leads to estimate if the ticket has not been updated within the last working day
+- Ping the assignee if if ticket has not been updated for more than 1 week.
 - Ensure:
-- tickets are well described
-- documentation regarding that ticket is up to date
-- everything discussed in Slack is synced back to Jira
+    - tickets are well described
+    - documentation regarding that ticket is up to date
+    - everything discussed in Slack is synced back to Jira/gitlab
 
 ### 3. Internal communication
 
-1. Keep your lead and all devs up to date of milestones, next milestones, of the pressing issues, blockers and goals 3x per week.
-2. Send an update post for all your projects in slack channel #done friday until 12:00. Keep the post numbered and think about it as a logbook.
-3. for every project, include status, blockers, next milestones
-4. is there a sprint in the following week, also include when the *sprint planning call* has been and who attended the planning call(s) (client, dev-teams, qa)
+1. Offer a PM office hour for all devs 2x a day: 10am, 4pm in stanwood.appear.in/yourname. Post that to slack.
+2. All project questions should get cleared in this call: minimize project chatter outside these hours. Exeptions: a) Friday for building and submitting (everything goes), b) emergencies
+3. Keep your lead and all devs up to date of milestones, next milestones, of the pressing issues, blockers and goals 3x per week.
+4. Send an update post for all your projects in slack channel #done friday noon until 12:00am. Keep the post numbered and think about it as a logbook.
+5. For every project include status, blockers, next milestones
+6. is there a sprint in the following week, also include 
+    - if the *sprint planning call* took place, 
+    - how many hours are in the backlog for that sprint 
+    - and which teams attended the planning call(s) (client, dev-teams, qa).
 
-### 4. Sprint planning call
+### 4. Sprint steering
 
-At least every Thursday before the sprint: Grab the client and your team (including QA) and fill the backlog of the team according to the sprint planing spreadsheet. 
-Make sure all tickets are well described before the sprint starts.
-All Devs should be able to work on it without further questions.
-Include acceptance criteria for QA.
+1. At least every Thursday before the sprint: Grab the client and your team (including QA) and fill the backlog of the team according to the sprint planing spreadsheet. Separate calls with client if it makes no sense to have a big round with all devs.
+2. Make sure all tickets are well described before the sprint starts. All Devs should be able to work on it without further questions.
+3. After ticket creation: Tickets go to QA to add acceptance criteria, then to estimation to Dev.
+4. Wednesday: Check the burndown of the sprint, should be more than 50%
+5. Make sure the sprint burndown reaches 100% at Thursday, 23:59 CET
+
+### 5. Make sure we hit 50% project profitability
+
+1. Check the budget with all toggl logged hours every week.
+2. Alarm your lead and team if your projects wents lower than 50% profitability rate (check the PM dashboard), and if non-coding work gets higher than 40%.
+3. Push back unreasonable and complex features. Alert Hannes, if you need firepower.
+4. Do not start before:
+    1.    Offer send & client signed budget
+    2.    Designs and Specifications
+    3.    Mock API from us
+    4.    Kick off with team & client
+
+
+
 
 ### 5. Keep documentation and Zeplin up to date
 
 ### 6. Upselling
 
-Suggest features and improvements to clients.
+Suggest features and improvements to clients. Don't sell unneccesary stuff: Offer and delight. We are inbound, not outbound.
 
 
 # Tools
@@ -906,7 +945,7 @@ We use slack as our daily real-time communication tool for projects and our cent
 
 Add a full name, picture, phone number and email.
 
-Username: @firstname if taken @nickname
+Username: ``@firstname``, if taken ``@nickname``
 
 Same on every other platform that we use.
 
@@ -918,11 +957,12 @@ Official stuff. Only the MD posts here.
 #### #status
 
 Post "Good morning", "be-right-back", "back", "good night" + what are you going to do today.
+Post "off" when you are leaving.
 
 The first line of your post and the first emoji becomes your profile status message. Use it to communicate your availability to people who try to reach you.
 
 When leaving for vacation, please use this template:
-`:desert_island: on vacation till August 23rd.`
+`:desert_island: on vacation, back at August 23rd.`
 
 #### #random
 
@@ -931,6 +971,14 @@ GIFs, cat videos etc. to
 #### #programming_X
 
 General programming talks and ask for help
+
+#### #project_management
+
+General project management and ask for help
+
+#### #done
+
+PMs post status updates for all their projects on Friday before 12:00 CET. See [PM internal communication](#3-internal-communication) for guideline.
 
 #### Tackleberry
 
@@ -943,17 +991,34 @@ Our very own police bot are be sent you reminders that require your actions from
 
 ### Guidelines
 
-When responding to todos in slack, open a thread, use "On it {time}" (i.e. "On it in 1h") and "Done"/:white_check_mark:
+**Responding**
 
-Project channels starting with "_". All real-time discussion belongs there. acknowledge
+- When responding to todos in slack, open a thread, use "On it {time}" (i.e. "On it in 1h") and "Done"/:white_check_mark:.
+- Whenever possible, use meaningfull slack reactions instead of posting an reply (example: https://twitter.com/stanwood_apps/status/1094899597443518464)
+- Add the handle of the person you are responding in the thread.
+- Ine thread per question, don't mix up two questions in a thread without a clear differenciation (e.g. numbers).
 
-Jira, Zeplin, Github, Bitrise post to the channel project channel.
+**Naming**
 
-Please do not hold project talk in direct messages. We lose that information to the company. Use a public channel instead.
+Project channels starting with "_". All real-time discussion belongs there.
+Jira, Zeplin, Github, Bitrise post to the project channel.
+
+**Transparency**
+
+Please do not do project talk in direct messages. We lose that information to the company. Use a public channel instead.
+We are transparent by default, example:
+- https://twitter.com/stanwood_apps/status/1098134836148084736
+- https://twitter.com/stanwood_apps/status/1095262491444166657
+
 
 When asking someone something, always use @username. Some developers are a member of dozens of channels and might miss your question.
 
-Always use threats.
+**Always use threads:**
+
+- start your thread with a *bold headline* in the main channel to keep the channel clean
+- first line: add short one-line summary
+- add the handles of people you need to react with a clear CTA (e.g. FYI, acknowledge, review etc.)
+Example: https://twitter.com/stanwood_apps/status/1094220876600492032 
 
 ### What to use slack for
 
@@ -987,20 +1052,22 @@ Example: 1.1.2 Onboarding - Welcome Screen - Disabled
 
 ### Logging E-Mail conversations
 
-*DO NOT* connect your Gmail to hubspot
-
 1. Make sure you have hubspot sales access (free is ok)
 2. Add your sending addresses to your email aliases under `Profile & Preferences` in Hubspot
 3. Install the [hubspot sales extension](https://chrome.google.com/webstore/detail/hubspot-sales/oiiaigjnkhngdbnoookogelabohpglmd?hl=en&hsCtaTracking=650e1a05-dcfb-4d71-905f-c45130741113%7Ca5a89f8f-84cf-4783-bfac-0fc86cdc4789&__hssc=20629287.2.1546784988350&__hstc=20629287.18bf70c1f9f3c6ad0c95a8381712ec66.1528271662874.1546781634695.1546784988350.33&__hsfp=1062686129). 
-4. *Sending:*
+4. connect your gmail to hubspot
+or:
+5. *Sending:*
 Activate `Log` and `Track` in the compose-view when **sending** Mails. If it's a known contact with GDPR consent, Hubspot will add the log to the contact.
-If have no Chrome, use `4628060@bcc.hubspot.com`
-5. *Receiving client communication:*
+If you no not use chrome, use `4628060@bcc.hubspot.com`
+6. *Receiving client communication:*
 If the client did not cc is to our sales address, the mail will not get logged.
 Forward the mail **before** replying to `4628060@forward.hubspot.com`
-6. If a client does not accept our GDPR terms, add him/her to `Never log` in hubspot [CRM settings](https://app.hubspot.com/sales-products-settings/4628060/bcc)
 
 ## Jira
+
+**Note:**
+We experiment with gitlab at the moment for a complete replacement for jira.
 
 ### Background
 We use Jira as our central tool for organising our development process around tickets.
@@ -1721,11 +1788,11 @@ https://work.headspace.com/fooxessoftwareentwicklungsgmbh/join
 
 ## Onboarding
 
-New employees need these accounts.
+New employees (aka Wookies) need these accounts.
 
 All accounts (except GitHub and Gitlab) must be the @stanwood.io email.
 
-### 0. TODO new employee
+### 0. TODO Wookie / new employee
 Ask them to read this handbook thoroughly!
 
 ### 1. E-mail
@@ -1743,10 +1810,16 @@ https://stanwood.slack.com/admin
 
 The new handle will only be usable after registration.
 
+**ToDo Wookie**
+Choose username by following Guideline [guideline](#profile)
+
 ### 3. Github and Gitlab
-Add private GitHub handle to teams
+Add private GitHub.com and gitlab.com handle to teams if handle already exists.
 
 https://github.com/orgs/stanwood/teams
+
+**ToDo Wookie**
+If you have no account there, create new account and send your username to your lead
 
 ### 4. Toggl
 
@@ -1791,16 +1864,34 @@ https://de.mytaxi.com/login.html?target=corporate
 
 https://trello.com/stanwood3/members
 
-### 13. Zohoo (Employees only)
+### 13. appear.in
 
+https://stanwood.appear.in/org/users
+
+
+### 14. Zoho
+
+Teamlead adds Wookie to zoho people.
+
+**ToDo Wookie**
+Update your info in
+https://people.zoho.com/stanwood/zp#selfservice/user/profile
+
+**Zoho Expense (Employees only)**
+Employees expense with zoho expense.
 https://expense.zoho.com/app#/usersmanagement/users
 
-### 14. TODO for new employee: Setup Jira/gitlab + Toggle Sync:
+### 15. Bitrise
+
+**ToDo Wookie**
+If you have no account there, create new account and send your username to your lead
+
+### 16. TODO for Wookie: Setup Jira/gitlab + Toggle Sync:
 Install and configure our own Toggl Chrome extension fork: https://gitlab.com/stanwood/internal/tools/toggl-sync/wikis/home
 
 New devs: Enable Toggl + Jira Sync, please: https://toggl-jira-sync.appspot.com/login (still needed with the aforementioned?)
 
-### 15. After they accepted everything:
+### 17. After they accepted everything:
 
 Add them to the project and general slack channels.
 Welcome them in #general
@@ -2026,7 +2117,7 @@ Our office manager books hotels in #office centrally for everyone. Invoices are 
 
 ### Flights
 
-Every team member books and pays their flights, train rides or car trips themselves. 
+Every team member books and pays their flights, train rides or car trips themselves in advance. 
 
 ### Dinners
 
@@ -2040,8 +2131,8 @@ As a general rule: You are a guardian of the company. We trust you to make the r
 
 - Economy class on first tier airlines (Lufthansa, BA, El-Al)
 - Direct flights outside business hours
-- Upgrade your seats to emergency exit row, if you are planing to work
-- Frequent travelers may book business class
+- Upgrade your seats to emergency exit row, if you are planning to work
+- Frequent travellers (30+ flights per year) may book business class
 
 **Trains**
 
@@ -2052,7 +2143,7 @@ As a general rule: You are a guardian of the company. We trust you to make the r
 
 - Motel One
 - London: Pullmann
-- Frequent travelers can book 25hours
+- Frequent travellers can book 25hours
 
 **Conference Rooms**
 
@@ -2078,11 +2169,11 @@ The seperate invoice if for accounting purposes. We book those invoices unto a d
 
 #### Employees
 
-Use the zohoo.com
+Use the expense.zoho.com
 
 1. Upload your receipts (only the ones **you** paid) and car travels
 2. Edit VAT, project, category and amounts
-3. Submit receipts for approval
+3. Create a "New Report", add all receipts and submit for approval
 4. The MD approves all travel expenses every Monday
 5. Employees gets the "Reimbursement Reports" via email
 6. Download the report and sent it to `invoice@stanwood.de`
@@ -2127,7 +2218,15 @@ However, if you bring your laptop and work while on transit, please usually book
 
 ### Masterclasses
 
-Please book the time for participating and preparing for Masterclasses on "Internal Workshops".
+Please book the time for participating and preparing for Masterclasses on "_Internal Workshops_".
+
+### Marketing / Content
+
+Marketing, writing articles and posts or work on our own website are tracked on "_content_"
+
+### Onboarding
+
+If you are a wookie in your first onboarding-weeks, you can book onboarding time on "_onboarding_".
 
 ### Sales
 
@@ -2307,7 +2406,7 @@ Every lead is responsible for a cost centre.
 
     - Full name of the company or freelancer
     - Full address of the company or freelancer
-    - Full address of stanwood
+    - Full address of stanwood (take from website imprint)
     - Tax ID or VAT ID even if there is no tax applicable
     - Date of the invoice
     - The month of service provided (usually the prior month
@@ -2320,7 +2419,7 @@ Every lead is responsible for a cost centre.
     - Gross sum (net + tax)
     - If reverse charge
         - add "No tax due to reverse-charge."
-        - add "stanwood VAT ID: DE 263524087".
+        - add "stanwood VAT ID: DE 321356612".
     - IBAN and BIC
 
     In Germany, you might be a "Kleinunternehmer". Check with your accountant and then add this to your invoice:
