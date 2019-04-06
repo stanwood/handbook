@@ -699,41 +699,40 @@ Examples:
 
 ## Project lead
 
+
 Project leads oversee the project development, are the direct contact for PM's and manages the team to meet best coding practice, release dates, and budget.
+
 
 ### Responsibilities
 
-- Be the single contact for PM's
-- Review ticket description
-- Enforce stanwood architecture
-- Estimate new tickets
-- Delegate the work to their supporting team
-- Code review
-- Single contact for PM's
-- During the ongoing project development, you are the primary contact for PM's:
+#### Application Architecture
+- Propose alternative and simpler solutions, even if they do not meet 100% of requirements. Clients often accept such tradeoffs.
+- Ensure Stanwood architecture is used to reuse code and limit complexity
+- Code review to ensure code quality
 
-- Keep them up to date with current feature development
-- Inform of over budget tickets
-- Discuss release dates
-- Communication is vital for the success of the project.
+#### Project planning
+- Make sure the ticket's description is sufficient to start development, for example:
+ - Check if designs are provided
+ - Check if Backend is available 
+ - In case of a bug, tickets check if there is sufficient data to start bug fixing like Crashlytics link, steps to replicate, info about the device
+- Check if tickets scope is not too large and break it down into sub tickets. A good rule of the thumb to ensure ticket estimate is not over 4h
+- Assign tickets to your peers to ensure optimal workload and highest chances to complete tasks on time
+- Review tickets estimations to make sure it is realistic. Not overinflated or too optimistic
+- Review and agree with PM scope of work and timelines, especially important milestones like app release. 
 
-- Review ticket description
-- Create subtasks if needed
-- Reject features due to the complexity
-- Reject tickets that do not include all the information needed for implementation
-- Missing endpoints
-- Missing design
-- Bug tickets: missing Crashlytics link, steps to replicate, device information
-- Missing full description of requirements
-- Enforce stanwood architecture
-- Making sure to enforce the architecture on all projects.
+#### Project execution
+During project execution, you are a single point of contact for a PM for your platform. It means:
+- Proactively communicate project progress as required by PM.
+- As soon as you are aware of any new risks for project schedule, cost or quality inform PM and propose mitigation steps.
 
-- Estimate new tickets
-- Break down tickets to subtasks if needed.
 
-- Delegate the work to their supporting team
+#### Application Documentation
+- Make sure 1password has all used secrets and password for the project.
+- Update slack channels with necessary information
+- Maintain project readme
 
-As part of being a project lead, you manage up to three active projects. You spend 30% of your time and delegate most of the tickets to the supporting developer.
+
+
 
 ### Code review
 Making sure code review is done by stanwood best practice and follow the guidelines. PR/CR Guidelines
