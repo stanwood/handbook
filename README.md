@@ -1204,6 +1204,11 @@ Although gitlab is currently only under consideration we use the following struc
 
 /apps/`{client key}`/`{project key}` (client projects)
 
+The first project in any project group is `documentation` where we host all
+relevant documentation in the wiki for description and the repo for content
+where we want version control - for instance when using merge requests to 
+inform the team of changes in data structure by assigning them as approvers.
+
 ### Gitflow
 
 We are using a custom Gitflow.
