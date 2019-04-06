@@ -541,39 +541,51 @@ We do not discriminate for your choice of location of our team members. We pay t
 - 12 presentations at conventions @hanneskl
 - Meet 10 remote MDs @hanneskl
 
-## Teams [WIP]
+## Teams
 
-### PM Goals [WIP]
+### PM Goals
 
-#### PM TEAM GOAL 1: Improve expectation management and keep client close
-##### How:
+#### Objective 1: Improve expectation management and keep client close
+
+##### Key results:
+
+1. Respond to client mails ø 2h, 100% within 1 workday. Measured via hubspot stats. 
+Log all client communication in hubspot and connect your inbox.
+2. All active clients the PMs fill out a form from hubspot once a week to answer: 
+Did you update the client about: budget, about blocker, about progress?
+3. After each major release, the client gets a short mail with asking for *Net Promoter Score* survey. Goal Score above 8.
+
+##### Measures:
+
 1. At least once a week: update the client about: *budget, blocker, progress*.
-1. Ask the clients how updated they feel (one NPS survey per release, one subjective PM estimation per week)
-1. underpromise and overdeliver
+2. Ask the clients how updated they feel (one NPS survey per release, one subjective PM estimation per week)
+3. Underpromise and overdeliver
 
-##### Tools for Measurement [WIP]:
-1. Log all client communication in hubspot and connect your inbox. Respond to client mails ø 2h, 100% within 1 workday.
-2. For all active clients the PM gets a form from hubspot once a week to answer:
-1. Did you update the client about: budget, about blocker, about progress?
-1. How do you rate the client satisfaction? Customer Satisfaction Score (CSAT) 1-10. Goal: Score above 8
+#### Objective 2: Project profitability above 50%
 
-Answers get recorded in the company property.
-1. After each major release, the client gets a short mail with asking for *Net Promoter Score* survey. Goal Score above 8.
+##### Key Results
 
-#### PM TEAM GOAL 2: Project Profitability above 50%
-##### How
+1. Project profitabilty above 50% as measured by Toggl in BigQuery and Data studio
+
+##### Measures
+
 1. Weekly controlling with toggl timelogs and the burndown dashboard
 2. Push back unreasonable features (use the our Hubspot email templates therefore)
 3. Do not start before:
-    1. Offer send & client signed budget
-    2. Designs and Specifications
-    3. Mock API from us
-    4. Kick off with team & client
+    - Offer send & client signed budget
+    - Designs and Specifications
+    - Mock API from us
+    - Kick off with team & client
 
 
-#### PM TEAM GOAL 3: Burn down Backlog every sprint
+#### Objective 3: Deliver projects in time
 
-##### How:
+#### Key results:
+
+1. 100% burn down (See company goals)
+
+##### Measures
+
 1. Sprint kickoff call week before sprint stats
 2. Give daily PM office hours during a sprint
 3. Seering the sprint
@@ -772,61 +784,63 @@ Order of priorities:
 
 ### 1. Client Communication
 
-#### keep the client close
+#### Keep the client close
 - Keep client informed about progress, spent budget and blockers 3x per week.
-- Send at least one personal mail a week
+- Send at least one personal mail a week.
 - React on average within 15 minutes to calls.*
 - React on average within 2 hours to emails, but always aim to be faster.* A short "we are on it, I will get back to you" is ok, but aim for client satisfaction.
-- 100% answering of all client requests in 1 workday.
-- use hubspot to log all client communication (gmail connection or extension with bcc) [see](#hubspot-salescrm-wip)
+- React to all client requests in 1 workday.
+- Use hubspot to log all client communication (gmail connection or extension with bcc) [see](#hubspot-salescrm-wip)
 - Create tickets to all issues raised within one day.* 
 - For client raised tickets, add the label `client_reported_bug` to any bug, that the clients caught (on stage or production) or bugs we find on production.
 
- `* During business hours.
+ * During business hours.
 
-#### get to know the client satisfaction and improve
+#### Measure client satisfaction and improve
+
 For all A-Level sprints:
-- update all hubspot client properties for satisfaction once a week:
-- update the CSAT Rating (subjective)
-- after each major release, ask the client to rate us with the NPS score (form)
+
+- Update all hubspot client properties for satisfaction once a week:
+- Update the CSAT Rating (subjective)
+- After each major release, ask the client to rate us with the NPS score (form)
 
 ### 2. Jira/gitlab Hygiene
 
 Once a day: 
 
-- zero the inbox
-- ping project leads to estimate - if ticket update > 24h
-- ping assignee - if ticket update > 1w
+- Zero the inbox
+- Ping the project leads to estimate if the ticket has not been updated within the last working day
+- Ping the assignee if if ticket has not been updated for more than 1 week.
 - Ensure:
-- tickets are well described
-- documentation regarding that ticket is up to date
-- everything discussed in Slack is synced back to Jira/gitlab
+    - tickets are well described
+    - documentation regarding that ticket is up to date
+    - everything discussed in Slack is synced back to Jira/gitlab
 
 ### 3. Internal communication
 
 1. Offer a PM office hour for all devs 2x a day: 10am, 4pm in stanwood.appear.in/yourname. Post that to slack.
-1. all project questions should get cleared in this call: minimize project chatter outside these hours. Exeptions: a) Friday for building and submitting (everything goes), b) emergencies
-1. Keep your lead and all devs up to date of milestones, next milestones, of the pressing issues, blockers and goals 3x per week.
-2. Send an update post for all your projects in slack channel #done friday noon until 12:00am. Keep the post numbered and think about it as a logbook.
-3. for every project, include status, blockers, next milestones
-4. is there a sprint in the following week, also include 
-    1. if the *sprint planning call* took place, 
-    2. how many hours are in the backlog for that sprint 
-    3. and which teams attended the planning call(s) (client, dev-teams, qa).
+2. All project questions should get cleared in this call: minimize project chatter outside these hours. Exeptions: a) Friday for building and submitting (everything goes), b) emergencies
+3. Keep your lead and all devs up to date of milestones, next milestones, of the pressing issues, blockers and goals 3x per week.
+4. Send an update post for all your projects in slack channel #done friday noon until 12:00am. Keep the post numbered and think about it as a logbook.
+5. For every project include status, blockers, next milestones
+6. is there a sprint in the following week, also include 
+    - if the *sprint planning call* took place, 
+    - how many hours are in the backlog for that sprint 
+    - and which teams attended the planning call(s) (client, dev-teams, qa).
 
 ### 4. Sprint steering
 
 1. At least every Thursday before the sprint: Grab the client and your team (including QA) and fill the backlog of the team according to the sprint planing spreadsheet. Separate calls with client if it makes no sense to have a big round with all devs.
-1. Make sure all tickets are well described before the sprint starts. All Devs should be able to work on it without further questions.
-1. After ticket creation: Tickets go to QA to add acceptance criteria, then to estimation to Dev.
-1. Wednesday: check the burndown of the sprint: should be more than 50%
-1. make sure the sprint burndown reaches 100% at Thursday, 23:59 CET
+2. Make sure all tickets are well described before the sprint starts. All Devs should be able to work on it without further questions.
+3. After ticket creation: Tickets go to QA to add acceptance criteria, then to estimation to Dev.
+4. Wednesday: Check the burndown of the sprint, should be more than 50%
+5. Make sure the sprint burndown reaches 100% at Thursday, 23:59 CET
 
 ### 5. Make sure we hit 50% project profitability
 
-1. weekly update and control the budget with all toggl logged hours
-2. alarm your lead and team if your projects wents lower than 50% profitability rate (check the PM dashboard), and if non-coding work gets higher than 40%.
-3. push back unreasonable features
+1. Check the budget with all toggl logged hours every week.
+2. Alarm your lead and team if your projects wents lower than 50% profitability rate (check the PM dashboard), and if non-coding work gets higher than 40%.
+3. Push back unreasonable and complex features. Alert Hannes, if you need firepower.
 4. Do not start before:
     1.    Offer send & client signed budget
     2.    Designs and Specifications
@@ -904,7 +918,7 @@ General project management and ask for help
 
 #### #done
 
-PMs post statusupdates for all their projects once a week. See [PM internal communication](#3-internal-communication) for guideline.
+PMs post status updates for all their projects on Friday before 12:00 CET. See [PM internal communication](#3-internal-communication) for guideline.
 
 #### Tackleberry
 
@@ -918,17 +932,20 @@ Our very own police bot are be sent you reminders that require your actions from
 ### Guidelines
 
 **Responding**
-- when responding to todos in slack, open a thread, use "On it {time}" (i.e. "On it in 1h") and "Done"/:white_check_mark:
-- whenever possible, use meaningfull slack reactions instead of posting an reply (example: https://twitter.com/stanwood_apps/status/1094899597443518464)
-- add the handle of the person you are responding in the thread
-- one thread per question, don't mix up two questions in a thread without a clear differenciation (e.g. numbers)
+
+- When responding to todos in slack, open a thread, use "On it {time}" (i.e. "On it in 1h") and "Done"/:white_check_mark:.
+- Whenever possible, use meaningfull slack reactions instead of posting an reply (example: https://twitter.com/stanwood_apps/status/1094899597443518464)
+- Add the handle of the person you are responding in the thread.
+- Ine thread per question, don't mix up two questions in a thread without a clear differenciation (e.g. numbers).
 
 **Naming**
+
 Project channels starting with "_". All real-time discussion belongs there.
 Jira, Zeplin, Github, Bitrise post to the project channel.
 
 **Transparency**
-Please do not hold project talk in direct messages. We lose that information to the company. Use a public channel instead.
+
+Please do not do project talk in direct messages. We lose that information to the company. Use a public channel instead.
 We are transparent by default, example:
 - https://twitter.com/stanwood_apps/status/1098134836148084736
 - https://twitter.com/stanwood_apps/status/1095262491444166657
@@ -937,6 +954,7 @@ We are transparent by default, example:
 When asking someone something, always use @username. Some developers are a member of dozens of channels and might miss your question.
 
 **Always use threads:**
+
 - start your thread with a *bold headline* in the main channel to keep the channel clean
 - first line: add short one-line summary
 - add the handles of people you need to react with a clear CTA (e.g. FYI, acknowledge, review etc.)
