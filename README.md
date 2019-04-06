@@ -571,7 +571,19 @@ We do not discriminate based on the locations chosen by our team members. We pay
  
 - Measurement 3: 80% of tickets passing QA (iOS, Web, Android) (get numbers @hannes)
 
-### PM Goals [WIP]
+### PM Goals
+
+#### Objective 1: Improve expectation management and keep client close
+
+##### Key results:
+
+1. Respond to client mails ø 2h, 100% within 1 workday. Measured via hubspot stats. 
+Log all client communication in hubspot and connect your inbox.
+2. All active clients the PMs fill out a form from hubspot once a week to answer: 
+Did you update the client about: budget, about blocker, about progress?
+3. After each major release, the client gets a short mail with asking for *Net Promoter Score* survey. Goal Score above 8.
+
+##### Measures:
 
 1. At least once a week: update the client about: *budget, blocker, progress*.
 2. Ask the clients how updated they feel (one NPS survey per release, one subjective PM estimation per week)
