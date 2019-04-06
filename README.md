@@ -537,6 +537,38 @@ We do not discriminate based on the locations chosen by our team members. We pay
 
 ## Teams [WIP]
 
+### Web/iOS/Backend Goals
+
+#### GOAL 1: Profitability (All except QA, Sales)
+
+- Measurement 1: More than 40% team profit margin
+
+- Measurement 2: More than 50% project profit margin
+
+#### GOAL 2: Reliability & Quality
+
+- Measurement 1: Less than 10% of tickets left in the backlog for a sprint on Saturday 02:00 (Post QA)
+
+- Measurement 2: Estimation accuracy: Less than +/- 10% on average per ticket (Devs)
+
+- Measurement 3: Less than 1% of all tickets are major production and client reported bugs (Non-API teams only)
+
+- Measurement 4: 99% error free responses (in Runscope on production) (API only)
+
+- Measurement 5: 100% monitoring coverage on production (API only)
+
+- Measurement 6: Less than 1% crash rate on production apps latest version (QA only)
+
+- Measurement 7: Less than 1% of all tickets from the last year are open bug tickets per project (QA only)
+ 
+#### GOAL 3: Ticket turnaround
+
+- Measurement 1: Working on > Code Review (tbd h)  (iOS only, android depending on numbers)
+
+- Measurement 2: Code Review > Done (tbd h)  (iOS only, android depending on numbers)
+ 
+- Measurement 3: 80% of tickets passing QA (iOS, Web, Android) (get numbers @hannes)
+
 ### PM Goals [WIP]
 
 #### GOAL 1: Improve expectation management and keep client close
