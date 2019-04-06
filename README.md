@@ -585,6 +585,7 @@ Answers get recorded in the company property.
 
 
 # Responsibilities
+
 ## General
 
 We need to have clear policies on
@@ -631,6 +632,37 @@ We are facing four opposing principles when it comes to permissions.
 
 
 # Roles
+
+## Leadership
+
+### Background on leadership
+
+When choosing managers we consider a bunch of criteria - based on quantitative research by universities and how successful startups select and develop managers.
+
+In particular, we are inspired by Google. Apart from being one of the most successful companies in the world, they are consistently ranked the best-place-to-work by her employees. Their mixture of employee empowerment, influences from the Montessori of Larry and Sergey and the reliance on the latest research and - of course - loads and loads of their own data truly matches our own values.
+
+### Leadership criteria 
+
+1. Empathy: Can the lead consider the perspective and situation of the other person.
+2. Humbleness: 90% of our decisions are wrong. Act the part!
+3. Ownership: A lead sees a problem and makes it her own until it's fixed. 
+4. Leadership: "Every success is due to the team, every failure is mine." and generally leading by example.
+5. Smarts: We just love people who are smarter than us. So much to learn...
+6. Consciences: Only the hard stuff is worth doing.
+7. Communication: Running a remote team is x10 as hard as in an office. Exceptional communication skills (verbally, written and non-verbally) are key.
+
+### Technical skills to become a leader
+
+We do not consider technical skills to be awfully important.
+
+We do not promote the best "screwdriver" to run team "screwdriver". Our leads are tasked with helping the Woodies to grow as a person, becoming an entrepreneur, an amazing team member and generally an awesome human being. They shall also make the team perform better and reduce stress. 
+
+We hire only the smartest, most dedicated and fun people* and want to empower them as much as possible.
+
+Promoting on tech skills alone will achieve exactly the opposite. With the best (i.e. Python) coder managing a team, the members would too often refer to the lead instead of making their own decisions. This inevitably leads to micromanagement and a hierarchical corporate structure.
+
+* Actually we want to turn the traditional hierarchy on its head. I wanna be the dumbest person. So we only hire people who are smarter or more experienced than the person who is hiring. If you doubt that, ask @paddy about the original ObjC code in ON AIR and Glamour.
+
 ## Team lead
 
 ### Philosophy
@@ -699,18 +731,18 @@ Examples:
 
 ## Project lead
 
-
 Project leads oversee the project development, are the direct contact for PM's and manages the team to meet best coding practice, release dates, and budget.
-
 
 ### Responsibilities
 
 #### Application Architecture
+
 - Propose alternative and simpler solutions, even if they do not meet 100% of requirements. Clients often accept such tradeoffs.
 - Ensure Stanwood architecture is used to reuse code and limit complexity
 - Code review to ensure code quality
 
 #### Project planning
+
 - Make sure the ticket's description is sufficient to start development, for example:
  - Check if designs are provided
  - Check if Backend is available 
@@ -721,18 +753,17 @@ Project leads oversee the project development, are the direct contact for PM's a
 - Review and agree with PM scope of work and timelines, especially important milestones like app release. 
 
 #### Project execution
+
 During project execution, you are a single point of contact for a PM for your platform. It means:
+
 - Proactively communicate project progress as required by PM.
 - As soon as you are aware of any new risks for project schedule, cost or quality inform PM and propose mitigation steps.
 
-
 #### Application Documentation
+
 - Make sure 1password has all used secrets and password for the project.
 - Update slack channels with necessary information
 - Maintain project readme
-
-
-
 
 ### Code review
 Making sure code review is done by stanwood best practice and follow the guidelines. PR/CR Guidelines
@@ -753,6 +784,7 @@ As Senior developers, you have significant experience in software development, k
 - Liaise with project leads on new deadlines and new features
 
 ### Design and implement new features
+
 As a senior developer, you do most of the heavy lifting during development.
 
 Push back on features that add complexity
@@ -764,6 +796,7 @@ Keep project documentation up to date
 Work alongside the project lead and update the documentation on a regular basis.
 
 ### Maintain and manage the existing code base
+
 Make sure we are not adding technical debt when maintaining the code base. Should there be a case where the current code base does not support ongoing development, involve the project-lead?
 
 ## Project managers
