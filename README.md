@@ -1072,7 +1072,18 @@ We use Sketch for designing all our apps and websites.
 
 Example: 1.1.2 Onboarding - Welcome Screen - Disabled
 
+### Design libraries
+
+We try to use design libraries and to follow UX/UI guidelines as much as possible.
+
+- https://developer.apple.com/design/human-interface-guidelines/
+- https://material.io/
+
 ## Hubspot Sales/CRM [WIP]
+
+### Background
+
+We use Hubspot to transparently share client communications with the team, for recruiting and to schedule social media posts. Hubspot is also a powerful tool to track website visitors.
 
 ### Logging E-Mail conversations
 
@@ -1290,6 +1301,17 @@ Bitrise is our CD/CI for Android and iOS apps.
 - `master` deploys to App Stores or production web server
 - `develop` deploys to clients Monday 9 am
 
+## 1Password
+
+### Background
+
+1Password is where we store all our logins. 
+
+### Guidelines
+
+- `Private` is where our team can store all their private logins to company accounts (Toggl, Hubspot, ...)
+- `Company Accounts` is where our team can access all our shared accounts (Udemy, developer tools, ...)
+- `Payments` is where our team can access our company cards
 
 
 # Core processes
@@ -2123,7 +2145,7 @@ Groups are also allowed, for instance, to do a team kick off or celebratory laun
 
 We try to minimize the accounting overhead of traveling as much as possible. 
 
-Because invoices for flights are issued to the travel - not the company - this creates an accounting nightmare.
+Because invoices for flights are issued to the traveler - not the company - this creates an accounting nightmare.
 
 The bank or credit card statement just says "123.24€ Lufthansa". Then the hunt for the receipts beginns.
 
@@ -2191,10 +2213,23 @@ As a general rule: You are a guardian of the company. We trust you to make the r
 
 1. Expense your travels via *seperate* invoices right after the event. 
 2. Add the original receipts to the invoice (same PDF).
-3. Sent them to invoice@stanwood.de
+3. Sent them to invoice@stanwood.de and CC the MD.
 4. The MD wires the money every Monday.
 
 The seperate invoice if for accounting purposes. We book those invoices unto a different account.
+
+**Template**
+
+    Hi,
+    Please expense the following travel costs.
+    **Trip to Berlin**
+    € 72,20 + 162.14 = € 234,34
+    Name: 
+    IBAN:
+    BIC:
+    (and add the receipts)
+    Thank you, 
+    
 
 #### Employees
 
@@ -2454,7 +2489,7 @@ Every lead is responsible for a cost centre.
     In Germany, you might be a "Kleinunternehmer". Check with your accountant and then add this to your invoice:
 
          "Als Kleinunternehmer im Sinne von § 19 Abs. 1 UStG wird keine Umsatzsteuer berechnet."
-
+ƒ
     ### Process
 
     1. On the first of the month
