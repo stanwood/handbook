@@ -2201,12 +2201,14 @@ The seperate invoice if for accounting purposes. We book those invoices unto a d
 Use the expense.zoho.com
 
 1. Upload your receipts (only the ones **you** paid) and car travels
-2. Edit VAT, project, category and amounts
-3. Create a "New Report", add all receipts and submit for approval
-4. The MD approves all travel expenses every Monday
-5. Employees gets the "Reimbursement Reports" via email
-6. Download the report and sent it to `invoice@stanwood.de`
-7. The MD wires the amounts every Monday.
+2. Edit VAT, project, category and amounts, your IBAN and BIC
+3. When claiming food or drinks add the internal attendees via the field and external attendees 
+and freelancers in the comment. Also add a description of the occasion: i.e. client pitch, pm workshop etc.
+4. Create a "New Report", add all receipts and submit for approval
+5. The MD approves all travel expenses every Monday
+6. Employees gets the "Reimbursement Reports" via email
+7. Download the report and sent it to `invoice@stanwood.de`
+8. The MD wires the amounts every Monday.
 
 Step 6 is nessassary to for accounting. We book your travel on the cost center and cost type of your team. 
 The auto assigning is done via your email address.
