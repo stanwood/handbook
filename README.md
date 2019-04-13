@@ -530,56 +530,53 @@ We do not discriminate based on the locations chosen by our team members. We pay
 
 # Goals
 
-## Company 2019
+We employ the OKR goal system invented at Intel and popularised by Google by John Doerr.
 
-### 1. Grow
+To read more on the process and background on goal setting, read [Measure what Matters](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221)
 
-- Funnel (hours offered) +400% (6 m€) @sales
-- Revenue +100% (4 m€) @sales
-- Profitability 30% EBIT margin @dev_teams @pms
+## Company OKRs 2019
 
-### 2. Delight clients
+### Objective 1: Grow
 
-- Customer satisfaction 90% (NPS) @pms
-- Sprint goals hit 90% @squads
-- Production and client bugs < 1% of total tickets @squads
+- Key result: Funnel (hours offered in quotes according to Hubspot) +400% (6 m€) @sales
+- Key result: Revenue +100% (4 m€) @sales
+- Key result: Profitability 30% EBIT margin @dev_teams @pms
 
-### 3. Become the authority on digital business and remote work
+### Objective 2: Delight clients
 
-- 200 social posts @karinkleist
-- 10,000 social followers @karinkleist
-- 12 presentations at conventions @hanneskl
+- Key result: Customer satisfaction 90% (NPS) @pms
+- Key result: Sprint goals hit (90% of tickets passed QA Friday 2 am) @squads
+- Key result: Production and client reported bugs < 1% of total tickets @squads
 
-### 4. Calm our operations
+### Objective: 3. Become the authority on digital business and remote work
 
-- Reduce the stress level (measured via a multi-question survey) of the company by 50% @hanneskl
-- Reduce the number of Toggl tasks / hour by 50% @hanneskl
+- Key result: 200 social posts @karinkleist
+- Key result: 10,000 social followers across facebook, twitter, linkedin and instagram @karinkleist
+- Key result: 12 presentations held at events @hanneskl
 
-## Squads
+### Objective 4: Calm our operations
 
-#### Objective 1: Profitability
+- Key result: Reduce the stress level (measured via a multi-question survey) of the company by 50% @hanneskl
+- Key result: Reduce the number of Toggl tasks / hour by 50% @hanneskl
 
-- Key result 1: More than 50% squad profit margin
+## Squad OKRs
+
+### Objective 1: Profitability
+
+- Key result 1: More than 50% project profit margin
 - Key result 2: More than 4 weeks worth of work for the devs in approved backlog
 
-#### Objective 2: Reliability & Quality
+### Objective 2: Reliability & Quality
 
 - Key result 1: Less than 10% of tickets left in the backlog for a sprint on Friday 02:00 (past QA)
-
 - Key result 2: Less than 1% of all tickets are major production and client reported bugs
-
 - Key result 3: Less than 1% crash rate on production apps latest version
 
-#### Objective 3: Delight client
+### Objective 3: Client communication
 
-##### Key results:
-
-1. Respond to client mails ø 2h, 100% within 1 workday. Measured via hubspot stats. 
-Log all client communication in hubspot and connect your inbox.
-2. All active clients the PMs fill out a form from hubspot once a week to answer: 
-Did you update the client about: budget, about blocker, about progress?
-3. After each major release, the client gets a short mail with asking for *Net Promoter Score* survey. Goal Score above 8.
-
+- Key result 1: Respond to client mails ø 2h. Measured via Hubspot stats. 
+- Key result 2: Responded to client mails 100% within 1 workday. Measured via Hubspot stats. 
+- Key result 3: For all active clients the PMs fill out a form in Hubspot once a week to answer: Did you update the client about: budget, about blocker, about progress?
 
 # Responsibilities
 
