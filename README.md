@@ -2101,16 +2101,17 @@ Every team member books and pays their flights, train rides or car trips themsel
 
 ### Dinners
 
-When two Woodies meet or meet with a client, the company pays for food. Please note that fancy steak houses or similar need prior approval by the MD.
+When two Woodies meet or meet with a client, the company pays for food. 
 
 ### What we pay for
 
-As a general rule: You are a guardian of the company. We trust you to make the right choices and spent our money wisely.
+As a general rule: You are a guardian of the company. 
+We trust you to make the right choices and spent our money wisely.
 
 **Flights**
 
 - Economy class on first tier airlines (Lufthansa, BA, El-Al)
-- We try to do direct flights only - outside business hours to minimise cost, stress and lost work time
+- We try to do direct flights only - outside business hours to minimise cost, stress and lost work time
 - Feel free to upgrade your seats to emergency exit row, if you are want to to work
 - Frequent travellers (30+ flights per year) may book business class
 
@@ -2128,12 +2129,16 @@ As a general rule: You are a guardian of the company. We trust you to make the r
 
 - Wework, Business Link or Mindshare
 
+**Food & Drinks**
+
+We do dinners burger-and-beer-style. Anything fancy needs prior approval by the MD.
+
 **Food during events**
 
 - We have breakfast at the hotel
 - Lunch is paid by the company
 - Dinner is paid by the company
-- Drinks is paid by the company, if the MD is present
+- Drinks are paid by the MD (if present) (Note: This is not tax-deductable.)
 
 ### Expensing
 
@@ -2152,8 +2157,10 @@ Use the expense.zoho.com
 
 1. Upload your receipts (only the ones **you** paid) and car travels
 2. Edit VAT, project, category and amounts, your IBAN and BIC
-3. When claiming food or drinks add the internal attendees via the field and external attendees 
-and freelancers in the comment. Also add a description of the occasion: i.e. client pitch, pm workshop etc.
+3. When claiming food or drinks we have to adhere to strict tax law requirements
+    - add the internal attendees via the field and external attendees and freelancers in the comment
+    - add a detailed description of the occasion: i.e. client pitch for new project, pm workshop, annual review with team member etc.
+    - if > 150€ we need our company name and address on the bill
 4. Create a "New Report", add all receipts and submit for approval
 5. The MD approves all travel expenses every Monday
 6. Employees gets the "Reimbursement Reports" via email
@@ -2162,6 +2169,7 @@ and freelancers in the comment. Also add a description of the occasion: i.e. cli
 
 Step 6 is necessary to for accounting. We book your travel on the cost centre and cost type of your team. 
 The auto assigning is done via your email address.
+
 
 ## Time Tracking
 
