@@ -578,6 +578,25 @@ To read more on the process and background on goal setting, read [Measure what M
 - Key result 2: Responded to client mails 100% within 1 workday. Measured via Hubspot stats. 
 - Key result 3: For all active clients the PMs fill out a form in Hubspot once a week to answer: Did you update the client about: budget, about blocker, about progress?
 
+## Platform OKRs
+
+### Web OKRs
+
+#### Objective 1: Build an eight A-level dev rooster
+
+- Key result 1: Performance rating of 2 for everyone
+- Key result 2: Eight developers on October 1st
+
+#### Objective 2: Reliability & Quality
+
+- Key result 1: Less than 10% of tickets left in the backlog for a sprint on Friday 02:00 (past QA)
+- Key result 2: Less than 1% of all tickets are major production and client reported bugs
+
+### Objective 3: Profitability
+
+- Key result 1: More than 40% platform profit margin
+
+
 # Responsibilities
 
 ## General
