@@ -1000,6 +1000,42 @@ We use Sketch for designing all our apps and websites.
 
 Example: 1.1.2 Onboarding - Welcome Screen - Disabled
 
+### Storage and file versioning
+
+We store all sketch files in the [Design](https://drive.google.com/open?id=0B3BarGWMxbpcfm8xMm1QWXlFTl9pcjFwTklJNWZwSzRPRVVMYkVrVG9JR3k2THpCUDdLcTg).
+The "owner" of that folder is info@stanwood.de
+
+Fileformat: `{year}-{month}-{day} {project key} {project key} {description [optional]}.sketch´ as a file name.
+Example: `2019-04-15 TMB Timberbase.sketch´
+
+Try putting all designs in one file. 
+
+GDrive has a version control. Do **not** create versions of the file on your own. 
+
+### Wireframing
+
+We only use the "2019-03-12 Material Design Library" for wireframing to ensure re-usability of wireframes.
+
+### Symbols and naming
+
+Design files need the same thought and structure as code does to ensure 
+that we can maintain and scale a design.
+
+**Guidelines**
+
+1. Your views should only have symbols in it.
+2. At the end of a design session: Clean up your symbol page
+    - Ensure they are grouped together by topy
+    - Ensure proper naming with paths
+    - Set with elements are adjustable and which not
+2. Do not create custom design elements in your file. 
+    - Discuss with Hannes
+    - Put them into the central template
+    - Adjust the components page in the central template
+3. Structure the view: 0,0 for the first view, 0,1000 for the second
+4. Put iOS and Android side by side
+5. Use themes and font styles
+
 ## Hubspot Sales/CRM [WIP]
 
 ### Logging E-Mail conversations
