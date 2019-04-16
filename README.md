@@ -23,27 +23,20 @@
     + [IV. Respect, Friendship and Support](#iv-respect--friendship-and-support)
     + [V. Working remotely](#v-working-remotely)
 - [Goals](#goals)
-  * [Company 2019](#company-2019)
-    + [1. Grow](#1-grow)
-    + [2. Delight clients](#2-delight-clients)
-    + [3. Become the autority on digital business and remote work](#3-become-the-autority-on-digital-business-and-remote-work)
-    + [4. Calm our operations](#4-calm-our-operations)
-  * [Teams](#teams)
-    + [Web/iOS/Backend Goals](#web-ios-backend-goals)
-      - [GOAL 1: Profitability (All except QA, Sales)](#goal-1--profitability--all-except-qa--sales-)
-      - [GOAL 2: Reliability & Quality](#goal-2--reliability---quality)
-      - [GOAL 3: Ticket turnaround](#goal-3--ticket-turnaround)
-    + [PM Goals](#pm-goals)
-      - [Objective 1: Improve expectation management and keep client close](#objective-1--improve-expectation-management-and-keep-client-close)
-        * [Key results:](#key-results-)
-        * [Measures:](#measures-)
-      - [Objective 2: Project profitability above 50%](#objective-2--project-profitability-above-50-)
-        * [Key Results](#key-results)
-        * [Measures](#measures)
-      - [Objective 3: Deliver projects in time](#objective-3--deliver-projects-in-time)
-      - [Key results:](#key-results--1)
-        * [Measures](#measures-1)
-- [Goals 2020 [WIP]](#goals-2020--wip-)
+  * [Company OKRs 2019](#company-okrs-2019)
+    + [Objective 1: Grow](#objective-1--grow)
+    + [Objective 2: Delight clients](#objective-2--delight-clients)
+    + [Objective: 3. Become the authority on digital business and remote work](#objective--3-become-the-authority-on-digital-business-and-remote-work)
+    + [Objective 4: Calm our operations](#objective-4--calm-our-operations)
+  * [Squad OKRs](#squad-okrs)
+    + [Objective 1: Profitability](#objective-1--profitability)
+    + [Objective 2: Reliability & Quality](#objective-2--reliability---quality)
+    + [Objective 3: Client communication](#objective-3--client-communication)
+  * [Platform OKRs](#platform-okrs)
+    + [Web OKRs](#web-okrs)
+      - [Objective 1: Build an eight A-level dev rooster](#objective-1--build-an-eight-a-level-dev-rooster)
+      - [Objective 2: Reliability & Quality](#objective-2--reliability---quality-1)
+    + [Objective 3: Profitability](#objective-3--profitability)
 - [Responsibilities](#responsibilities)
   * [General](#general)
   * [Permission Management](#permission-management)
@@ -84,7 +77,7 @@
     + [3. Internal communication](#3-internal-communication)
     + [4. Sprint steering](#4-sprint-steering)
     + [5. Make sure we hit 50% project profitability](#5-make-sure-we-hit-50--project-profitability)
-    + [5. Keep documentation and Zeplin up to date](#5-keep-documentation-and-zeplin-up-to-date)
+    + [6. Keep documentation and Zeplin up to date](#6-keep-documentation-and-zeplin-up-to-date)
     + [6. Upselling](#6-upselling)
 - [Tools](#tools)
   * [Zeplin](#zeplin)
@@ -107,6 +100,9 @@
   * [Sketch](#sketch)
     + [Background](#background-4)
     + [Naming convention](#naming-convention)
+    + [Storage and file versioning](#storage-and-file-versioning)
+    + [Wireframing](#wireframing)
+    + [Symbols and naming](#symbols-and-naming)
   * [Hubspot Sales/CRM [WIP]](#hubspot-sales-crm--wip-)
     + [Logging E-Mail conversations](#logging-e-mail-conversations)
   * [Jira](#jira)
@@ -153,9 +149,13 @@
       - [Minor Releases](#minor-releases)
       - [Hotfix Releases](#hotfix-releases)
       - [Build numbers](#build-numbers)
-  * [Tickets](#tickets)
-    + [Ticket live cycle](#ticket-live-cycle)
+    + [Tickets](#tickets)
+      - [Ticket live cycle](#ticket-live-cycle)
     + [Project setup Android](#project-setup-android)
+      - [Code Style Android](#code-style-android)
+        * [Setup](#setup)
+        * [Android Studio and git integration](#android-studio-and-git-integration)
+        * [CI](#ci)
     + [Release Procedure Web Projects](#release-procedure-web-projects)
       - [1. During Development](#1-during-development)
       - [2. Creating a testable version](#2-creating-a-testable-version)
@@ -222,7 +222,7 @@
     + [1 on 1 reviews](#1-on-1-reviews)
   * [People development](#people-development-1)
     + [Background](#background-10)
-    + [0. Performance review](#0-performance-review)
+    + [1. Personal development review](#1-personal-development-review)
     + [1. Goals](#1-goals)
     + [2. KPI](#2-kpi)
       - [Developer KPI](#developer-kpi)
@@ -233,11 +233,12 @@
       - [II. EXAMPLES](#ii-examples)
       - [III. NOTES](#iii-notes)
     + [4. Leadership feedback](#4-leadership-feedback)
+  * [Performance Management](#performance-management)
+  * [stanwoodgeist survey](#stanwoodgeist-survey)
   * [Training](#training-1)
     + [Background](#background-11)
     + [Courses](#courses)
     + [Masterclasses](#masterclasses)
-    + [Book club](#book-club)
   * [Meet-ups](#meet-ups)
       - [Retreats](#retreats)
       - [Workshops](#workshops)
@@ -264,7 +265,7 @@
     + [Onboarding](#onboarding-1)
     + [Sales](#sales)
     + [Naming](#naming-1)
-  * [Offboarding](#offboarding)
+  * [Off-boarding](#off-boarding)
     + [Process](#process-1)
     + [Last day](#last-day)
       - [Ops](#ops)
@@ -277,6 +278,8 @@
     + [Tags](#tags)
     + [Cost centres](#cost-centres)
   * [Freelancer Invoices](#freelancer-invoices)
+    + [Required elements](#required-elements)
+    + [Process](#process-2)
   * [Processing invoices](#processing-invoices)
   * [Sales and Marketing](#sales-and-marketing)
     + [Our skills](#our-skills)
@@ -294,7 +297,6 @@
     + [Marketing Operations](#marketing-operations)
       - [1. Social Media](#1-social-media)
       - [2. Blog](#2-blog)
-
 
 # Introduction
 
@@ -1412,9 +1414,9 @@ Releases that merely fix bugs are incremented with the third digit of the versio
 
 We use automatically increasing build numbers from Bitrise. We use the same build version as Bitrise build.
 
-## Tickets
+### Tickets
 
-### Ticket live cycle
+#### Ticket live cycle
 
 |     Topic     |     Project manager     |     Project Lead     |     Developer
 |     -     |     -     |     -     |     -
@@ -1465,8 +1467,87 @@ buildTypes {
 }
 ```
 9. Configure [bitrise](https://stanwood.atlassian.net/wiki/spaces/AN/pages/174293065/Bitrise+Setup+for+Android+apps)
-10. Set up [Code Style](https://stanwood.atlassian.net/wiki/spaces/AN/pages/473235458/Code+Style#CodeStyle-Alternative:ktlint-gradle) -> use the alternative gradle-plugin approach further down the page (be careful with Windows, some things likely need to be adapted there)
+10. Set up [Code Style](#code-style-android).
 11. Set up [architecture](https://github.com/stanwood/framework-arch-android) (general, DI etc.)
+
+#### Code Style Android
+
+##### Setup
+
+All our projects follow the [Android Kotlin Code Style](https://android.github.io/kotlin-guides/style.html) (with one exception: line length 140 chars)
+for all Kotlin classes. We use
+[ktlint](https://github.com/shyiko/ktlint) for automated checks.
+
+To make our lives easier we use the [ktlint-gradle-plugin](https://github.com/JLLeitschuh/ktlint-gradle/).
+
+In your project _build.gradle_:
+
+```groovy
+buildscript {
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.jlleitschuh.gradle:ktlint-gradle:<current_version>"
+  }
+}
+
+apply plugin: "org.jlleitschuh.gradle.ktlint"
+
+subprojects {
+    apply plugin: "org.jlleitschuh.gradle.ktlint"
+}
+```
+
+Then create a file called _.editorconfig_ in the root of your project:
+
+```
+[*.{kt, kts}]
+max_line_length = 140
+```
+
+Make sure to now run `./gradlew ktlintFormat` and fix all issues popping up.
+
+Don't forget to set up your [IDE](#android-studio-and-git-integration) and [bitrise](#ci) as well
+
+##### Android Studio and git integration
+
+When importing an already existing and ktlint-enabled (see [section above](#setup) project you need to configure Android Studio to comply with the code style as well (this needs to be done on a per-project base by everyone who wants to work with ktlint enabled projects:
+
+Just execute the following two calls to configure your IDE and git *for this project* and add a pre-commit hook to do the checking (and if necessary formatting for you):
+
+```bash
+./gradlew ktlintApplyToIdea
+./gradlew addKtlintFormatGitPreCommitHook
+```
+
+Make sure to check the _Run Git hooks_ checkbox if you commit via Android Studio (should be set by default).
+
+Last thing to do is setting line length to 140 (_Preferences -> Editor -> Code Style_) - unfortunately `ktlintApplyToIdea` can't do that for you.
+
+##### CI
+
+Add the following step to your workflows to have bitrise check your code style as well:
+
+```yaml
+	- gradle-runner@1.8.4:
+	    inputs:
+	    - gradle_task: ktlintCheck
+	    title: ktlint
+```
+
+Additionally make sure that you have defined the following environment variables:
+
+```yaml
+	- opts:
+      is_expand: false
+    GRADLE_BUILD_FILE_PATH: build.gradle
+	- opts:
+		  is_expand: false
+		GRADLEW_PATH: "./gradlew"
+```
 
 ### Release Procedure Web Projects
 
