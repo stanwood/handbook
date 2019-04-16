@@ -1532,10 +1532,21 @@ Last thing to do is setting line length to 140 (_Preferences -> Editor -> Code S
 Add the following step to your workflows to have bitrise check your code style as well:
 
 ```yaml
-- gradle-runner@1.8.4:
-        inputs:
-        - gradle_task: ktlintCheck
-        title: ktlint
+	- gradle-runner@1.8.4:
+	    inputs:
+	    - gradle_task: ktlintCheck
+	    title: ktlint
+```
+
+Additionally make sure that you have defined the following environment variables:
+
+```yaml
+	- opts:
+      is_expand: false
+    GRADLE_BUILD_FILE_PATH: build.gradle
+	- opts:
+		  is_expand: false
+		GRADLEW_PATH: "./gradlew"
 ```
 
 ### Release Procedure Web Projects
