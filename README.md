@@ -135,6 +135,8 @@
     + [Background](#background-7)
     + [Guidelines](#guidelines-4)
   * [1Password](#1password)
+    + + [Background](#background-8)
+    + [Guidelines](#guidelines-5)
 - [Core processes](#core-processes)
   * [Developer Operations](#developer-operations)
     + [1. Background](#1-background)
