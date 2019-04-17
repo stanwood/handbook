@@ -134,6 +134,7 @@
   * [Bitrise](#bitrise)
     + [Background](#background-7)
     + [Guidelines](#guidelines-4)
+  * [1Password](#1password)
 - [Core processes](#core-processes)
   * [Developer Operations](#developer-operations)
     + [1. Background](#1-background)
