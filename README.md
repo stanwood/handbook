@@ -855,7 +855,6 @@ Making sure code review is done by stanwood best practice and follow the guideli
 As Senior developers, you have significant experience in software development, knowledge of industry practices and you are the backbone of software development at stanwood.
 
 ### Responsibilities
-##### rets
 - Liaise with project leads
 - Implement stanwood architecture
 - Design and implement new features
@@ -1386,9 +1385,9 @@ Bitrise is our CD/CI for Android and iOS apps.
 
 ### Vaults
 
-- `Private` is where our team can store all their private logins to company accounts (Toggl, Hubspot, ...)
+- `Private` is where every team member can individually store all their private logins to company accounts (Toggl, Hubspot, ...)
 - `Company Accounts` is where our team can access all our shared accounts (Udemy, developer tools, ...)
-- `Payments` is where our team can access our company cards
+- `Payments` is where our team can access our company cards (We limit access to that vault on a need to know basis.)
 
 For email addresses that contain sensible information, they are in other hidden vaults.
 
@@ -2274,7 +2273,6 @@ As a general rule: You are a guardian of the company. We trust you to make the r
 
 - Motel One
 - London: Pullmann
-- Frequent travelers can book 25hours
 
 **Conference Rooms**
 
@@ -2560,7 +2558,7 @@ Every lead is responsible for a cost centre.
     In Germany, you might be a "Kleinunternehmer". Check with your accountant and then add this to your invoice:
 
          "Als Kleinunternehmer im Sinne von § 19 Abs. 1 UStG wird keine Umsatzsteuer berechnet."
-ƒ
+         
     ### Process
 
     1. On the first of the month
