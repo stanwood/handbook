@@ -1,6 +1,5 @@
 # Table of contents
 
-- [Table of contents](#table-of-contents)
 - [Introduction](#introduction)
   * [Background](#background)
   * [Update the handbook](#update-the-handbook)
