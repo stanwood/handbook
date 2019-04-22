@@ -840,7 +840,7 @@ Making sure code review is done by stanwood best practice and follow the guideli
 As Senior developers, you have significant experience in software development, knowledge of industry practices and you are the backbone of software development at stanwood.
 
 ### Responsibilities
-
+##### rets
 - Liaise with project leads
 - Implement stanwood architecture
 - Design and implement new features
@@ -962,6 +962,45 @@ We use Zeplin to share and discuss designs and also to host design assets and do
 - Upload a photo and a profile picture to Zeplin.
 - Use the same handle as in slack.
 
+## Toggl
+
+### Background
+We currently pay our freelancers and invoice our customers on an hourly rate and use Toggl to track time.
+
+### Guidelines
+For each project, we have 7 standard categories for time tracking.
+
+- `Client communication` is mainly used by project managers it involves everything around communicating with clients: Workshops, Client meetings, calls, ...
+
+- `Deployment` is time spent getting the app live: writing App Store descriptions, ...
+
+- `Internal communication` is time spend discussing with the team: office hours, Slack (time spent talking on Slack is tracked automatically), ...
+
+- `QA` is mostly used by the QA team and is everything that evolves around testing the app: smoke tests, general QA work, ...
+
+- `Test agency`  is used by the QA when they review the feedback received from our test agency
+
+- `Ticket review`  is time spent writing tickets, editing them, ... It is mainly used by project managers. 
+
+Admin contains 9 categories:
+
+- `Accounting` is mostly used by the MD
+- `Invoicing` is for sending invoices. It is mainly used by the MD. 
+- `Onboarding`  is used by Wookies (new employees/freelancers) during their first weeks for all the things they can't categorize: setting up accounts, ...
+- `Processes`  is used by leads for discussions about processes
+- `Squad discussion`  is used for everything around our transition to Squads: calls, discussions, ...
+- `Strategy`  is mainly used by leads for discussions about the company's strategy
+- `Weekly` is for weekly team calls
+- `Team Daily`  is used by the web team only for their calls
+
+Then, we have a few more categories
+
+- `CON - Content`  is for everything around content creation: social media posts, ...
+- `Internal Workshops`  is time spent in team workshops
+- `Recruiting`  is used for time spent interviewing candidates, replying to their emails, ...
+- `Sales`  is used for time spend optimizing our sales funnel, communication with leads, ... anything that can help us get new customers 
+- `Training`  is for time spent learning a new skill: Udemy courses, masterclasses, ...
+
 ## Slack
 
 ### Background
@@ -1021,9 +1060,9 @@ Our very own police bot are be sent you reminders that require your actions from
 **Responding**
 
 - When responding to todos in slack, open a thread, use "On it {time}" (i.e. "On it in 1h") and "Done"/:white_check_mark:.
-- Whenever possible, use meaningfull slack reactions instead of posting an reply (example: https://twitter.com/stanwood_apps/status/1094899597443518464)
+- Whenever possible, use meaningful slack reactions instead of posting an reply (example: https://twitter.com/stanwood_apps/status/1094899597443518464)
 - Add the handle of the person you are responding in the thread.
-- Ine thread per question, don't mix up two questions in a thread without a clear differenciation (e.g. numbers).
+- One thread per question, don't mix up two questions in a thread without a clear differentiation (e.g. numbers).
 
 **Naming**
 
@@ -1082,7 +1121,24 @@ We try to use design libraries and to follow UX/UI guidelines as much as possibl
 - https://developer.apple.com/design/human-interface-guidelines/
 - https://material.io/
 
-## Hubspot Sales/CRM [WIP]
+## Appear.in
+
+### Background
+Appear.in is the tool we use for quick video calls with clients or team members. We also use it for Masterclasses as it allows us to record video calls. 
+ 
+### How to use it
+- Simply sign up with your Stanwood email 
+
+## Uber/MyTaxi
+
+### Background
+We use Uber & MyTaxi to book short trips if we want to work during the trip
+
+### How to use it
+- If you've not automatically received an invitation, ask the MD. 
+- When you book a trip, make sure to have it billed under your Stanwood's account
+
+## Hubspot Sales/CRM 
 
 ### Background
 
@@ -1310,11 +1366,16 @@ Bitrise is our CD/CI for Android and iOS apps.
 
 1Password is where we store all our logins. 
 
-### Guidelines
+### Chrome Extension
+1Password has a very handy Chrome extension, make sure to use it!
+
+### Vaults
 
 - `Private` is where our team can store all their private logins to company accounts (Toggl, Hubspot, ...)
 - `Company Accounts` is where our team can access all our shared accounts (Udemy, developer tools, ...)
 - `Payments` is where our team can access our company cards
+
+For email addresses that contain sensible information, they are in other hidden vaults.
 
 
 # Core processes
@@ -1832,6 +1893,7 @@ Fee: 40 €/h x 8 h/d x 220 d/y = 70,400 €
 
 ### Perks
 
+#### Headspace Subscription 
 One of our goals is to reduce stress level and help ourselfes with mental health issues.
 
 For us a mental health issue is just a health issue as a broken arm or a cold - although tougher to heal from.
@@ -1839,6 +1901,9 @@ For us a mental health issue is just a health issue as a broken arm or a cold - 
 Towards that end do we offer every team member and alumni a free subscription to the meditation & mindfullness app Headspace.
 
 https://work.headspace.com/fooxessoftwareentwicklungsgmbh/join
+
+#### Hot desk in the coworking of your choice
+Being remote, we obviously don't have an office anymore. While a major part of our team works from home, we know that some people prefer working in a coworking. 
 
 ## Onboarding
 
@@ -2124,17 +2189,14 @@ Between the retreats, teams can meet as often as they see fit.
 #### Grill the boss
 
 Every week the MD invites one happy Woody to fly to Munich and spent an evening cooking and drinking.
-I did that with the latest batch of Wookies and selected Woodies over the last weeks, and I loved it.
 
 All expenses paid of course.
-
-As soon as we hit 52 team members, I will up this to 2x week.
 
 #### Meet a Woody
 
 If you want to meet a Woody in person, we are sponsoring the flight with up to 200€ and a stay at the hotel up to 100€.
 
-Sent me a direct message to the MD and explain, why you want to go.
+Send a direct message to the MD and explain why you want to go.
 
 We will be generous.
 
@@ -2171,7 +2233,7 @@ Our office manager books hotels in #office centrally for everyone. Invoices are 
 
 ### Flights
 
-Every team member books and pays their flights, train rides or car trips themselves in advance. 
+Every team member books and pays their flights, train rides or car trips themselves in advance and expenses them.
 
 ### Dinners
 
@@ -2197,7 +2259,7 @@ As a general rule: You are a guardian of the company. We trust you to make the r
 
 - Motel One
 - London: Pullmann
-- Frequent travellers can book 25hours
+- Frequent travelers can book 25hours
 
 **Conference Rooms**
 
@@ -2214,25 +2276,16 @@ As a general rule: You are a guardian of the company. We trust you to make the r
 
 #### Freelancers
 
-1. Expense your travels via *seperate* invoices right after the event. 
-2. Add the original receipts to the invoice (same PDF).
+1. Expense your travels via *separate* invoices right after the event. 
+2. Add the original receipts to the invoice (the invoice + receipt(s) need to be in one single PDF).
 3. Sent them to invoice@stanwood.de and CC the MD.
 4. The MD wires the money every Monday.
 
-The seperate invoice if for accounting purposes. We book those invoices unto a different account.
+The separate invoice if for accounting purposes. We book those invoices unto a different account.
 
-**Template**
+We recommend you to use an invoicing/accounting tool like *Wave Financial* (free)
 
-    Hi,
-    Please expense the following travel costs.
-    **Trip to Berlin**
-    € 72,20 + 162.14 = € 234,34
-    Name: 
-    IBAN:
-    BIC:
-    (and add the receipts)
-    Thank you, 
-    
+
 
 #### Employees
 
@@ -2255,7 +2308,7 @@ The auto assigning is done via your email address.
 
 We (mostly) invoice our clients based on hours worked.
 
-We get paid by the hour. Our clients honour us with a tremendous amount of trust - in return we give them total transparency.
+We get paid by the hour. Our clients honor us with a tremendous amount of trust - in return we give them total transparency.
 
 They expect splits by ticket or overhead tasks.
 
