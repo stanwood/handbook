@@ -662,8 +662,8 @@ In particular, we are inspired by Google. Apart from being one of the most succe
 2. Humbleness: 90% of our decisions are wrong. Act the part!
 3. Ownership: A lead sees a problem and makes it her own until it's fixed. 
 4. Leadership: "Every success is due to the team, every failure is mine." and generally leading by example.
-5. Smarts: We just love people who are smarter than us. So much to learn...
-6. Consciences: Only the hard stuff is worth doing.
+5. Cognitive abilities: We just love people who are smarter than us. So much to learn...
+6. Grid: Only the hard stuff is worth doing.
 7. Communication: Running a remote team is x10 as hard as in an office. Exceptional communication skills (verbally, written and non-verbally) are key.
 
 ### Technical skills to become a leader
@@ -677,6 +677,15 @@ We hire only the smartest, most dedicated and fun people* and want to empower th
 Promoting on tech skills alone will achieve exactly the opposite. With the best (i.e. Python) coder managing a team, the members would too often refer to the lead instead of making their own decisions. This inevitably leads to micromanagement and a hierarchical corporate structure.
 
 * Actually we want to turn the traditional hierarchy on its head. I wanna be the dumbest person. So we only hire people who are smarter or more experienced than the person who is hiring. If you doubt that, ask @paddy about the original ObjC code in ON AIR and Glamour.
+
+### Train your successor
+
+One of the key responsibilities of leaders at stanwood is to ensure that we will 
+always have leaders on all levels.
+
+Because a leader might leave the company or switch to another role, the first 
+priority for a leader is to have two members of his team which he grooms into
+becoming leaders themselves. 
 
 ## Team lead
 
