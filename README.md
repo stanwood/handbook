@@ -1100,7 +1100,7 @@ GDrive has a version control. Do **not** create versions of the file on your own
 
 ### Wireframing
 
-We only use the Material Design Libraries for wireframing to ensure re-usability of wireframes.
+We only use the "2019-03-12 Material Design Library" for wireframing to ensure re-usability of wireframes.
 
 - https://developer.apple.com/design/human-interface-guidelines/
 - https://material.io/
