@@ -47,6 +47,7 @@
     + [Background on leadership](#background-on-leadership)
     + [Leadership criteria](#leadership-criteria)
     + [Technical skills to become a leader](#technical-skills-to-become-a-leader)
+    + [Train your successor](#train-your-successor)
   * [Team lead](#team-lead)
     + [Philosophy](#philosophy)
     + [Lead by example](#lead-by-example)
@@ -83,8 +84,11 @@
   * [Zeplin](#zeplin)
     + [Background](#background-2)
     + [Guidelines](#guidelines)
-  * [Slack](#slack)
+  * [Toggl](#toggl)
     + [Background](#background-3)
+    + [Guidelines](#guidelines-1)
+  * [Slack](#slack)
+    + [Background](#background-4)
     + [Profile](#profile)
     + [Channels](#channels)
       - [#general](#-general)
@@ -94,19 +98,28 @@
       - [#project_management](#-project-management)
       - [#done](#-done)
       - [Tackleberry](#tackleberry)
-    + [Guidelines](#guidelines-1)
+    + [Guidelines](#guidelines-2)
     + [What to use slack for](#what-to-use-slack-for)
     + [What NOT to use slack for](#what-not-to-use-slack-for)
   * [Sketch](#sketch)
-    + [Background](#background-4)
+    + [Background](#background-5)
     + [Naming convention](#naming-convention)
     + [Storage and file versioning](#storage-and-file-versioning)
     + [Wireframing](#wireframing)
     + [Symbols and naming](#symbols-and-naming)
+    + [Form Design Guidelines](#form-design-guidelines)
+      - [Pay attention to the following:](#pay-attention-to-the-following-)
+      - [Make sure to:](#make-sure-to-)
+  * [Appear.in](#appearin)
+    + [Background](#background-6)
+    + [How to use it](#how-to-use-it)
+  * [Uber/MyTaxi](#uber-mytaxi)
+    + [Background](#background-7)
+    + [How to use it](#how-to-use-it-1)
   * [Hubspot Sales/CRM [WIP]](#hubspot-sales-crm--wip-)
     + [Logging E-Mail conversations](#logging-e-mail-conversations)
   * [Jira](#jira)
-    + [Background](#background-5)
+    + [Background](#background-8)
     + [Types of Work](#types-of-work)
       - [1. Epic](#1-epic)
       - [2. Tasks](#2-tasks)
@@ -116,20 +129,24 @@
       - [6. Unclear bugs](#6-unclear-bugs)
     + [Versioning](#versioning)
     + [Statuses](#statuses)
-      - [Guidelines](#guidelines-2)
+      - [Guidelines](#guidelines-3)
   * [GitHub/gitlab](#github-gitlab)
-    + [Background](#background-6)
+    + [Background](#background-9)
     + [Gitlab Structure](#gitlab-structure)
     + [Gitflow](#gitflow)
       - [Perennial branches](#perennial-branches)
-    + [Guidelines](#guidelines-3)
+    + [Guidelines](#guidelines-4)
     + [Naming](#naming)
     + [Code Review](#code-review)
       - [Mandatory reviewers](#mandatory-reviewers)
   * [E-Mail](#e-mail)
   * [Bitrise](#bitrise)
-    + [Background](#background-7)
-    + [Guidelines](#guidelines-4)
+    + [Background](#background-10)
+    + [Guidelines](#guidelines-5)
+  * [1Password](#1password)
+    + [Background](#background-11)
+    + [Chrome Extension](#chrome-extension)
+    + [Vaults](#vaults)
 - [Core processes](#core-processes)
   * [Developer Operations](#developer-operations)
     + [1. Background](#1-background)
@@ -138,7 +155,7 @@
     + [4. The Development Process](#4-the-development-process)
       - [Weekly cycle](#weekly-cycle)
       - [Ticket life-cycle](#ticket-life-cycle)
-      - [Guidelines](#guidelines-5)
+      - [Guidelines](#guidelines-6)
       - [Pull requests](#pull-requests)
       - [Testing](#testing)
       - [Client feedback](#client-feedback)
@@ -172,7 +189,7 @@
       - [8. Todos](#8-todos)
   * [API Guidelines](#api-guidelines)
     + [Permissions & Setup](#permissions---setup)
-    + [Background](#background-8)
+    + [Background](#background-12)
     + [Preferred solution: 100% control](#preferred-solution--100--control)
       - [1. Own API](#1-own-api)
       - [2. Firebase](#2-firebase)
@@ -189,16 +206,18 @@
       - [3. Todos](#3-todos)
 - [People operations](#people-operations)
   * [Recruiting](#recruiting-1)
-    + [Guidelines](#guidelines-6)
+    + [Guidelines](#guidelines-7)
     + [Process](#process)
   * [Contracts](#contracts)
     + [Freelance vs. Full time employee](#freelance-vs-full-time-employee)
   * [Compensation](#compensation)
-    + [Background](#background-9)
+    + [Background](#background-13)
     + [Developers and project managers](#developers-and-project-managers)
     + [*QA manager*](#-qa-manager-)
     + [Full-time employees](#full-time-employees)
     + [Perks](#perks)
+      - [Headspace Subscription](#headspace-subscription)
+      - [Hot desk in the coworking of your choice](#hot-desk-in-the-coworking-of-your-choice)
   * [Onboarding](#onboarding)
     + [0. TODO Wookie / new employee](#0-todo-wookie---new-employee)
     + [1. E-mail](#1-e-mail)
@@ -221,7 +240,7 @@
   * [Continuous Performance Management](#continuous-performance-management)
     + [1 on 1 reviews](#1-on-1-reviews)
   * [People development](#people-development-1)
-    + [Background](#background-10)
+    + [Background](#background-14)
     + [1. Personal development review](#1-personal-development-review)
     + [1. Goals](#1-goals)
     + [2. KPI](#2-kpi)
@@ -236,7 +255,7 @@
   * [Performance Management](#performance-management)
   * [stanwoodgeist survey](#stanwoodgeist-survey)
   * [Training](#training-1)
-    + [Background](#background-11)
+    + [Background](#background-15)
     + [Courses](#courses)
     + [Masterclasses](#masterclasses)
   * [Meet-ups](#meet-ups)
@@ -245,7 +264,7 @@
       - [Grill the boss](#grill-the-boss)
       - [Meet a Woody](#meet-a-woody)
   * [Travel and Expensing](#travel-and-expensing)
-    + [Background](#background-12)
+    + [Background](#background-16)
     + [Booking process](#booking-process)
     + [Hotels](#hotels)
     + [Flights](#flights)
@@ -255,7 +274,7 @@
       - [Freelancers](#freelancers)
       - [Employees](#employees)
   * [Time Tracking](#time-tracking)
-    + [Background](#background-13)
+    + [Background](#background-17)
     + [Working hours](#working-hours)
     + [Public holidays and vacations](#public-holidays-and-vacations)
     + [Workshops](#workshops-1)
@@ -297,8 +316,6 @@
     + [Marketing Operations](#marketing-operations)
       - [1. Social Media](#1-social-media)
       - [2. Blog](#2-blog)
-
-# Introduction
 
 ## Background
 
@@ -917,6 +934,45 @@ We use Zeplin to share and discuss designs and also to host design assets and do
 - Upload a photo and a profile picture to Zeplin.
 - Use the same handle as in slack.
 
+## Toggl
+
+### Background
+We currently pay our freelancers and invoice our customers on an hourly rate and use Toggl to track time.
+
+### Guidelines
+For each project, we have 7 standard categories for time tracking.
+
+- `Client communication` is mainly used by project managers it involves everything around communicating with clients: Workshops, Client meetings, calls, ...
+
+- `Deployment` is time spent getting the app live: writing App Store descriptions, ...
+
+- `Internal communication` is time spend discussing with the team: office hours, Slack (time spent talking on Slack is tracked automatically), ...
+
+- `QA` is mostly used by the QA team and is everything that evolves around testing the app: smoke tests, general QA work, ...
+
+- `Test agency`  is used by the QA when they review the feedback received from our test agency
+
+- `Ticket review`  is time spent writing tickets, editing them, ... It is mainly used by project managers. 
+
+Admin contains 9 categories:
+
+- `Accounting` is mostly used by the MD
+- `Invoicing` is for sending invoices. It is mainly used by the MD. 
+- `Onboarding`  is used by Wookies (new employees/freelancers) during their first weeks for all the things they can't categorize: setting up accounts, ...
+- `Processes`  is used by leads for discussions about processes
+- `Squad discussion`  is used for everything around our transition to Squads: calls, discussions, ...
+- `Strategy`  is mainly used by leads for discussions about the company's strategy
+- `Weekly` is for weekly team calls
+- `Team Daily`  is used by the web team only for their calls
+
+Then, we have a few more categories
+
+- `CON - Content`  is for everything around content creation: social media posts, ...
+- `Internal Workshops`  is time spent in team workshops
+- `Recruiting`  is used for time spent interviewing candidates, replying to their emails, ...
+- `Sales`  is used for time spend optimizing our sales funnel, communication with leads, ... anything that can help us get new customers 
+- `Training`  is for time spent learning a new skill: Udemy courses, masterclasses, ...
+
 ## Slack
 
 ### Background
@@ -1046,6 +1102,9 @@ GDrive has a version control. Do **not** create versions of the file on your own
 
 We only use the "2019-03-12 Material Design Library" for wireframing to ensure re-usability of wireframes.
 
+- https://developer.apple.com/design/human-interface-guidelines/
+- https://material.io/
+
 ### Symbols and naming
 
 Design files need the same thought and structure as code does to ensure 
@@ -1065,6 +1124,51 @@ that we can maintain and scale a design.
 3. Structure the view: 0,0 for the first view, 0,1000 for the second
 4. Put iOS and Android side by side
 5. Use themes and font styles
+
+### Form Design Guidelines
+Forms tend to be overlooked but they are actually one of the most important part of any website or app since they are what we want users to interact with. Badly designed forms lead to high churn and bad user experiences. 
+
+#### Pay attention to the following: 
+- How will the form look like on a small screens
+- How will the form look like with/without the keyboard
+- Differences between Android and IOS design guidelines for forms (i.e. date picker)
+- Only add absolutely essential stuff to forms (i. e. you don’t need a password reset button on the registration page)
+- Forms should be designed in a way, that all UI elements fit onto the screen (with the keyboard popped out). For longer forms, use multiple screens
+- Marketing double opt-in must always be optional (by law)
+- It’s fine to require the user to approve T&Cs and Privacy Policies.
+- Passwords should be plaintext by default with a "hide" button
+- The default action button (i.e. "Proceed" or "Sign up") should always float at the bottom, 100% width, with a super bright color and above the keyboard or the bottom of the screen
+- Use customized keyboards (i.e. numbers only for phone)
+- Always reward users after major steps i.e. “Well done for signing up!”. Don’t forget to design a screen or toast that feels good to look at. 
+- Requesting users to sign up (even with a "skip button") in onboarding is dangerous and will generate a high churn rate. When possible, let users browse through the app without having to sign up. 
+
+#### Make sure to: 
+- Design a large (iPhone X etc.) 375x812 and small (iPhone SE) 320x568 resolution
+- Design a large Android 360x720 and small 320x640 resolution
+- Design with and without popped out keyboard (example can be found here)
+- Use material design guidelines for text-fields 
+- Add Google/Facebook sign up buttons on registration and login screens (don’t use text links but the actual logos as in the example)
+- Have buttons look disabled (grey or 50% alpha) until all requirements of a field are met (example can be found here)
+- Put the password field on a separate view and explicitly show the password requirements and make the font colour of the requirements red initially and green, as the user meets them (example can be found here)
+- Add a progress indicator visually and verbally describing the steps required. i.e. "Step 1/4" if there is more than 
+- Design helpful error screens explaining the issue and what the user should do next (example can be found here)
+
+## Appear.in
+
+### Background
+Appear.in is the tool we use for quick video calls with clients or team members. We also use it for Masterclasses as it allows us to record video calls. 
+ 
+### How to use it
+- Simply sign up with your stanwood email
+
+## Uber/MyTaxi
+
+### Background
+We use Uber & MyTaxi to book short trips if we want to work during the trip
+
+### How to use it
+- If you've not automatically received an invitation, ask the MD. 
+- When you book a trip, make sure to have it billed under your stanwood's business account
 
 ## Hubspot Sales/CRM [WIP]
 
@@ -1284,7 +1388,22 @@ Bitrise is our CD/CI for Android and iOS apps.
 - `master` deploys to App Stores or production web server
 - `develop` deploys to clients Monday 9 am
 
+## 1Password
 
+### Background
+
+1Password is where we store all our logins. 
+
+### Chrome Extension
+1Password has a very handy Chrome extension, make sure to use it!
+
+### Vaults
+
+- `Private` is where our team can store all their private logins to company accounts (Toggl, Hubspot, ...)
+- `Company Accounts` is where our team can access all our shared accounts (Udemy, developer tools, ...)
+- `Payments` is where our team can access our company cards
+
+We give our employees access to vaults on a need basis for security purpose.
 
 # Core processes
 ## Developer Operations
@@ -1878,6 +1997,7 @@ Fee: 40 €/h x 8 h/d x 220 d/y = 70,400 €
 
 ### Perks
 
+#### Headspace Subscription 
 One of our goals is to reduce stress level and help ourselves with mental health issues.
 
 For us a mental health issue is just a health issue as a broken arm or a cold - although tougher to heal from.
@@ -1885,6 +2005,9 @@ For us a mental health issue is just a health issue as a broken arm or a cold - 
 Towards that end do we offer every team member and alumni a free subscription to the meditation & mindfulness app Headspace.
 
 https://work.headspace.com/fooxessoftwareentwicklungsgmbh/join
+
+#### Hot desk in the coworking of your choice
+Being remote, we obviously don't have an office anymore. While a major part of our team works from home, we know that some people prefer working in a coworking. 
 
 ## Onboarding
 
