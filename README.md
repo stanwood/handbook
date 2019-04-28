@@ -317,7 +317,7 @@
     + [Marketing Operations](#marketing-operations)
       - [1. Social Media](#1-social-media)
       - [2. Blog](#2-blog)
-    + [Legal & Contracts](#legal---Contracts)
+  * [Legal & Contracts](#legal---Contracts)
 
 ## Background
 
@@ -2902,13 +2902,12 @@ Publish one post on every channel every day.
 We plan our blog articles in a [GSheet](https://docs.google.com/spreadsheets/d/1nMkUHs_I-A0i-QDiyXCdA_UaDBXNLZqX0gg_TrbjQX4/edit#gid=0)
 
 
-### Legal & Contracts (TBC with @HannesKleist)
+#### Legal & Contracts (TBC with @HannesKleist)
 
 Terms of use (last updated April 2019): [GDoc]([GDoc](https://docs.google.com/document/d/1E4mt5aAR0tQEbOnuPBJ7nzczP2morFc9oUH18Fd3LRs/edit#).
 We always should add this as a PDF to our quotes.
 
-Note: We limit the warranty to 1 month in our TOCs. The law requires 2 years warranty.To cover this requirement, we offer our clients 
-"maintenance contracts" as of Apr 2019 to "keep the app running and fix all upcoming bugs" in the extent of the usual 
+Note: We offer our clients "maintenance contracts" as of Apr 2019 to "keep the app running and fix all upcoming bugs" in the extent of the usual 
 bug fixing (20% of the total budget).
 
 Example of maintenance contract: [GDoc](https://docs.google.com/document/d/1HHuQet8C-DDFBtdHAbu7wZL_Pkb7XKkxHrt8G5HIT0g/edit?usp=sharing). 
