@@ -316,6 +316,7 @@
     + [Marketing Operations](#marketing-operations)
       - [1. Social Media](#1-social-media)
       - [2. Blog](#2-blog)
+    + [Legal & Contracts](#legal---processes)
 
 ## Background
 
