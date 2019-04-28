@@ -68,6 +68,7 @@
     + [Code review](#code-review)
   * [Senior developer](#senior-developer)
     + [Responsibilities](#responsibilities-3)
+        * [rets](#rets)
     + [Design and implement new features](#design-and-implement-new-features)
     + [Maintain and manage the existing code base](#maintain-and-manage-the-existing-code-base)
   * [Project managers](#project-managers)
@@ -815,7 +816,6 @@ Making sure code review is done by stanwood best practice and follow the guideli
 As Senior developers, you have significant experience in software development, knowledge of industry practices and you are the backbone of software development at stanwood.
 
 ### Responsibilities
-
 - Liaise with project leads
 - Implement stanwood architecture
 - Design and implement new features
@@ -1033,9 +1033,9 @@ Our very own police bot are be sent you reminders that require your actions from
 **Responding**
 
 - When responding to todos in slack, open a thread, use "On it {time}" (i.e. "On it in 1h") and "Done"/:white_check_mark:.
-- Whenever possible, use meaningfull slack reactions instead of posting an reply (example: https://twitter.com/stanwood_apps/status/1094899597443518464)
+- Whenever possible, use meaningful slack reactions instead of posting an reply (example: https://twitter.com/stanwood_apps/status/1094899597443518464)
 - Add the handle of the person you are responding in the thread.
-- Ine thread per question, don't mix up two questions in a thread without a clear differenciation (e.g. numbers).
+- One thread per question, don't mix up two questions in a thread without a clear differentiation (e.g. numbers).
 
 **Naming**
 
@@ -1169,9 +1169,13 @@ We use Uber & MyTaxi to book short trips if we want to work during the trip
 
 ### How to use it
 - If you've not automatically received an invitation, ask the MD. 
-- When you book a trip, make sure to have it billed under your stanwood's business account
+- When you book a trip, make sure to have it billed under your Stanwood's account
 
-## Hubspot Sales/CRM [WIP]
+## Hubspot Sales/CRM 
+
+### Background
+
+We use Hubspot to transparently share client communications with the team, for recruiting and to schedule social media posts. Hubspot is also a powerful tool to track website visitors.
 
 ### Logging E-Mail conversations
 
@@ -1394,6 +1398,17 @@ Bitrise is our CD/CI for Android and iOS apps.
 ### Background
 
 1Password is where we store all our logins. 
+
+### Chrome Extension
+1Password has a very handy Chrome extension, make sure to use it!
+
+### Vaults
+
+- `Private` is where every team member can individually store all their private logins to company accounts (Toggl, Hubspot, ...)
+- `Company Accounts` is where our team can access all our shared accounts (Udemy, developer tools, ...)
+- `Payments` is where our team can access our company cards (We limit access to that vault on a need to know basis.)
+
+For email addresses that contain sensible information, they are in other hidden vaults.
 
 ### Chrome Extension
 1Password has a very handy Chrome extension, make sure to use it!
@@ -2323,13 +2338,11 @@ Woodie can ask all the deep questions and meander with the Supreme Mugwump about
 
 All expenses paid of course.
 
-As soon as we hit 52 team members, I will up this to 2x week.
-
 #### Meet a Woody
 
 If a Woodie wants to meet another Woodie in person, we are sponsoring the flight with up to 200€ and a stay at the hotel up to 100€.
 
-Sent me a direct message to the MD and explain, why you want to go.
+Send a direct message to the MD and explain why you want to go.
 
 We will be generous.
 
@@ -2366,7 +2379,7 @@ Our office manager books hotels in #office centrally for everyone. Invoices are 
 
 ### Flights
 
-Every team member books and pays their flights, train rides or car trips themselves in advance. 
+Every team member books and pays their flights, train rides or car trips themselves in advance and expenses them.
 
 ### Dinners
 
@@ -2446,7 +2459,7 @@ The auto assigning is done via your email address.
 
 We (mostly) invoice our clients based on hours worked.
 
-We get paid by the hour. Our clients honour us with a tremendous amount of trust - in return we give them total transparency.
+We get paid by the hour. Our clients honor us with a tremendous amount of trust - in return we give them total transparency.
 
 Update 2019: We are reworking this part. We want to get rid of time tracking as much as possible to reduce our stress level.
 
