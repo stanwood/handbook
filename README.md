@@ -1485,8 +1485,10 @@ Overhead: We should not spend more than
 - The developer grabs an assigned ticket in order of priority and moves to `Working on`.
 - Once the ticket is complete, the developer creates a Pull Request assigned to the project lead and moves the ticket to `Code Review.`
 - Project lead approves the PR and assigns the ticket back to the developer
-- The developer moves the ticket to `QA` when the branch is merged to develop and assigns the QA manager to test the ticket
-- The QA approves the ticket and moves to Done; the original developer is assigned again
+- [GitLab Flow] The developer moves the ticket to `QA` when the branch is merged to develop and assigns the QA manager to test the ticket
+- [GitHub Flow] The developer moves the ticket to `QA` and assigns the QA manager to test the ticket on the separate URL (specific for this ticket). 
+- [GitLab Flow] The QA approves the ticket and moves to Done; the original developer is assigned again
+- [GitHub Flow] The QA approves the ticket, merge Pull Reqest and moves to Done; the original developer is assigned again
 - The QA manager moves rejected tickets are moved to `Ready for development.`
 
 #### Guidelines
