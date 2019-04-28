@@ -23,27 +23,20 @@
     + [IV. Respect, Friendship and Support](#iv-respect--friendship-and-support)
     + [V. Working remotely](#v-working-remotely)
 - [Goals](#goals)
-  * [Company 2019](#company-2019)
-    + [1. Grow](#1-grow)
-    + [2. Delight clients](#2-delight-clients)
-    + [3. Become the autority on digital business and remote work](#3-become-the-autority-on-digital-business-and-remote-work)
-    + [4. Calm our operations](#4-calm-our-operations)
-  * [Teams](#teams)
-    + [Web/iOS/Backend Goals](#web-ios-backend-goals)
-      - [GOAL 1: Profitability (All except QA, Sales)](#goal-1--profitability--all-except-qa--sales-)
-      - [GOAL 2: Reliability & Quality](#goal-2--reliability---quality)
-      - [GOAL 3: Ticket turnaround](#goal-3--ticket-turnaround)
-    + [PM Goals](#pm-goals)
-      - [Objective 1: Improve expectation management and keep client close](#objective-1--improve-expectation-management-and-keep-client-close)
-        * [Key results:](#key-results-)
-        * [Measures:](#measures-)
-      - [Objective 2: Project profitability above 50%](#objective-2--project-profitability-above-50-)
-        * [Key Results](#key-results)
-        * [Measures](#measures)
-      - [Objective 3: Deliver projects in time](#objective-3--deliver-projects-in-time)
-      - [Key results:](#key-results--1)
-        * [Measures](#measures-1)
-- [Goals 2020 [WIP]](#goals-2020--wip-)
+  * [Company OKRs 2019](#company-okrs-2019)
+    + [Objective 1: Grow](#objective-1--grow)
+    + [Objective 2: Delight clients](#objective-2--delight-clients)
+    + [Objective: 3. Become the authority on digital business and remote work](#objective--3-become-the-authority-on-digital-business-and-remote-work)
+    + [Objective 4: Calm our operations](#objective-4--calm-our-operations)
+  * [Squad OKRs](#squad-okrs)
+    + [Objective 1: Profitability](#objective-1--profitability)
+    + [Objective 2: Reliability & Quality](#objective-2--reliability---quality)
+    + [Objective 3: Client communication](#objective-3--client-communication)
+  * [Platform OKRs](#platform-okrs)
+    + [Web OKRs](#web-okrs)
+      - [Objective 1: Build an eight A-level dev rooster](#objective-1--build-an-eight-a-level-dev-rooster)
+      - [Objective 2: Reliability & Quality](#objective-2--reliability---quality-1)
+    + [Objective 3: Profitability](#objective-3--profitability)
 - [Responsibilities](#responsibilities)
   * [General](#general)
   * [Permission Management](#permission-management)
@@ -54,6 +47,7 @@
     + [Background on leadership](#background-on-leadership)
     + [Leadership criteria](#leadership-criteria)
     + [Technical skills to become a leader](#technical-skills-to-become-a-leader)
+    + [Train your successor](#train-your-successor)
   * [Team lead](#team-lead)
     + [Philosophy](#philosophy)
     + [Lead by example](#lead-by-example)
@@ -85,7 +79,7 @@
     + [3. Internal communication](#3-internal-communication)
     + [4. Sprint steering](#4-sprint-steering)
     + [5. Make sure we hit 50% project profitability](#5-make-sure-we-hit-50--project-profitability)
-    + [5. Keep documentation and Zeplin up to date](#5-keep-documentation-and-zeplin-up-to-date)
+    + [6. Keep documentation and Zeplin up to date](#6-keep-documentation-and-zeplin-up-to-date)
     + [6. Upselling](#6-upselling)
 - [Tools](#tools)
   * [Zeplin](#zeplin)
@@ -111,18 +105,22 @@
   * [Sketch](#sketch)
     + [Background](#background-5)
     + [Naming convention](#naming-convention)
-    + [Design libraries](#design-libraries)
+    + [Storage and file versioning](#storage-and-file-versioning)
+    + [Wireframing](#wireframing)
+    + [Symbols and naming](#symbols-and-naming)
+    + [Form Design Guidelines](#form-design-guidelines)
+      - [Pay attention to the following:](#pay-attention-to-the-following-)
+      - [Make sure to:](#make-sure-to-)
   * [Appear.in](#appearin)
     + [Background](#background-6)
     + [How to use it](#how-to-use-it)
   * [Uber/MyTaxi](#uber-mytaxi)
     + [Background](#background-7)
     + [How to use it](#how-to-use-it-1)
-  * [Hubspot Sales/CRM](#hubspot-sales-crm)
-    + [Background](#background-8)
+  * [Hubspot Sales/CRM [WIP]](#hubspot-sales-crm--wip-)
     + [Logging E-Mail conversations](#logging-e-mail-conversations)
   * [Jira](#jira)
-    + [Background](#background-9)
+    + [Background](#background-8)
     + [Types of Work](#types-of-work)
       - [1. Epic](#1-epic)
       - [2. Tasks](#2-tasks)
@@ -134,7 +132,7 @@
     + [Statuses](#statuses)
       - [Guidelines](#guidelines-3)
   * [GitHub/gitlab](#github-gitlab)
-    + [Background](#background-10)
+    + [Background](#background-9)
     + [Gitlab Structure](#gitlab-structure)
     + [Gitflow](#gitflow)
       - [Perennial branches](#perennial-branches)
@@ -144,10 +142,10 @@
       - [Mandatory reviewers](#mandatory-reviewers)
   * [E-Mail](#e-mail)
   * [Bitrise](#bitrise)
-    + [Background](#background-11)
+    + [Background](#background-10)
     + [Guidelines](#guidelines-5)
   * [1Password](#1password)
-    + [Background](#background-12)
+    + [Background](#background-11)
     + [Chrome Extension](#chrome-extension)
     + [Vaults](#vaults)
 - [Core processes](#core-processes)
@@ -169,9 +167,13 @@
       - [Minor Releases](#minor-releases)
       - [Hotfix Releases](#hotfix-releases)
       - [Build numbers](#build-numbers)
-  * [Tickets](#tickets)
-    + [Ticket live cycle](#ticket-live-cycle)
+    + [Tickets](#tickets)
+      - [Ticket live cycle](#ticket-live-cycle)
     + [Project setup Android](#project-setup-android)
+      - [Code Style Android](#code-style-android)
+        * [Setup](#setup)
+        * [Android Studio and git integration](#android-studio-and-git-integration)
+        * [CI](#ci)
     + [Release Procedure Web Projects](#release-procedure-web-projects)
       - [1. During Development](#1-during-development)
       - [2. Creating a testable version](#2-creating-a-testable-version)
@@ -188,7 +190,7 @@
       - [8. Todos](#8-todos)
   * [API Guidelines](#api-guidelines)
     + [Permissions & Setup](#permissions---setup)
-    + [Background](#background-13)
+    + [Background](#background-12)
     + [Preferred solution: 100% control](#preferred-solution--100--control)
       - [1. Own API](#1-own-api)
       - [2. Firebase](#2-firebase)
@@ -210,7 +212,7 @@
   * [Contracts](#contracts)
     + [Freelance vs. Full time employee](#freelance-vs-full-time-employee)
   * [Compensation](#compensation)
-    + [Background](#background-14)
+    + [Background](#background-13)
     + [Developers and project managers](#developers-and-project-managers)
     + [*QA manager*](#-qa-manager-)
     + [Full-time employees](#full-time-employees)
@@ -239,8 +241,8 @@
   * [Continuous Performance Management](#continuous-performance-management)
     + [1 on 1 reviews](#1-on-1-reviews)
   * [People development](#people-development-1)
-    + [Background](#background-15)
-    + [0. Performance review](#0-performance-review)
+    + [Background](#background-14)
+    + [1. Personal development review](#1-personal-development-review)
     + [1. Goals](#1-goals)
     + [2. KPI](#2-kpi)
       - [Developer KPI](#developer-kpi)
@@ -251,18 +253,19 @@
       - [II. EXAMPLES](#ii-examples)
       - [III. NOTES](#iii-notes)
     + [4. Leadership feedback](#4-leadership-feedback)
+  * [Performance Management](#performance-management)
+  * [stanwoodgeist survey](#stanwoodgeist-survey)
   * [Training](#training-1)
-    + [Background](#background-16)
+    + [Background](#background-15)
     + [Courses](#courses)
     + [Masterclasses](#masterclasses)
-    + [Book club](#book-club)
   * [Meet-ups](#meet-ups)
       - [Retreats](#retreats)
       - [Workshops](#workshops)
       - [Grill the boss](#grill-the-boss)
       - [Meet a Woody](#meet-a-woody)
   * [Travel and Expensing](#travel-and-expensing)
-    + [Background](#background-17)
+    + [Background](#background-16)
     + [Booking process](#booking-process)
     + [Hotels](#hotels)
     + [Flights](#flights)
@@ -272,7 +275,7 @@
       - [Freelancers](#freelancers)
       - [Employees](#employees)
   * [Time Tracking](#time-tracking)
-    + [Background](#background-18)
+    + [Background](#background-17)
     + [Working hours](#working-hours)
     + [Public holidays and vacations](#public-holidays-and-vacations)
     + [Workshops](#workshops-1)
@@ -282,7 +285,7 @@
     + [Onboarding](#onboarding-1)
     + [Sales](#sales)
     + [Naming](#naming-1)
-  * [Offboarding](#offboarding)
+  * [Off-boarding](#off-boarding)
     + [Process](#process-1)
     + [Last day](#last-day)
       - [Ops](#ops)
@@ -295,6 +298,8 @@
     + [Tags](#tags)
     + [Cost centres](#cost-centres)
   * [Freelancer Invoices](#freelancer-invoices)
+    + [Required elements](#required-elements)
+    + [Process](#process-2)
   * [Processing invoices](#processing-invoices)
   * [Sales and Marketing](#sales-and-marketing)
     + [Our skills](#our-skills)
@@ -312,13 +317,11 @@
     + [Marketing Operations](#marketing-operations)
       - [1. Social Media](#1-social-media)
       - [2. Blog](#2-blog)
-
-
-# Introduction
+    + [Legal & Contracts](#legal---processes)
 
 ## Background
 
-We aim to be"transparent by default". We want to be equally transparent to potential clients and our team - both current and future. Hence the open-source nature of this document.
+We aim to be"transparent by default". We want to be equally transparent to clients and our team - both current and future. Hence the open-source nature of this document.
 
 We also want to be an active part of the remote-work community and want to share what we've learned with other startups to bring the wonders of working as a distributed team to the world.
 
@@ -333,13 +336,15 @@ Make sure to update the TOC after you added or edited headlines. https://ecotrus
 
 ## Mission
 
-stanwood exists to build excellent technology in a fun and relaxed way.
+stanwood exists to build amazing technology in a fun and relaxed way.
 
 We want to build the largest distributed digital agency in the world to bring the joys of remote work to more developers.
 
 To achieve that, we need happy clients.
 
 Clients are happy when we deliver excellent products on time and budget and give them the sense that we are on top of things at all times.
+
+But we want to go further than that. We want to delight clients by going the extra mile and taking ownership on our projects. With our fast experience from over 100 projects we actively support our clients in becoming successful and achieving their personal and business goals.
 
 ## Professional conduct
 
@@ -399,18 +404,18 @@ We also want to enable potential clients and team members to know what they are 
 
 Some documents are not made public and reside in the GDrive of the MD. These are:
 
-1. All data considered private under data protection regulations or other laws.
+1. All data considered "private" (under data protection regulations or other laws).
 2. Contracts with freelancers and employees.
 
 **Internal**
 
-Some documents are only available to team members and not the public. They reside in databases, GDrive, Debitoor, Github or GitLab. These being:
+Some documents are only available to team members and not the public. They reside in databases, GDrive, Candis, Debitoor, Github or GitLab. These being:
 
 1. Production client data - only accessible by admins.
 2. Client contracts and offers.
-3. Slack conversations - except direct messages or confidential discussions in #leads_private.
+3. Slack conversations - except direct messages or confidential discussions in #leads_private - we strive to discuss typically confidential topics in the open. 
 4. Code and tickets on non-open-source projects
-5. Passwords and production keys (1Password).
+5. Passwords and production keys (they are in 1Password).
 
 #### Openness and honesty
 
@@ -424,7 +429,7 @@ We do not misuse numbers. We know they are biased and need interpretation.
 
 #### Failure
 
-Human beings made mistakes in all of history.
+Human beings made mistakes in all of history. We are living in a world of imperfect information. We also know, that we are biased - especially when it comes to people. We therefore act on the assumption that 90% of our decisions are wrong.
 
 We try to fail often and fast.
 
@@ -436,17 +441,15 @@ We admit failures - even brag about them.
 
 stanwood is a (UK) English speaking company.
 
-Except for very few, English is not our first language and quite frankly, it could use a bit of work.
+Except for very few, English is not our first language and quite frankly, we could use a bit of work on that.
 
-All written and oral communication must be in English. Yes, even between countrymen.
+All written and oral communication must be in English. Yes, even between countrymen. 
 
-We try to avoid abbreviations and industry speak as much as possible so that anyone can understand our wirting.
+We try to avoid abbreviations and industry speak as much as possible so that anyone can understand our writing.
 Only use jargon, if there is no equivalent in everyday English.
 That also helps us not to come across as pompous ;-)
 
-We use UK English in both wirting and speaking.
-
-We refer to employees and freelancers as "team members" or "Woodies". New Woodies are called "Wookies".
+We always refer to employees and freelancers as "team members" or "Woodies".  New Woodies are called "Wookies" (Rooke + Woodie).
 
 When talking about people we use the plural to avoid female or male pronouns and we try to use neutral terms where-ever possible. If not possible we alternate between female and male pronouns.
 
@@ -508,13 +511,15 @@ Instead of complaining, we focus on what we can control.
 
 ### IV. Respect, Friendship and Support
 
-We are a family and talk friendly, respectfully and helpfully.
+We conduct ourselves friendly, respectfully and helpfully at all times. 
 
-The team is more important than the individual.
+But we are no family. Families exist to further relationship. stanwood exists to further our vision and strategy. Even though we strive to have the best of relationships, we let individuals go, if the are detrimental the company.
 
-Unless someone falls on hard times: sickness, personal problems, financial issues.
+Unless someone falls on hard times: sickness, personal problems, financial issues. In those cases, we support.
 
-In those cases, we support unconditionally.
+We also believe in second changes and developing people. A failure in a project is never grounds for termination. Even if somebody currently does not share our vision, strategy or is not embracing our values: We do not let people go lightly. Hiring and developing teams and people is a time consuming and cost intensive process. But we also want to foster a work environment where people feel save to speak up and fail by trying out new things. 
+
+Instead we review, feedback, mentor and give second chances. Even if we decide to let somebody go, we help people we let go to find a new job and cushion the financial impact of a termination. 
 
 We embrace diversity: Nationality, language, religion, gender, sexual orientation, disabilities or mental health.
 We cannot have it colourful enough.
@@ -523,13 +528,7 @@ We don't disclose what someone tells us in trust.
 
 We support each other wherever we can.
 
-We don't let people go lightly.
-We review, feedback, mentor and give second chances.
-We help people we let go to find a new job.
-
-Sexual harassment or discrimination - neither active nor passive - is tolerated.
-
-We do not tolerate harassment or discrimination based on age, disability, race, nationality, religious belief or lack of religious belief, life expectancy, sex, sexual orientation, transgender status.
+We do not allow harassment or discrimination based on age, disability, race, nationality, religious belief or lack thereof, life expectancy, sex, sexual orientation, transgender status.
 
 We do not tolerate violent acts, threats or encouragement of violence, fighting, bullying, coercion or use of abusive or threatening words, directed to, about or against a team member, client or third party, even in a joking manner. First-time violations of this value is a fireable offence.
 
@@ -546,124 +545,77 @@ When someone annoys us, we assume ignorance before bad intentions.
 
 Make an extra effort at communication.
 
-We want to be able to work whenever, whereever and how much we want. Towards that end we build our processes around asynchronous work, document everything and try to avoid the need for real-time communication and collaboration.
+We want to be able to work whenever, where-ever and how much we want. Towards that end we build our processes around asynchronous work, document everything and try to avoid the need for real-time communication and collaboration.
 
-We do not discriminate based on the locations chosen by our team members. We pay the same whether you live in London or Bangkok. However, that also means, that we do not pay for travel time.
+We do not discriminate based on the locations chosen by our team members. We pay the same whether you live in London or Bangkok. However, that also means, that we do not pay for travel time or cost over an average travel within Europe.
 
 # Goals
 
-## Company 2019
+We employ the OKR goal system invented at Intel and popularised by Google by John Doerr.
 
-### 1. Grow
+To read more on the process and background on goal setting, read [Measure what Matters](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221)
 
-- Funnel (hours offered) +400% (6 m€) @sales
-- Revenue +100% (4 m€) @sales
-- Profitability 30% EBIT margin @dev_teams @pms
+## Company OKRs 2019
 
-### 2. Delight clients
+### Objective 1: Grow
 
-- Customer satisfaction 90% @pms
-- Sprint goals hit 90% @dev_teams
-- Major release budgets hit 90% @pms
-- Production and client bugs < 1% of total tickets @qa
+- Key result: Funnel (hours offered in quotes according to Hubspot) +400% (6 m€) @sales
+- Key result: Revenue +100% (4 m€) @sales
+- Key result: Profitability 30% EBIT margin @dev_teams @pms
 
-### 3. Become the autority on digital business and remote work
+### Objective 2: Delight clients
 
-- 200 social posts @karinkleist
-- 10,000 social followers @karinkleist
-- 12 presentations at conventions @hanneskl
+- Key result: Customer satisfaction 90% (NPS) @pms
+- Key result: Sprint goals hit (90% of tickets passed QA Friday 2 am) @squads
+- Key result: Production and client reported bugs < 1% of total tickets @squads
 
-### 4. Calm our operations
+### Objective: 3. Become the authority on digital business and remote work
 
-- Devs answer "How stressful do you feel your job is?" "Sometimes" on average
-(Never, Almost never, Sometimes, Often, All the time)
-- Reduce the number of toggl tasks / hour by 50%
+- Key result: 200 social posts @karinkleist
+- Key result: 10,000 social followers across facebook, twitter, linkedin and instagram @karinkleist
+- Key result: 12 presentations held at events @hanneskl
 
-## Teams
+### Objective 4: Calm our operations
 
-### Web/iOS/Backend Goals
+- Key result: Reduce the stress level (measured via a multi-question survey) of the company by 50% @hanneskl
+- Key result: Reduce the number of Toggl tasks / hour by 50% @hanneskl
 
-#### GOAL 1: Profitability (All except QA, Sales)
+## Squad OKRs
 
-- Measurement 1: More than 40% team profit margin
+### Objective 1: Profitability
 
-- Measurement 2: More than 50% project profit margin
+- Key result 1: More than 50% project profit margin
+- Key result 2: More than 4 weeks worth of work for the devs in approved backlog
 
-#### GOAL 2: Reliability & Quality
+### Objective 2: Reliability & Quality
 
-- Measurement 1: Less than 10% of tickets left in the backlog for a sprint on Saturday 02:00 (Post QA)
+- Key result 1: Less than 10% of tickets left in the backlog for a sprint on Friday 02:00 (past QA)
+- Key result 2: Less than 1% of all tickets are major production and client reported bugs
+- Key result 3: Less than 1% crash rate on production apps latest version
 
-- Measurement 2: Estimation accuracy: Less than +/- 10% on average per ticket (Devs)
+### Objective 3: Client communication
 
-- Measurement 3: Less than 1% of all tickets are major production and client reported bugs (Non-API teams only)
+- Key result 1: Respond to client mails ø 2h. Measured via Hubspot stats. 
+- Key result 2: Responded to client mails 100% within 1 workday. Measured via Hubspot stats. 
+- Key result 3: For all active clients the PMs fill out a form in Hubspot once a week to answer: Did you update the client about: budget, about blocker, about progress?
 
-- Measurement 4: 99% error free responses (in Runscope on production) (API only)
+## Platform OKRs
 
-- Measurement 5: 100% monitoring coverage on production (API only)
+### Web OKRs
 
-- Measurement 6: Less than 1% crash rate on production apps latest version (QA only)
+#### Objective 1: Build an eight A-level dev rooster
 
-- Measurement 7: Less than 1% of all tickets from the last year are open bug tickets per project (QA only)
- 
-#### GOAL 3: Ticket turnaround
+- Key result 1: Performance rating of 2 for everyone
+- Key result 2: Eight developers on October 1st
 
-- Measurement 1: Working on > Code Review (tbd h)  (iOS only, android depending on numbers)
+#### Objective 2: Reliability & Quality
 
-- Measurement 2: Code Review > Done (tbd h)  (iOS only, android depending on numbers)
- 
-- Measurement 3: 80% of tickets passing QA (iOS, Web, Android) (get numbers @hannes)
+- Key result 1: Less than 10% of tickets left in the backlog for a sprint on Friday 02:00 (past QA)
+- Key result 2: Less than 1% of all tickets are major production and client reported bugs
 
-### PM Goals
+### Objective 3: Profitability
 
-#### Objective 1: Improve expectation management and keep client close
-
-##### Key results:
-
-1. Respond to client mails ø 2h, 100% within 1 workday. Measured via hubspot stats. 
-Log all client communication in hubspot and connect your inbox.
-2. All active clients the PMs fill out a form from hubspot once a week to answer: 
-Did you update the client about: budget, about blocker, about progress?
-3. After each major release, the client gets a short mail with asking for *Net Promoter Score* survey. Goal Score above 8.
-
-##### Measures:
-
-1. At least once a week: update the client about: *budget, blocker, progress*.
-2. Ask the clients how updated they feel (one NPS survey per release, one subjective PM estimation per week)
-3. Underpromise and overdeliver
-
-#### Objective 2: Project profitability above 50%
-
-##### Key Results
-
-1. Project profitabilty above 50% as measured by Toggl in BigQuery and Data studio
-
-##### Measures
-
-1. Weekly controlling with toggl timelogs and the burndown dashboard
-2. Push back unreasonable features (use the our Hubspot email templates therefore)
-3. Do not start before:
-    - Offer send & client signed budget
-    - Designs and Specifications
-    - Mock API from us
-    - Kick off with team & client
-
-
-#### Objective 3: Deliver projects in time
-
-#### Key results:
-
-1. 100% burn down (See company goals)
-
-##### Measures
-
-1. Sprint kickoff call week before sprint stats
-2. Give daily PM office hours during a sprint
-3. Seering the sprint
-4. 100% burndown of all sprint tickets (Dashboard, gitlab milestone 100%)
-
-# Goals 2020 [WIP]
-
-- Become more async
+- Key result 1: More than 40% platform profit margin
 
 
 # Responsibilities
@@ -729,8 +681,8 @@ In particular, we are inspired by Google. Apart from being one of the most succe
 2. Humbleness: 90% of our decisions are wrong. Act the part!
 3. Ownership: A lead sees a problem and makes it her own until it's fixed. 
 4. Leadership: "Every success is due to the team, every failure is mine." and generally leading by example.
-5. Smarts: We just love people who are smarter than us. So much to learn...
-6. Consciences: Only the hard stuff is worth doing.
+5. Cognitive abilities: We just love people who are smarter than us. So much to learn...
+6. Grid: Only the hard stuff is worth doing.
 7. Communication: Running a remote team is x10 as hard as in an office. Exceptional communication skills (verbally, written and non-verbally) are key.
 
 ### Technical skills to become a leader
@@ -744,6 +696,15 @@ We hire only the smartest, most dedicated and fun people* and want to empower th
 Promoting on tech skills alone will achieve exactly the opposite. With the best (i.e. Python) coder managing a team, the members would too often refer to the lead instead of making their own decisions. This inevitably leads to micromanagement and a hierarchical corporate structure.
 
 * Actually we want to turn the traditional hierarchy on its head. I wanna be the dumbest person. So we only hire people who are smarter or more experienced than the person who is hiring. If you doubt that, ask @paddy about the original ObjC code in ON AIR and Glamour.
+
+### Train your successor
+
+One of the key responsibilities of leaders at stanwood is to ensure that we will 
+always have leaders on all levels.
+
+Because a leader might leave the company or switch to another role, the first 
+priority for a leader is to have two members of his team which he grooms into
+becoming leaders themselves. 
 
 ## Team lead
 
@@ -948,14 +909,12 @@ Once a day:
     3.    Mock API from us
     4.    Kick off with team & client
 
-
-
-
-### 5. Keep documentation and Zeplin up to date
+### 6. Keep documentation and Zeplin up to date
 
 ### 6. Upselling
 
-Suggest features and improvements to clients. Don't sell unneccesary stuff: Offer and delight. We are inbound, not outbound.
+Suggest features and improvements to clients. Don't sell unnecessary stuff: Offer and delight. We are inbound, not outbound.
+
 
 
 # Tools
@@ -1128,12 +1087,72 @@ We use Sketch for designing all our apps and websites.
 
 Example: 1.1.2 Onboarding - Welcome Screen - Disabled
 
-### Design libraries
+### Storage and file versioning
 
-We try to use design libraries and to follow UX/UI guidelines as much as possible.
+We store all sketch files in the [Design](https://drive.google.com/open?id=0B3BarGWMxbpcfm8xMm1QWXlFTl9pcjFwTklJNWZwSzRPRVVMYkVrVG9JR3k2THpCUDdLcTg).
+The "owner" of that folder is info@stanwood.de
+
+Fileformat: `{year}-{month}-{day} {project key} {project key} {description [optional]}.sketch´ as a file name.
+Example: `2019-04-15 TMB Timberbase.sketch´
+
+Try putting all designs in one file. 
+
+GDrive has a version control. Do **not** create versions of the file on your own. 
+
+### Wireframing
+
+We only use the "2019-03-12 Material Design Library" for wireframing to ensure re-usability of wireframes.
 
 - https://developer.apple.com/design/human-interface-guidelines/
 - https://material.io/
+
+### Symbols and naming
+
+Design files need the same thought and structure as code does to ensure 
+that we can maintain and scale a design.
+
+**Guidelines**
+
+1. Your views should only have symbols in it.
+2. At the end of a design session: Clean up your symbol page
+    - Ensure they are grouped together by topy
+    - Ensure proper naming with paths
+    - Set with elements are adjustable and which not
+2. Do not create custom design elements in your file. 
+    - Discuss with Hannes
+    - Put them into the central template
+    - Adjust the components page in the central template
+3. Structure the view: 0,0 for the first view, 0,1000 for the second
+4. Put iOS and Android side by side
+5. Use themes and font styles
+
+### Form Design Guidelines
+Forms tend to be overlooked but they are actually one of the most important part of any website or app since they are what we want users to interact with. Badly designed forms lead to high churn and bad user experiences. 
+
+#### Pay attention to the following: 
+- How will the form look like on a small screens
+- How will the form look like with/without the keyboard
+- Differences between Android and IOS design guidelines for forms (i.e. date picker)
+- Only add absolutely essential stuff to forms (i. e. you don’t need a password reset button on the registration page)
+- Forms should be designed in a way, that all UI elements fit onto the screen (with the keyboard popped out). For longer forms, use multiple screens
+- Marketing double opt-in must always be optional (by law)
+- It’s fine to require the user to approve T&Cs and Privacy Policies.
+- Passwords should be plaintext by default with a "hide" button
+- The default action button (i.e. "Proceed" or "Sign up") should always float at the bottom, 100% width, with a super bright color and above the keyboard or the bottom of the screen
+- Use customized keyboards (i.e. numbers only for phone)
+- Always reward users after major steps i.e. “Well done for signing up!”. Don’t forget to design a screen or toast that feels good to look at. 
+- Requesting users to sign up (even with a "skip button") in onboarding is dangerous and will generate a high churn rate. When possible, let users browse through the app without having to sign up. 
+
+#### Make sure to: 
+- Design a large (iPhone X etc.) 375x812 and small (iPhone SE) 320x568 resolution
+- Design a large Android 360x720 and small 320x640 resolution
+- Design with and without popped out keyboard (example can be found here)
+- Use material design guidelines for text-fields 
+- Add Google/Facebook sign up buttons on registration and login screens (don’t use text links but the actual logos as in the example)
+- Have buttons look disabled (grey or 50% alpha) until all requirements of a field are met (example can be found here)
+- Put the password field on a separate view and explicitly show the password requirements and make the font colour of the requirements red initially and green, as the user meets them (example can be found here)
+- Add a progress indicator visually and verbally describing the steps required. i.e. "Step 1/4" if there is more than 
+- Design helpful error screens explaining the issue and what the user should do next (example can be found here)
 
 ## Appear.in
 
@@ -1141,7 +1160,7 @@ We try to use design libraries and to follow UX/UI guidelines as much as possibl
 Appear.in is the tool we use for quick video calls with clients or team members. We also use it for Masterclasses as it allows us to record video calls. 
  
 ### How to use it
-- Simply sign up with your Stanwood email 
+- Simply sign up with your stanwood email
 
 ## Uber/MyTaxi
 
@@ -1391,6 +1410,16 @@ Bitrise is our CD/CI for Android and iOS apps.
 
 For email addresses that contain sensible information, they are in other hidden vaults.
 
+### Chrome Extension
+1Password has a very handy Chrome extension, make sure to use it!
+
+### Vaults
+
+- `Private` is where our team can store all their private logins to company accounts (Toggl, Hubspot, ...)
+- `Company Accounts` is where our team can access all our shared accounts (Udemy, developer tools, ...)
+- `Payments` is where our team can access our company cards
+
+We give our employees access to vaults on a need basis for security purpose.
 
 # Core processes
 ## Developer Operations
@@ -1529,9 +1558,9 @@ Releases that merely fix bugs are incremented with the third digit of the versio
 
 We use automatically increasing build numbers from Bitrise. We use the same build version as Bitrise build.
 
-## Tickets
+### Tickets
 
-### Ticket live cycle
+#### Ticket live cycle
 
 |     Topic     |     Project manager     |     Project Lead     |     Developer
 |     -     |     -     |     -     |     -
@@ -1582,8 +1611,87 @@ buildTypes {
 }
 ```
 9. Configure [bitrise](https://stanwood.atlassian.net/wiki/spaces/AN/pages/174293065/Bitrise+Setup+for+Android+apps)
-10. Set up [Code Style](https://stanwood.atlassian.net/wiki/spaces/AN/pages/473235458/Code+Style#CodeStyle-Alternative:ktlint-gradle) -> use the alternative gradle-plugin approach further down the page (be careful with Windows, some things likely need to be adapted there)
+10. Set up [Code Style](#code-style-android).
 11. Set up [architecture](https://github.com/stanwood/framework-arch-android) (general, DI etc.)
+
+#### Code Style Android
+
+##### Setup
+
+All our projects follow the [Android Kotlin Code Style](https://android.github.io/kotlin-guides/style.html) (with one exception: line length 140 chars)
+for all Kotlin classes. We use
+[ktlint](https://github.com/shyiko/ktlint) for automated checks.
+
+To make our lives easier we use the [ktlint-gradle-plugin](https://github.com/JLLeitschuh/ktlint-gradle/).
+
+In your project _build.gradle_:
+
+```groovy
+buildscript {
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "org.jlleitschuh.gradle:ktlint-gradle:<current_version>"
+  }
+}
+
+apply plugin: "org.jlleitschuh.gradle.ktlint"
+
+subprojects {
+    apply plugin: "org.jlleitschuh.gradle.ktlint"
+}
+```
+
+Then create a file called _.editorconfig_ in the root of your project:
+
+```
+[*.{kt, kts}]
+max_line_length = 140
+```
+
+Make sure to now run `./gradlew ktlintFormat` and fix all issues popping up.
+
+Don't forget to set up your [IDE](#android-studio-and-git-integration) and [bitrise](#ci) as well
+
+##### Android Studio and git integration
+
+When importing an already existing and ktlint-enabled (see [section above](#setup) project you need to configure Android Studio to comply with the code style as well (this needs to be done on a per-project base by everyone who wants to work with ktlint enabled projects:
+
+Just execute the following two calls to configure your IDE and git *for this project* and add a pre-commit hook to do the checking (and if necessary formatting for you):
+
+```bash
+./gradlew ktlintApplyToIdea
+./gradlew addKtlintFormatGitPreCommitHook
+```
+
+Make sure to check the _Run Git hooks_ checkbox if you commit via Android Studio (should be set by default).
+
+Last thing to do is setting line length to 140 (_Preferences -> Editor -> Code Style_) - unfortunately `ktlintApplyToIdea` can't do that for you.
+
+##### CI
+
+Add the following step to your workflows to have bitrise check your code style as well:
+
+```yaml
+	- gradle-runner@1.8.4:
+	    inputs:
+	    - gradle_task: ktlintCheck
+	    title: ktlint
+```
+
+Additionally make sure that you have defined the following environment variables:
+
+```yaml
+	- opts:
+      is_expand: false
+    GRADLE_BUILD_FILE_PATH: build.gradle
+	- opts:
+		  is_expand: false
+		GRADLEW_PATH: "./gradlew"
+```
 
 ### Release Procedure Web Projects
 
@@ -1815,13 +1923,11 @@ deploy_production:
 
 ### Guidelines
 
-As we grow the complexity of operating the company grows. To run our company efficiently, every new team member must raise the bar.
+As we grow the complexity of operating the company grows. To run our company efficiently, every new team member must raise the bar. Towards that end, every recruit must be better than the median member than that team.
 
-Towards that end, every recruit must be better than the average member than that team.
+Preferably every recruit is better than any member of that team and especially the manager of that team.
 
-Preferably every recruit is better than any member of that team.
-
-We are acutely aware that hiring is a profoundly biased process. In addition to that, bad hires are very costly both financially and culturally.
+We are acutely aware that hiring - as all people related questions - is a profoundly biased process. In addition to that, bad hires are very costly both financially and culturally.
 
 To remedy those biases we created an elaborate process with multiple steps and at least 5 interviews.
 
@@ -1829,7 +1935,7 @@ To remedy those biases we created an elaborate process with multiple steps and a
 
 See our private [recruitment section](https://gitlab.com/stanwood/internal/recruiting/blob/master/process.md).
 
-This information is private, as they contain tasks candidates need to solve and questions they need to answer.
+Note: This information is private, as they contain tasks candidates need to solve and questions they need to answer.
 
 Being able to prepare in advance defeats the purpose.
 
@@ -1857,7 +1963,7 @@ We prefer working on a freelance basis because of this.
 - captures our entrepreneurial spirit
 - is closer to our processes
 
-Some states have "fake-freelancer-laws" that prohibits this practice sometimes. In those cases, we go with the employment contract.
+Some countries have "fake-freelancer-laws" that prohibits this practice sometimes. In those cases, we go with the employment contract.
 
 ## Compensation
 
@@ -1880,7 +1986,7 @@ We provide a transparent and unified payment scheme based on hourly rates that r
 - Senior: 25€
 - Team lead: 30€
 
-We *do not downgrade* existing hourly rates. We will heal the existing "injustices" with a general rate increase in the next years.
+We *do not downgrade* existing hourly rates. We will heal the existing "injustices" with a general rate increase or our team-member-profit-share program in the next years.
 
 ### Full-time employees
 
@@ -1908,11 +2014,11 @@ Fee: 40 €/h x 8 h/d x 220 d/y = 70,400 €
 ### Perks
 
 #### Headspace Subscription 
-One of our goals is to reduce stress level and help ourselfes with mental health issues.
+One of our goals is to reduce stress level and help ourselves with mental health issues.
 
 For us a mental health issue is just a health issue as a broken arm or a cold - although tougher to heal from.
 
-Towards that end do we offer every team member and alumni a free subscription to the meditation & mindfullness app Headspace.
+Towards that end do we offer every team member and alumni a free subscription to the meditation & mindfulness app Headspace.
 
 https://work.headspace.com/fooxessoftwareentwicklungsgmbh/join
 
@@ -1921,11 +2027,12 @@ Being remote, we obviously don't have an office anymore. While a major part of o
 
 ## Onboarding
 
-New employees (aka Wookies) need these accounts.
+New team members (aka Wookies) need these accounts.
 
 All accounts (except GitHub and Gitlab) must be the @stanwood.io email.
 
 ### 0. TODO Wookie / new employee
+
 Ask them to read this handbook thoroughly!
 
 ### 1. E-mail
@@ -2032,10 +2139,14 @@ Welcome them in #general
 ## Continuous Performance Management
 
 ### 1 on 1 reviews
+
 We do continuous performance management. Leads have regular 1 on 1 reviews with their team members.
-We centre on 5 questions:
+
+We centre on these questions:
+
 - What are you working on?
-- How are you doing; how are your OKRs/Goals coming along?
+- How are you doing?
+- How are your OKRs/Goals coming along?
 - Is there anything impeding your work?
 - What do you need from me to be (more) successful?
 - How do you need to grow to achieve your career goals?
@@ -2051,11 +2162,9 @@ https://gitlab.com/stanwood/blog/blob/master/inspirations_from_books.md#L208-214
 
 stanwood is the embodiment of change. We want to improve every day. One crucial step (others are Analyses, Planning, Doing and Collecting Data) is the Review.
 
-### 0. Performance review
+### 1. Personal development review
 
-Every team member has a performance review meeting with their team lead every quarter.
-
-The Q3 review is the Annual Review where we also add 360° feedback.
+Every team member has a personal development review meeting with their team lead four times per year, where we review 360° feedback.
 
 Apart from general feedback, your lead discusses these points:
 
@@ -2163,6 +2272,32 @@ This is based on Google's research what kind of leader makes teams most effectiv
 
 https://qz.com/1058760/manager-feedback-at-google-employees-are-asked-13-questions-about-their-bosses-as-part-of-a-semi-annual-review-goog-googl/
 
+## Performance Management
+
+We will be introducing a separate performance review process in 2019 because of the following occurrences from 2018/2019. 
+
+1. Team members quit because or rated our compensation and promotion policy as unjust across teams. 
+2. Team members were surprised when we let them go because they were not aware that their performance in the company did not match our expectations. 
+
+When stanwood was just ten people the managing director could talk to everyone in the company enabling
+
+1. Fair and calibrating compensation and promotion
+2. Explain every decision
+3. We also did not let people too because we valued relationships more than performance and impact on the team or clients.
+
+## stanwoodgeist survey
+
+We want to create the best place to work. In a growing company it get's harder to get everyones feedback and synthesise that up the chain of command. Some feedback we never get despite our best efforts. Either because it's too personal, the team member does not fully trust their manager or just because they are too shy in general.
+
+To get a comprehensive picture on how we see the company on various aspects and identify areas of focus on, we sent out the stanwoodgeist survey every 6 months covering topics around
+
+1. Work
+2. Culture
+3. Leadership
+4. Fairness
+
+TODO: @hanneskl: Add questions here
+
 ## Training
 
 ### Background
@@ -2177,18 +2312,13 @@ Just ping the MD or your team lead, and we set you up.
 
 ### Masterclasses
 
-Every Wednesday at 10 am CET we hold a masterclass where one of our own gives a one hour talk (strictly enforced) about an exciting topic.
+Every Wednesday at 10 am CET we hold a masterclass where one of our own gives a 30 minute talk (strictly enforced) about an exciting topic.
 
-The head of engineering will select the mandatory audience on Monday, but everyone including clients is invited to join.
+All masterclasses are voluntary. 
 
-We use hangouts and youtube live streaming for that.
+We use record those classes for later consumption. 
 
 Check #masterclass for more info.
-
-### Book club
-
-Todo: Create a Stackoverflow-like voting system for books and summaries and discussions.
-
 
 ## Meet-ups
 
@@ -2202,19 +2332,21 @@ Between the retreats, teams can meet as often as they see fit.
 
 #### Grill the boss
 
-Every week the MD invites one happy Woody to fly to Munich and spent an evening cooking and drinking.
+Every week the managing director invites one Woodie to fly to Munich and spent an evening cooking and drinking. Every new team member is invited in their first two weeks. 
+
+Woodie can ask all the deep questions and meander with the Supreme Mugwump about vision, strategy and all things geek.
 
 All expenses paid of course.
 
 #### Meet a Woody
 
-If you want to meet a Woody in person, we are sponsoring the flight with up to 200€ and a stay at the hotel up to 100€.
+If a Woodie wants to meet another Woodie in person, we are sponsoring the flight with up to 200€ and a stay at the hotel up to 100€.
 
 Send a direct message to the MD and explain why you want to go.
 
 We will be generous.
 
-Can be project related or just because you always wanted to meet the other person.
+The visit can be be project related or just because a Woodie always wanted to meet the other person.
 
 Groups are also allowed, for instance, to do a team kick off or celebratory launch party.
 
@@ -2222,24 +2354,24 @@ Groups are also allowed, for instance, to do a team kick off or celebratory laun
 
 ### Background
 
-We try to minimize the accounting overhead of traveling as much as possible. 
+We try to minimise the accounting overhead of traveling as much as possible. 
 
 Because invoices for flights are issued to the traveler - not the company - this creates an accounting nightmare.
 
-The bank or credit card statement just says "123.24€ Lufthansa". Then the hunt for the receipts beginns.
+The bank or credit card statement just says "123.24€ Lufthansa". Then the hunt for the receipts begins.
 
-So we turn this around. The person who get's the invoice pays themselve and then expenses.
+So we turn this around. The person who get's the invoice pays themselves and then expenses with the invoice.
 
 ### Booking process
 
-All travels are organized in Trello.
+All travels are organised in Trello.
 
 1. When we need a travel, we create a card in "Planing". 
-2. We add location, attendees, dates and required actions in a checklist and assign who is responsible for it.
-3. As soon as everything is booked, Office manager moves the card to "Booked"
-4. After the event, the main attendee writes a quick summary (optional) and moves to "Done"
+2. Add a location, attendees, dates and required actions in a checklist and assign who is responsible for it.
+3. As soon as everything is booked, our office manager moves the card to "Booked"
+4. After the event, the main attendee writes a quick summary (optional) and moves to "Done".
 
-Then add your flight times to the holiday calendar with "{my name} {flight number}", in order for the organizers see your flight times.
+Then add your flight times to the holiday calendar with "{my name} {flight number}", in order for the organisers see your flight times.
 
 ### Hotels
 
@@ -2251,23 +2383,24 @@ Every team member books and pays their flights, train rides or car trips themsel
 
 ### Dinners
 
-When two Woodies meet or meet with a client, the company pays for food.
+When two Woodies meet or meet with a client, the company pays for food. 
 
 ### What we pay for
 
-As a general rule: You are a guardian of the company. We trust you to make the right choices and spent money wisely.
+As a general rule: You are a guardian of the company. 
+We trust you to make the right choices and spent our money wisely.
 
 **Flights**
 
 - Economy class on first tier airlines (Lufthansa, BA, El-Al)
-- Direct flights outside business hours
-- Upgrade your seats to emergency exit row, if you are planning to work
+- We try to do direct flights only - outside business hours to minimise cost, stress and lost work time
+- Feel free to upgrade your seats to emergency exit row, if you are want to to work
 - Frequent travellers (30+ flights per year) may book business class
 
 **Trains**
 
-- Business or first class if you wanna work
-- Economy class if you wanna chill
+- Business or first class if you want to work
+- Economy class if you want to chill
 
 **Hotels**
 
@@ -2278,42 +2411,47 @@ As a general rule: You are a guardian of the company. We trust you to make the r
 
 - Wework, Business Link or Mindshare
 
+**Food & Drinks**
+
+We do dinners burger-and-beer-style. Anything fancy needs prior approval by the MD.
+
 **Food during events**
 
-- Breakfast at the hotel
-- Lunch paid by the company
-- Dinner paid by the company
-- Drinks paid by the company, if MD is present
+- We have breakfast at the hotel
+- Lunch is paid by the company
+- Dinner is paid by the company
+- Drinks are paid by the MD (if present) (Note: This is not tax-deductable.)
 
 ### Expensing
 
 #### Freelancers
 
 1. Expense your travels via *separate* invoices right after the event. 
-2. Add the original receipts to the invoice (the invoice + receipt(s) need to be in one single PDF).
-3. Sent them to invoice@stanwood.de and CC the MD.
+2. Add the original receipts to the invoice - merge them to one PDF
+3. Sent the invoice to invoice@stanwood.de
 4. The MD wires the money every Monday.
 
-The separate invoice if for accounting purposes. We book those invoices unto a different account.
-
-We recommend you to use an invoicing/accounting tool like *Wave Financial* (free)
-
-
+The separate invoice is for accounting purposes. We book those invoices unto a different account.
 
 #### Employees
 
 Use the expense.zoho.com
 
 1. Upload your receipts (only the ones **you** paid) and car travels
-2. Edit VAT, project, category and amounts
-3. Create a "New Report", add all receipts and submit for approval
-4. The MD approves all travel expenses every Monday
-5. Employees gets the "Reimbursement Reports" via email
-6. Download the report and sent it to `invoice@stanwood.de`
-7. The MD wires the amounts every Monday.
+2. Edit VAT, project, category and amounts, your IBAN and BIC
+3. When claiming food or drinks we have to adhere to strict tax law requirements
+    - add the internal attendees via the field and external attendees and freelancers in the comment
+    - add a detailed description of the occasion: i.e. client pitch for new project, pm workshop, annual review with team member etc.
+    - if > 150€ we need our company name and address on the bill
+4. Create a "New Report", add all receipts and submit for approval
+5. The MD approves all travel expenses every Monday
+6. Employees gets the "Reimbursement Reports" via email
+7. Download the report and sent it to `invoice@stanwood.de`
+8. The MD wires the amounts every Monday.
 
-Step 6 is nessassary to for accounting. We book your travel on the cost center and cost type of your team. 
+Step 6 is necessary to for accounting. We book your travel on the cost centre and cost type of your team. 
 The auto assigning is done via your email address.
+
 
 ## Time Tracking
 
@@ -2323,19 +2461,24 @@ We (mostly) invoice our clients based on hours worked.
 
 We get paid by the hour. Our clients honor us with a tremendous amount of trust - in return we give them total transparency.
 
+Update 2019: We are reworking this part. We want to get rid of time tracking as much as possible to reduce our stress level.
+
 They expect splits by ticket or overhead tasks.
 
 ### Working hours
 
-Entirely up to you, but make it transparent to the project team, and the team leads.
+When you work is up to you, but make it transparent to the project team, and the team leads. But you must make sure to be able to react during CET hours. 
+
+Make sure to answer all messages in slack at least within 1h during 10:00 and 18:00 CET. This is only required if you have not marked the day or period in the Holiday calendar. See the chapter on Slack for details.
+
 
 ### Public holidays and vacations
 
-Please use the GCal Holiday calendar. A 4-week head start would be good, so the leads can plan the projects.
+Use the GCal Holiday calendar to put in your vacations. A 4-week head start would be good, so the leads can plan the projects.
 
 Check with the PM that we have no releases or major events planned during that time.
 
-Make sure to answer all messages in slack at least within 1h during 10:00 and 18:00 CET. This is only required if you have not marked the day or period in the Holiday calendar.
+Also make sure, that the developer from your platform / other PM is not on vacation as well. 
 
 Post in #status, should you be away from the keyboard for more than 1 h during 10:00 and 18:00 CET
 
@@ -2406,58 +2549,53 @@ On invoices they get mapped to
     - Deploying
     - Service Desk
 
-Book non-project work on project Travel & Admin. Try to book as much project hours as possible.
+Book non-project work on project Travel & Admin. Always book project work on projects.
 
-## Offboarding
+## Off-boarding
 
 We strive to be a company that does not have to fire people.
 
 However, even the best hiring and people development process fails from time to time, and we have to part ways with a person.
 
-We give feedback at least every 3 months during our performance reviews.
+We give feedback at least every 6 months during our performance reviews.
 
-There are 5 reasons for ending or not extending a contract:
+There are 5 main reasons for ending or not extending a contract:
 
 1. Gross negligence or malicious behaviour hurting a client or the company
-2. Hurting another Woody or poisoning a team
-3. Not following our Vision and Ideals
-4. Financial strains the company cannot overcome
-5. The employee asks us to end the contract
+2. Hurting another Woody or poisoning the team athmosphere
+3. Not following our vision and values
+4. Long term under-performance with no improvement through coaching. 
+5. Financial strains the company cannot overcome
+6. The employee asks us to end the contract
 
 ### Process
 
+This process is only valid for reasons #3. 
+
+#1 leads to immediate termination without any severance package
+
+For reasons #2, #4 or #5 we only honour the contracts.
+
 - The team lead and the MD decide to start the process.
-- All team leads to discuss the issue.
+- All team leads discuss the issue.
 - Team leads have a veto that the MD can override.
-- The team lead of the team member and the MD decide to end the contract.
-- The employee is told by his lead with Hannes present
-- That he/she is officially on-notice for four weeks
-- What changes are required to stay in the company
-- Daily check-ins with Hannes and the respective Lead 
+- The Woodie is told by his lead with Hannes present, that he/she is officially on-notice for four weeks and what changes are required to stay in the company.
+- Daily check-ins with Hannes and the respective lead.
 - After 4 weeks the leads and Hannes review the process and decide to either
-- End the contract
-- Extend the contract
-- Extend the on-notice period by another 4 weeks
+	- End the contract
+	- Extend the contract
+	- Extend the on-notice period by another 4 weeks
 - The employee is told the decision by the Lead with Hannes present
 - Hannes will inform the company about the decision and the reasons
-- Should the contract be ended, we offer a 4 week grace period during which
-- The employee gets full pay
-- stanwood uses all their contacts to find another engagement for the developer
+- Should the contract be ended, we offer a 4 week grace period during which the employee gets full pay
 - The developer must show 200% commitment during those 4 weeks including reporting every ticket when they start and end working on to the team lead and project manager
-
-This process is only valid for reasons 3. If we ever need to lay off people due to financial strains, we honour the contracts.
-
-Before it comes to that we
-
-- Try to increase sales.
-- Try to get funding.
-- Try to find developers who can work part-time, take sabbaticals or work somewhere else for a bit.
+- stanwood uses all their contacts to find another engagement for the developer
 
 ### Last day
 
 #### Ops
 
-- Disable all accounts from onboarding
+- Disable all accounts from on-boarding
 
 #### MD
 
@@ -2533,39 +2671,39 @@ Every lead is responsible for a cost centre.
 
 ## Freelancer Invoices
 
-    Invoice needs to be in German or English. Can have your language as well.
+Invoice needs to be in German or English. Can have your language as well.
 
-    ### Required elements
+### Required elements
 
-    - Full name of the company or freelancer
-    - Full address of the company or freelancer
-    - Full address of stanwood (take from website imprint)
-    - Tax ID or VAT ID even if there is no tax applicable
-    - Date of the invoice
-    - The month of service provided (usually the prior month
-    - Invoice number: Incremental
-    - Hours worked and hourly rate
-    - Description i.e. "Software development", "consulting"
-    - Add extra lines for travel expenses
-    - Net sum
-    - VAT tax rate and sum (usually 0% and 0€ because of reverse charge)
-    - Gross sum (net + tax)
-    - If reverse charge
-        - add "No tax due to reverse-charge."
-        - add "stanwood VAT ID: DE 321356612".
-    - IBAN and BIC
+- Full name of the company or freelancer
+- Full address of the company or freelancer
+- Full address of stanwood (take from website imprint)
+- Tax ID or VAT ID even if there is no tax applicable
+- Date of the invoice
+- The month of service provided (usually the prior month
+- Invoice number: Incremental
+- Hours worked and hourly rate
+- Description i.e. "Software development", "consulting"
+- Add extra lines for travel expenses
+- Net sum
+- VAT tax rate and sum (usually 0% and 0€ because of reverse charge)
+- Gross sum (net + tax)
+- If reverse charge
+    - add "No tax due to reverse-charge."
+    - add "stanwood VAT ID: DE 321356612".
+- IBAN and BIC
 
-    In Germany, you might be a "Kleinunternehmer". Check with your accountant and then add this to your invoice:
+In Germany, you might be a "Kleinunternehmer". Check with your accountant and then add this to your invoice:
 
-         "Als Kleinunternehmer im Sinne von § 19 Abs. 1 UStG wird keine Umsatzsteuer berechnet."
-         
-    ### Process
+     "Als Kleinunternehmer im Sinne von § 19 Abs. 1 UStG wird keine Umsatzsteuer berechnet."
 
-    1. On the first of the month
-    2. Grab your hours from [Toggl](https://www.toggl.com/app/reports/summary/1229046/period/prevMonth)
-    3. Create an invoice with those hours
-    4. Sent it to invoice@stanwood.de and put the MD on CC.
-    6. After 2-3 weeks you should have the money on your account.
+### Process
+
+1. On the first of the month
+2. Grab your hours from [Toggl](https://www.toggl.com/app/reports/summary/1229046/period/prevMonth)
+3. Create an invoice with those hours
+4. Sent it to invoice@stanwood.de and put the MD on CC.
+6. On the 15th you should have the money on your account.
 
 
 ## Processing invoices
