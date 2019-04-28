@@ -317,7 +317,7 @@
     + [Marketing Operations](#marketing-operations)
       - [1. Social Media](#1-social-media)
       - [2. Blog](#2-blog)
-  * [Legal & Contracts](#legal---Contracts)
+- [Legal & Contracts](#legal---Contracts)
 
 ## Background
 
@@ -2902,7 +2902,7 @@ Publish one post on every channel every day.
 We plan our blog articles in a [GSheet](https://docs.google.com/spreadsheets/d/1nMkUHs_I-A0i-QDiyXCdA_UaDBXNLZqX0gg_TrbjQX4/edit#gid=0)
 
 
-#### Legal & Contracts (TBC with @HannesKleist)
+# Legal & Contracts
 
 Terms of use (last updated April 2019): [GDoc]([GDoc](https://docs.google.com/document/d/1E4mt5aAR0tQEbOnuPBJ7nzczP2morFc9oUH18Fd3LRs/edit#).
 We always should add this as a PDF to our quotes.
