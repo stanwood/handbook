@@ -2902,9 +2902,9 @@ Publish one post on every channel every day.
 We plan our blog articles in a [GSheet](https://docs.google.com/spreadsheets/d/1nMkUHs_I-A0i-QDiyXCdA_UaDBXNLZqX0gg_TrbjQX4/edit#gid=0)
 
 
-# Legal & Contracts
+## Legal & Contracts
 
-Terms of use (last updated April 2019): [GDoc]([GDoc](https://docs.google.com/document/d/1E4mt5aAR0tQEbOnuPBJ7nzczP2morFc9oUH18Fd3LRs/edit#).
+Terms of use (last updated April 2019): [GDoc](https://docs.google.com/document/d/15mriJT3NfzvHvZFWaPkfCyjCZY5cGsjWfkNb8Eky6GY/edit?usp=sharing).
 We always should add this as a PDF to our quotes.
 
 Note: We offer our clients "maintenance contracts" as of Apr 2019 to "keep the app running and fix all upcoming bugs" in the extent of the usual 
