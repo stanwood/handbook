@@ -1,4 +1,4 @@
-# Table of contents
+# Table of contents 2
 
 - [Introduction](#introduction)
   * [Background](#background)
