@@ -1370,9 +1370,9 @@ Web: Arni
 ## E-Mail
 
 E-Mails are slow (having to add all those "Hi there, kind regards") and get
-un-readable when more than 2 people start responding in a threat.
+un-readable when more than 2 people start responding in a thread.
 
-Also, you cannot leave a threat.
+Also, you cannot leave a thread.
 
 1. E-Mails are not allowed for internal communication - except during vacation and to forward attachments like invoices.
 
@@ -1408,7 +1408,7 @@ Bitrise is our CD/CI for Android and iOS apps.
 - `Company Accounts` is where our team can access all our shared accounts (Udemy, developer tools, ...)
 - `Payments` is where our team can access our company cards (We limit access to that vault on a need to know basis.)
 
-For email addresses that contain sensible information, they are in other hidden vaults.
+For email addresses that contain sensitive information, they are in other hidden vaults.
 
 ### Chrome Extension
 1Password has a very handy Chrome extension, make sure to use it!
@@ -1428,7 +1428,7 @@ We give our employees access to vaults on a need basis for security purpose.
 
 We love to develop apps and websites which will be loved by users and clients.
 
-We want to be transparent and dependable for our client. We also want to sync crowd testing and processes of our clients as well as reduce miss-understandings and unclear tickets.
+We want to be transparent and dependable for our client. We also want to sync crowd testing and processes of our clients as well as reduce misunderstandings and unclear tickets.
 
 At last, we want to limit crossfire from clients throughout the week and "jumping" in and out of projects.
 
