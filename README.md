@@ -2647,7 +2647,8 @@ Every invoice gets 3 tags.
 
 1. Type: i.e. Travel (0..9,999)
 2. Company: i.e. Uber (10,000..99,999)
-3. Cost center: i.e. Team android (1000..999,999)
+3. Cost center 1: i.e. Team android (1000..999,999)
+4. Cost center 2: i.e. Squad 1
 
 ### Cost centres
 
@@ -2659,18 +2660,21 @@ Every lead is responsible for a cost centre.
     - ~~1200 Finance~~
 - ~~2000 Product & Project Management~~
     - 2100 Project Management @richard
-    - 2200 Quality Assurance @romy
+    - 2200 Quality Assurance @richard
 - ~~3000 Software Development~~
     - ~~3100 Mobile Development~~
         - 3110 iOS Development @tal
-        - 3120 android Development @sven
+        - 3120 android Development @milosz
     - ~~3200 Web Development~~
         - 3300 Backend Development @marcin
         - 3400 Web Frontend Development @arni
 - ~~4000 Operations~~
     - 4100 Hosting @marcin
     - 4200 Tools @hannes
-
+- ~~5000 Squads~~~
+    - 5100 Squad 1 @marcin
+    - 5200 Squad 2 @tal
+    - 5300 Squad 3 @richard
 ## Freelancer Invoices
 
 Invoice needs to be in German or English. Can have your language as well.
