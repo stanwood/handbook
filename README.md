@@ -2040,7 +2040,9 @@ Ask them to read this handbook thoroughly!
 ### 1. E-mail
 https://admin.google.com/stanwood.de/AdminHome
 
-Lead sends a password to private email of the user and asks new employee to change PW right after logging in.
+Create an e-mail firstname.lastname@stanwood.io
+
+Lead sends a password to private email or mobile phone of the user and asks new employee to change PW right after logging in.
 
 All following invites (if not mentioned otherwise) go to that new Email address.
 
@@ -2059,9 +2061,11 @@ Choose username by following Guideline [guideline](#profile)
 Add private GitHub.com and gitlab.com handle to teams if handle already exists.
 
 https://github.com/orgs/stanwood/teams
+https://gitlab.com/groups/stanwood/-/group_members
 
 **ToDo Wookie**
-If you have no account there, create new account and send your username to your lead
+- If you have no account there, create new account and send your username to your lead
+- enable [2FA](https://docs.gitlab.com/ee/user/profile/account/two_factor_authentication.html)
 
 ### 4. Toggl
 
@@ -2082,9 +2086,11 @@ Add to the group: "Developers."
 
 https://stanwood.1password.com
 
-### 7. Zeplin
+### 7. Zeplin & Invision
 
 https://app.zeplin.io/organization/dashboard.html#oid=58a2f20e6d53d90f4bfd9fee
+
+https://stanwood.invisionapp.com/d/main#/company/members
 
 ### 8. Holiday Calendar
 
@@ -2133,7 +2139,12 @@ Install and configure our own Toggl Chrome extension fork: https://gitlab.com/st
 
 New devs: Enable Toggl + Jira Sync, please: https://toggl-jira-sync.appspot.com/login (still needed with the aforementioned?)
 
-### 17. After they accepted everything:
+### 17. For PMs only: Hubspot
+
+[https://app.hubspot.com/settings/4628060/users](https://app.hubspot.com/settings/4628060/users)
+Use 2FA!
+
+### 18. After they accepted everything:
 
 Add them to the project and general slack channels.
 Welcome them in #general
