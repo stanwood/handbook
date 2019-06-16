@@ -1,5 +1,4 @@
-# Table of Content 
-- [Table of contents](#table-of-contents)
+# Table of contents
   * [Background](#background)
   * [Update the handbook](#update-the-handbook)
 - [Strategy](#strategy)
@@ -321,9 +320,6 @@
       - [1. Social Media](#1-social-media)
       - [2. Blog](#2-blog)
   * [Legal & Contracts](#legal---contracts)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 
 ## Background
 
