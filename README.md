@@ -1,6 +1,5 @@
-# Table of contents
-
-- [Introduction](#introduction)
+# Table of Content 
+- [Table of contents](#table-of-contents)
   * [Background](#background)
   * [Update the handbook](#update-the-handbook)
 - [Strategy](#strategy)
@@ -68,7 +67,6 @@
     + [Code review](#code-review)
   * [Senior developer](#senior-developer)
     + [Responsibilities](#responsibilities-3)
-        * [rets](#rets)
     + [Design and implement new features](#design-and-implement-new-features)
     + [Maintain and manage the existing code base](#maintain-and-manage-the-existing-code-base)
   * [Project managers](#project-managers)
@@ -117,10 +115,11 @@
   * [Uber/MyTaxi](#uber-mytaxi)
     + [Background](#background-7)
     + [How to use it](#how-to-use-it-1)
-  * [Hubspot Sales/CRM [WIP]](#hubspot-sales-crm--wip-)
+  * [Hubspot Sales/CRM](#hubspot-sales-crm)
+    + [Background](#background-8)
     + [Logging E-Mail conversations](#logging-e-mail-conversations)
   * [Jira](#jira)
-    + [Background](#background-8)
+    + [Background](#background-9)
     + [Types of Work](#types-of-work)
       - [1. Epic](#1-epic)
       - [2. Tasks](#2-tasks)
@@ -132,7 +131,7 @@
     + [Statuses](#statuses)
       - [Guidelines](#guidelines-3)
   * [GitHub/gitlab](#github-gitlab)
-    + [Background](#background-9)
+    + [Background](#background-10)
     + [Gitlab Structure](#gitlab-structure)
     + [Gitflow](#gitflow)
       - [Perennial branches](#perennial-branches)
@@ -142,12 +141,14 @@
       - [Mandatory reviewers](#mandatory-reviewers)
   * [E-Mail](#e-mail)
   * [Bitrise](#bitrise)
-    + [Background](#background-10)
+    + [Background](#background-11)
     + [Guidelines](#guidelines-5)
   * [1Password](#1password)
-    + [Background](#background-11)
+    + [Background](#background-12)
     + [Chrome Extension](#chrome-extension)
     + [Vaults](#vaults)
+    + [Chrome Extension](#chrome-extension-1)
+    + [Vaults](#vaults-1)
 - [Core processes](#core-processes)
   * [Developer Operations](#developer-operations)
     + [1. Background](#1-background)
@@ -190,7 +191,7 @@
       - [8. Todos](#8-todos)
   * [API Guidelines](#api-guidelines)
     + [Permissions & Setup](#permissions---setup)
-    + [Background](#background-12)
+    + [Background](#background-13)
     + [Preferred solution: 100% control](#preferred-solution--100--control)
       - [1. Own API](#1-own-api)
       - [2. Firebase](#2-firebase)
@@ -212,7 +213,7 @@
   * [Contracts](#contracts)
     + [Freelance vs. Full time employee](#freelance-vs-full-time-employee)
   * [Compensation](#compensation)
-    + [Background](#background-13)
+    + [Background](#background-14)
     + [Developers and project managers](#developers-and-project-managers)
     + [*QA manager*](#-qa-manager-)
     + [Full-time employees](#full-time-employees)
@@ -227,7 +228,7 @@
     + [4. Toggl](#4-toggl)
     + [5. Jira](#5-jira)
     + [6. 1password](#6-1password)
-    + [7. Zeplin](#7-zeplin)
+    + [7. Zeplin & Invision](#7-zeplin---invision)
     + [8. Holiday Calendar](#8-holiday-calendar)
     + [9. Applause](#9-applause)
     + [10. Add birthday and anniversary to Hannes Calendar and Spreadsheet](#10-add-birthday-and-anniversary-to-hannes-calendar-and-spreadsheet)
@@ -237,11 +238,13 @@
     + [14. Zoho](#14-zoho)
     + [15. Bitrise](#15-bitrise)
     + [16. TODO for Wookie: Setup Jira/gitlab + Toggle Sync:](#16-todo-for-wookie--setup-jira-gitlab---toggle-sync-)
-    + [17. After they accepted everything:](#17-after-they-accepted-everything-)
+    + [17. For PMs only: Hubspot](#17-for-pms-only--hubspot)
+    + [18. Add them to our Shared GDrives](#18-add-them-to-our-shared-gdrives)
+    + [19. After they accepted everything:](#19-after-they-accepted-everything-)
   * [Continuous Performance Management](#continuous-performance-management)
     + [1 on 1 reviews](#1-on-1-reviews)
   * [People development](#people-development-1)
-    + [Background](#background-14)
+    + [Background](#background-15)
     + [1. Personal development review](#1-personal-development-review)
     + [1. Goals](#1-goals)
     + [2. KPI](#2-kpi)
@@ -256,7 +259,7 @@
   * [Performance Management](#performance-management)
   * [stanwoodgeist survey](#stanwoodgeist-survey)
   * [Training](#training-1)
-    + [Background](#background-15)
+    + [Background](#background-16)
     + [Courses](#courses)
     + [Masterclasses](#masterclasses)
   * [Meet-ups](#meet-ups)
@@ -265,7 +268,7 @@
       - [Grill the boss](#grill-the-boss)
       - [Meet a Woody](#meet-a-woody)
   * [Travel and Expensing](#travel-and-expensing)
-    + [Background](#background-16)
+    + [Background](#background-17)
     + [Booking process](#booking-process)
     + [Hotels](#hotels)
     + [Flights](#flights)
@@ -275,7 +278,7 @@
       - [Freelancers](#freelancers)
       - [Employees](#employees)
   * [Time Tracking](#time-tracking)
-    + [Background](#background-17)
+    + [Background](#background-18)
     + [Working hours](#working-hours)
     + [Public holidays and vacations](#public-holidays-and-vacations)
     + [Workshops](#workshops-1)
@@ -317,7 +320,10 @@
     + [Marketing Operations](#marketing-operations)
       - [1. Social Media](#1-social-media)
       - [2. Blog](#2-blog)
-- [Legal & Contracts](#legal---Contracts)
+  * [Legal & Contracts](#legal---contracts)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 ## Background
 
@@ -330,7 +336,7 @@ We also want to be an active part of the remote-work community and want to share
 Feel free to ask questions through [issues](https://gitlab.com/stanwood/handbook/issues/new) and contribute by creating [merge requests](https://gitlab.com/stanwood/handbook/merge_requests/new). When creating an issue, use a link to the line you are referring to for easy access, i.e.
 https://gitlab.com/stanwood/handbook/blob/master/mission.md#L5.
 
-Make sure to update the TOC after you added or edited headlines. https://ecotrust-canada.github.io/markdown-toc/
+Make sure to [update](https://ecotrust-canada.github.io/markdown-toc) the TOC after you added or edited headlines.
 
 # Strategy
 
@@ -2144,7 +2150,11 @@ New devs: Enable Toggl + Jira Sync, please: https://toggl-jira-sync.appspot.com/
 [https://app.hubspot.com/settings/4628060/users](https://app.hubspot.com/settings/4628060/users)
 Use 2FA!
 
-### 18. After they accepted everything:
+### 18. Add them to our Shared GDrives
+
+[Shared Drives](https://drive.google.com/drive/u/0/shared-drives)
+
+### 19. After they accepted everything:
 
 Add them to the project and general slack channels.
 Welcome them in #general
