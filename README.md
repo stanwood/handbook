@@ -1,4 +1,6 @@
-# Table of contents
+# Table of contents 
+
+- [Introduction](#introduction)
   * [Background](#background)
   * [Update the handbook](#update-the-handbook)
 - [Strategy](#strategy)
@@ -415,7 +417,7 @@ Some documents are only available to team members and not the public. They resid
 
 1. Production client data - only accessible by admins.
 2. Client contracts and offers.
-3. Slack conversations - except direct messages or confidential discussions in #leads_private - we strive to discuss typically confidential topics in the open. 
+3. Slack conversations - except direct messages or confidential discussions in #leads_private - we strive to discuss typically confidential topics in the open.
 4. Code and tickets on non-open-source projects
 5. Passwords and production keys (they are in 1Password).
 
@@ -445,7 +447,7 @@ stanwood is a (UK) English speaking company.
 
 Except for very few, English is not our first language and quite frankly, we could use a bit of work on that.
 
-All written and oral communication must be in English. Yes, even between countrymen. 
+All written and oral communication must be in English. Yes, even between countrymen.
 
 We try to avoid abbreviations and industry speak as much as possible so that anyone can understand our writing.
 Only use jargon, if there is no equivalent in everyday English.
@@ -513,15 +515,15 @@ Instead of complaining, we focus on what we can control.
 
 ### IV. Respect, Friendship and Support
 
-We conduct ourselves friendly, respectfully and helpfully at all times. 
+We conduct ourselves friendly, respectfully and helpfully at all times.
 
 But we are no family. Families exist to further relationship. stanwood exists to further our vision and strategy. Even though we strive to have the best of relationships, we let individuals go, if the are detrimental the company.
 
 Unless someone falls on hard times: sickness, personal problems, financial issues. In those cases, we support.
 
-We also believe in second changes and developing people. A failure in a project is never grounds for termination. Even if somebody currently does not share our vision, strategy or is not embracing our values: We do not let people go lightly. Hiring and developing teams and people is a time consuming and cost intensive process. But we also want to foster a work environment where people feel save to speak up and fail by trying out new things. 
+We also believe in second changes and developing people. A failure in a project is never grounds for termination. Even if somebody currently does not share our vision, strategy or is not embracing our values: We do not let people go lightly. Hiring and developing teams and people is a time consuming and cost intensive process. But we also want to foster a work environment where people feel save to speak up and fail by trying out new things.
 
-Instead we review, feedback, mentor and give second chances. Even if we decide to let somebody go, we help people we let go to find a new job and cushion the financial impact of a termination. 
+Instead we review, feedback, mentor and give second chances. Even if we decide to let somebody go, we help people we let go to find a new job and cushion the financial impact of a termination.
 
 We embrace diversity: Nationality, language, religion, gender, sexual orientation, disabilities or mental health.
 We cannot have it colourful enough.
@@ -597,8 +599,8 @@ To read more on the process and background on goal setting, read [Measure what M
 
 ### Objective 3: Client communication
 
-- Key result 1: Respond to client mails ø 2h. Measured via Hubspot stats. 
-- Key result 2: Responded to client mails 100% within 1 workday. Measured via Hubspot stats. 
+- Key result 1: Respond to client mails ø 2h. Measured via Hubspot stats.
+- Key result 2: Responded to client mails 100% within 1 workday. Measured via Hubspot stats.
 - Key result 3: For all active clients the PMs fill out a form in Hubspot once a week to answer: Did you update the client about: budget, about blocker, about progress?
 
 ## Platform OKRs
@@ -677,11 +679,11 @@ When choosing managers we consider a bunch of criteria - based on quantitative r
 
 In particular, we are inspired by Google. Apart from being one of the most successful companies in the world, they are consistently ranked the best-place-to-work by her employees. Their mixture of employee empowerment, influences from the Montessori of Larry and Sergey and the reliance on the latest research and - of course - loads and loads of their own data truly matches our own values.
 
-### Leadership criteria 
+### Leadership criteria
 
 1. Empathy: Can the lead consider the perspective and situation of the other person.
 2. Humbleness: 90% of our decisions are wrong. Act the part!
-3. Ownership: A lead sees a problem and makes it her own until it's fixed. 
+3. Ownership: A lead sees a problem and makes it her own until it's fixed.
 4. Leadership: "Every success is due to the team, every failure is mine." and generally leading by example.
 5. Cognitive abilities: We just love people who are smarter than us. So much to learn...
 6. Grid: Only the hard stuff is worth doing.
@@ -691,7 +693,7 @@ In particular, we are inspired by Google. Apart from being one of the most succe
 
 We do not consider technical skills to be awfully important.
 
-We do not promote the best "screwdriver" to run team "screwdriver". Our leads are tasked with helping the Woodies to grow as a person, becoming an entrepreneur, an amazing team member and generally an awesome human being. They shall also make the team perform better and reduce stress. 
+We do not promote the best "screwdriver" to run team "screwdriver". Our leads are tasked with helping the Woodies to grow as a person, becoming an entrepreneur, an amazing team member and generally an awesome human being. They shall also make the team perform better and reduce stress.
 
 We hire only the smartest, most dedicated and fun people* and want to empower them as much as possible.
 
@@ -701,12 +703,12 @@ Promoting on tech skills alone will achieve exactly the opposite. With the best 
 
 ### Train your successor
 
-One of the key responsibilities of leaders at stanwood is to ensure that we will 
+One of the key responsibilities of leaders at stanwood is to ensure that we will
 always have leaders on all levels.
 
-Because a leader might leave the company or switch to another role, the first 
+Because a leader might leave the company or switch to another role, the first
 priority for a leader is to have two members of his team which he grooms into
-becoming leaders themselves. 
+becoming leaders themselves.
 
 ## Team lead
 
@@ -790,12 +792,12 @@ Project leads oversee the project development, are the direct contact for PM's a
 
 - Make sure the ticket's description is sufficient to start development, for example:
  - Check if designs are provided
- - Check if Backend is available 
+ - Check if Backend is available
  - In case of a bug, tickets check if there is sufficient data to start bug fixing like Crashlytics link, steps to replicate, info about the device
 - Check if tickets scope is not too large and break it down into sub tickets. A good rule of the thumb to ensure ticket estimate is not over 4h
 - Assign tickets to your peers to ensure optimal workload and highest chances to complete tasks on time
 - Review tickets estimations to make sure it is realistic. Not overinflated or too optimistic
-- Review and agree with PM scope of work and timelines, especially important milestones like app release. 
+- Review and agree with PM scope of work and timelines, especially important milestones like app release.
 
 #### Project execution
 
@@ -855,7 +857,7 @@ Order of priorities:
 - React on average within 2 hours to emails, but always aim to be faster.* A short "we are on it, I will get back to you" is ok, but aim for client satisfaction.
 - React to all client requests in 1 workday.
 - Use hubspot to log all client communication (gmail connection or extension with bcc) [see](#hubspot-salescrm-wip)
-- Create tickets to all issues raised within one day.* 
+- Create tickets to all issues raised within one day.*
 - For client raised tickets, add the label `client_reported_bug` to any bug, that the clients caught (on stage or production) or bugs we find on production.
 
  * During business hours.
@@ -870,7 +872,7 @@ For all A-Level sprints:
 
 ### 2. Jira/gitlab Hygiene
 
-Once a day: 
+Once a day:
 
 - Zero the inbox
 - Ping the project leads to estimate if the ticket has not been updated within the last working day
@@ -887,9 +889,9 @@ Once a day:
 3. Keep your lead and all devs up to date of milestones, next milestones, of the pressing issues, blockers and goals 3x per week.
 4. Send an update post for all your projects in slack channel #done friday noon until 12:00am. Keep the post numbered and think about it as a logbook.
 5. For every project include status, blockers, next milestones
-6. is there a sprint in the following week, also include 
-    - if the *sprint planning call* took place, 
-    - how many hours are in the backlog for that sprint 
+6. is there a sprint in the following week, also include
+    - if the *sprint planning call* took place,
+    - how many hours are in the backlog for that sprint
     - and which teams attended the planning call(s) (client, dev-teams, qa).
 
 ### 4. Sprint steering
@@ -955,12 +957,12 @@ For each project, we have 7 standard categories for time tracking.
 
 - `Test agency`  is used by the QA when they review the feedback received from our test agency
 
-- `Ticket review`  is time spent writing tickets, editing them, ... It is mainly used by project managers. 
+- `Ticket review`  is time spent writing tickets, editing them, ... It is mainly used by project managers.
 
 Admin contains 9 categories:
 
 - `Accounting` is mostly used by the MD
-- `Invoicing` is for sending invoices. It is mainly used by the MD. 
+- `Invoicing` is for sending invoices. It is mainly used by the MD.
 - `Onboarding`  is used by Wookies (new employees/freelancers) during their first weeks for all the things they can't categorize: setting up accounts, ...
 - `Processes`  is used by leads for discussions about processes
 - `Squad discussion`  is used for everything around our transition to Squads: calls, discussions, ...
@@ -973,7 +975,7 @@ Then, we have a few more categories
 - `CON - Content`  is for everything around content creation: social media posts, ...
 - `Internal Workshops`  is time spent in team workshops
 - `Recruiting`  is used for time spent interviewing candidates, replying to their emails, ...
-- `Sales`  is used for time spend optimizing our sales funnel, communication with leads, ... anything that can help us get new customers 
+- `Sales`  is used for time spend optimizing our sales funnel, communication with leads, ... anything that can help us get new customers
 - `Training`  is for time spent learning a new skill: Udemy courses, masterclasses, ...
 
 ## Slack
@@ -1059,7 +1061,7 @@ When asking someone something, always use @username. Some developers are a membe
 - start your thread with a *bold headline* in the main channel to keep the channel clean
 - first line: add short one-line summary
 - add the handles of people you need to react with a clear CTA (e.g. FYI, acknowledge, review etc.)
-Example: https://twitter.com/stanwood_apps/status/1094220876600492032 
+Example: https://twitter.com/stanwood_apps/status/1094220876600492032
 
 ### What to use slack for
 
@@ -1097,9 +1099,9 @@ The "owner" of that folder is info@stanwood.de
 Fileformat: `{year}-{month}-{day} {project key} {project key} {description [optional]}.sketch´ as a file name.
 Example: `2019-04-15 TMB Timberbase.sketch´
 
-Try putting all designs in one file. 
+Try putting all designs in one file.
 
-GDrive has a version control. Do **not** create versions of the file on your own. 
+GDrive has a version control. Do **not** create versions of the file on your own.
 
 ### Wireframing
 
@@ -1110,7 +1112,7 @@ We only use the "2019-03-12 Material Design Library" for wireframing to ensure r
 
 ### Symbols and naming
 
-Design files need the same thought and structure as code does to ensure 
+Design files need the same thought and structure as code does to ensure
 that we can maintain and scale a design.
 
 **Guidelines**
@@ -1120,7 +1122,7 @@ that we can maintain and scale a design.
     - Ensure they are grouped together by topy
     - Ensure proper naming with paths
     - Set with elements are adjustable and which not
-2. Do not create custom design elements in your file. 
+2. Do not create custom design elements in your file.
     - Discuss with Hannes
     - Put them into the central template
     - Adjust the components page in the central template
@@ -1129,9 +1131,9 @@ that we can maintain and scale a design.
 5. Use themes and font styles
 
 ### Form Design Guidelines
-Forms tend to be overlooked but they are actually one of the most important part of any website or app since they are what we want users to interact with. Badly designed forms lead to high churn and bad user experiences. 
+Forms tend to be overlooked but they are actually one of the most important part of any website or app since they are what we want users to interact with. Badly designed forms lead to high churn and bad user experiences.
 
-#### Pay attention to the following: 
+#### Pay attention to the following:
 - How will the form look like on a small screens
 - How will the form look like with/without the keyboard
 - Differences between Android and IOS design guidelines for forms (i.e. date picker)
@@ -1142,25 +1144,25 @@ Forms tend to be overlooked but they are actually one of the most important part
 - Passwords should be plaintext by default with a "hide" button
 - The default action button (i.e. "Proceed" or "Sign up") should always float at the bottom, 100% width, with a super bright color and above the keyboard or the bottom of the screen
 - Use customized keyboards (i.e. numbers only for phone)
-- Always reward users after major steps i.e. “Well done for signing up!”. Don’t forget to design a screen or toast that feels good to look at. 
-- Requesting users to sign up (even with a "skip button") in onboarding is dangerous and will generate a high churn rate. When possible, let users browse through the app without having to sign up. 
+- Always reward users after major steps i.e. “Well done for signing up!”. Don’t forget to design a screen or toast that feels good to look at.
+- Requesting users to sign up (even with a "skip button") in onboarding is dangerous and will generate a high churn rate. When possible, let users browse through the app without having to sign up.
 
-#### Make sure to: 
+#### Make sure to:
 - Design a large (iPhone X etc.) 375x812 and small (iPhone SE) 320x568 resolution
 - Design a large Android 360x720 and small 320x640 resolution
 - Design with and without popped out keyboard (example can be found here)
-- Use material design guidelines for text-fields 
+- Use material design guidelines for text-fields
 - Add Google/Facebook sign up buttons on registration and login screens (don’t use text links but the actual logos as in the example)
 - Have buttons look disabled (grey or 50% alpha) until all requirements of a field are met (example can be found here)
 - Put the password field on a separate view and explicitly show the password requirements and make the font colour of the requirements red initially and green, as the user meets them (example can be found here)
-- Add a progress indicator visually and verbally describing the steps required. i.e. "Step 1/4" if there is more than 
+- Add a progress indicator visually and verbally describing the steps required. i.e. "Step 1/4" if there is more than
 - Design helpful error screens explaining the issue and what the user should do next (example can be found here)
 
 ## Appear.in
 
 ### Background
-Appear.in is the tool we use for quick video calls with clients or team members. We also use it for Masterclasses as it allows us to record video calls. 
- 
+Appear.in is the tool we use for quick video calls with clients or team members. We also use it for Masterclasses as it allows us to record video calls.
+
 ### How to use it
 - Simply sign up with your stanwood email
 
@@ -1170,10 +1172,10 @@ Appear.in is the tool we use for quick video calls with clients or team members.
 We use Uber & MyTaxi to book short trips if we want to work during the trip
 
 ### How to use it
-- If you've not automatically received an invitation, ask the MD. 
+- If you've not automatically received an invitation, ask the MD.
 - When you book a trip, make sure to have it billed under your Stanwood's account
 
-## Hubspot Sales/CRM 
+## Hubspot Sales/CRM
 
 ### Background
 
@@ -1183,7 +1185,7 @@ We use Hubspot to transparently share client communications with the team, for r
 
 1. Make sure you have hubspot sales access (free is ok)
 2. Add your sending addresses to your email aliases under `Profile & Preferences` in Hubspot
-3. Install the [hubspot sales extension](https://chrome.google.com/webstore/detail/hubspot-sales/oiiaigjnkhngdbnoookogelabohpglmd?hl=en&hsCtaTracking=650e1a05-dcfb-4d71-905f-c45130741113%7Ca5a89f8f-84cf-4783-bfac-0fc86cdc4789&__hssc=20629287.2.1546784988350&__hstc=20629287.18bf70c1f9f3c6ad0c95a8381712ec66.1528271662874.1546781634695.1546784988350.33&__hsfp=1062686129). 
+3. Install the [hubspot sales extension](https://chrome.google.com/webstore/detail/hubspot-sales/oiiaigjnkhngdbnoookogelabohpglmd?hl=en&hsCtaTracking=650e1a05-dcfb-4d71-905f-c45130741113%7Ca5a89f8f-84cf-4783-bfac-0fc86cdc4789&__hssc=20629287.2.1546784988350&__hstc=20629287.18bf70c1f9f3c6ad0c95a8381712ec66.1528271662874.1546781634695.1546784988350.33&__hsfp=1062686129).
 4. connect your gmail to hubspot
 or:
 5. *Sending:*
@@ -1277,7 +1279,7 @@ Code Review [Dev]: reviewer approves, assigns author, author merges to dev, the 
 
 QA [PM or QA Manager]: Project managers: reviews or asks QA-Manager to review. if failed: Assigns back to the author working on if approved: moves to client review (if no client: done)
 
-Needs client review [Client]: Client approves/declines 
+Needs client review [Client]: Client approves/declines
 
 Done [PM] (Won't fix [PM]: Tickets, that are not solved and need no further attention) (Duplicate [PM]: Duplicates, need to be linked to the original first) Crashlytics Issues
 
@@ -1311,7 +1313,7 @@ Although gitlab is currently only under consideration we use the following struc
 
 The first project in any project group is `documentation` where we host all
 relevant documentation in the wiki for description and the repo for content
-where we want version control - for instance when using merge requests to 
+where we want version control - for instance when using merge requests to
 inform the team of changes in data structure by assigning them as approvers.
 
 ### Gitflow
@@ -1336,19 +1338,19 @@ We are using a custom Gitflow.
 
 For Jira and Toggl to auto import the code changes, we need to follow some naming conventions.
 
-- Pull request: 
+- Pull request:
 	- _github_: SEL-123 {Ticket description}
-	- _gitlab_: #123 Ticket description 
-		- reference the ticket in the description as well, e.g. "See #123" to have an easy to use backlink to the original ticket so that the reviewers can check the ticket contents and can enable time tracking on that ticket. 
+	- _gitlab_: #123 Ticket description
+		- reference the ticket in the description as well, e.g. "See #123" to have an easy to use backlink to the original ticket so that the reviewers can check the ticket contents and can enable time tracking on that ticket.
 		- **Remove the default "Closes #123" as it will close the ticket right after merging which is NOT what we want**
-- Branch: 
+- Branch:
 	- Use `-` for whitespaces in the branch name (just as gitlab does when it auto-creates the branch for you), don't use `_`
 	- _github_: feature,hotfix,bugfix/SEL-123-{ticket-description}, e.g.
 		- feature/SEL-12-awesome-feature
 		- hotfix/SEL-13-awesome-hotfix (fixing something in master)
 		- bugfix/SEL-14-awesome-bugfix (fixing)
 	- _gitlab_: 123-{ticket-description} (best create the branch directly from the ticket via the web UI and then check it out locally)
-- Commit: 
+- Commit:
 	- _github_: SEL-123 {commit description}
 	- _gitlab_: #123 {commit description}
 
@@ -1399,7 +1401,7 @@ Bitrise is our CD/CI for Android and iOS apps.
 
 ### Background
 
-1Password is where we store all our logins. 
+1Password is where we store all our logins.
 
 ### Chrome Extension
 1Password has a very handy Chrome extension, make sure to use it!
@@ -1488,7 +1490,7 @@ Overhead: We should not spend more than
 - Once the ticket is complete, the developer creates a Pull Request assigned to the project lead and moves the ticket to `Code Review.`
 - Project lead approves the PR and assigns the ticket back to the developer
 - [GitLab Flow] The developer moves the ticket to `QA` when the branch is merged to develop and assigns the QA manager to test the ticket
-- [GitHub Flow] The developer moves the ticket to `QA` and assigns the QA manager to test the ticket on the separate URL (specific for this ticket). 
+- [GitHub Flow] The developer moves the ticket to `QA` and assigns the QA manager to test the ticket on the separate URL (specific for this ticket).
 - [GitLab Flow] The QA approves the ticket and moves to Done; the original developer is assigned again
 - [GitHub Flow] The QA approves the ticket, merge Pull Reqest and moves to Done; the original developer is assigned again
 - The QA manager moves rejected tickets are moved to `Ready for development.`
@@ -2017,7 +2019,7 @@ Fee: 40 €/h x 8 h/d x 220 d/y = 70,400 €
 
 ### Perks
 
-#### Headspace Subscription 
+#### Headspace Subscription
 One of our goals is to reduce stress level and help ourselves with mental health issues.
 
 For us a mental health issue is just a health issue as a broken arm or a cold - although tougher to heal from.
@@ -2027,7 +2029,7 @@ Towards that end do we offer every team member and alumni a free subscription to
 https://work.headspace.com/fooxessoftwareentwicklungsgmbh/join
 
 #### Hot desk in the coworking of your choice
-Being remote, we obviously don't have an office anymore. While a major part of our team works from home, we know that some people prefer working in a coworking. 
+Being remote, we obviously don't have an office anymore. While a major part of our team works from home, we know that some people prefer working in a coworking.
 
 ## Onboarding
 
@@ -2094,9 +2096,12 @@ https://app.zeplin.io/organization/dashboard.html#oid=58a2f20e6d53d90f4bfd9fee
 
 https://stanwood.invisionapp.com/d/main#/company/members
 
-### 8. Holiday Calendar
+### 8. Holiday Calendar & All Hands Meetings
 
-https://calendar.google.com/calendar/b/1/render#
+Add user to stanwood@stanwood.io Group
+https://admin.google.com/u/1/ac/groups/00haapch4eh4h7r/members
+
+>User will be added to the Holidays calender and All hands meetings
 
 ### 9. Applause
 
@@ -2293,10 +2298,10 @@ https://qz.com/1058760/manager-feedback-at-google-employees-are-asked-13-questio
 
 ## Performance Management
 
-We will be introducing a separate performance review process in 2019 because of the following occurrences from 2018/2019. 
+We will be introducing a separate performance review process in 2019 because of the following occurrences from 2018/2019.
 
-1. Team members quit because or rated our compensation and promotion policy as unjust across teams. 
-2. Team members were surprised when we let them go because they were not aware that their performance in the company did not match our expectations. 
+1. Team members quit because or rated our compensation and promotion policy as unjust across teams.
+2. Team members were surprised when we let them go because they were not aware that their performance in the company did not match our expectations.
 
 When stanwood was just ten people the managing director could talk to everyone in the company enabling
 
@@ -2333,9 +2338,9 @@ Just ping the MD or your team lead, and we set you up.
 
 Every Wednesday at 10 am CET we hold a masterclass where one of our own gives a 30 minute talk (strictly enforced) about an exciting topic.
 
-All masterclasses are voluntary. 
+All masterclasses are voluntary.
 
-We use record those classes for later consumption. 
+We use record those classes for later consumption.
 
 Check #masterclass for more info.
 
@@ -2351,7 +2356,7 @@ Between the retreats, teams can meet as often as they see fit.
 
 #### Grill the boss
 
-Every week the managing director invites one Woodie to fly to Munich and spent an evening cooking and drinking. Every new team member is invited in their first two weeks. 
+Every week the managing director invites one Woodie to fly to Munich and spent an evening cooking and drinking. Every new team member is invited in their first two weeks.
 
 Woodie can ask all the deep questions and meander with the Supreme Mugwump about vision, strategy and all things geek.
 
@@ -2373,7 +2378,7 @@ Groups are also allowed, for instance, to do a team kick off or celebratory laun
 
 ### Background
 
-We try to minimise the accounting overhead of traveling as much as possible. 
+We try to minimise the accounting overhead of traveling as much as possible.
 
 Because invoices for flights are issued to the traveler - not the company - this creates an accounting nightmare.
 
@@ -2385,7 +2390,7 @@ So we turn this around. The person who get's the invoice pays themselves and the
 
 All travels are organised in Trello.
 
-1. When we need a travel, we create a card in "Planing". 
+1. When we need a travel, we create a card in "Planing".
 2. Add a location, attendees, dates and required actions in a checklist and assign who is responsible for it.
 3. As soon as everything is booked, our office manager moves the card to "Booked"
 4. After the event, the main attendee writes a quick summary (optional) and moves to "Done".
@@ -2402,11 +2407,11 @@ Every team member books and pays their flights, train rides or car trips themsel
 
 ### Dinners
 
-When two Woodies meet or meet with a client, the company pays for food. 
+When two Woodies meet or meet with a client, the company pays for food.
 
 ### What we pay for
 
-As a general rule: You are a guardian of the company. 
+As a general rule: You are a guardian of the company.
 We trust you to make the right choices and spent our money wisely.
 
 **Flights**
@@ -2445,7 +2450,7 @@ We do dinners burger-and-beer-style. Anything fancy needs prior approval by the 
 
 #### Freelancers
 
-1. Expense your travels via *separate* invoices right after the event. 
+1. Expense your travels via *separate* invoices right after the event.
 2. Add the original receipts to the invoice - merge them to one PDF
 3. Sent the invoice to invoice@stanwood.de
 4. The MD wires the money every Monday.
@@ -2468,7 +2473,7 @@ Use the expense.zoho.com
 7. Download the report and sent it to `invoice@stanwood.de`
 8. The MD wires the amounts every Monday.
 
-Step 6 is necessary to for accounting. We book your travel on the cost centre and cost type of your team. 
+Step 6 is necessary to for accounting. We book your travel on the cost centre and cost type of your team.
 The auto assigning is done via your email address.
 
 
@@ -2486,7 +2491,7 @@ They expect splits by ticket or overhead tasks.
 
 ### Working hours
 
-When you work is up to you, but make it transparent to the project team, and the team leads. But you must make sure to be able to react during CET hours. 
+When you work is up to you, but make it transparent to the project team, and the team leads. But you must make sure to be able to react during CET hours.
 
 Make sure to answer all messages in slack at least within 1h during 10:00 and 18:00 CET. This is only required if you have not marked the day or period in the Holiday calendar. See the chapter on Slack for details.
 
@@ -2497,7 +2502,7 @@ Use the GCal Holiday calendar to put in your vacations. A 4-week head start woul
 
 Check with the PM that we have no releases or major events planned during that time.
 
-Also make sure, that the developer from your platform / other PM is not on vacation as well. 
+Also make sure, that the developer from your platform / other PM is not on vacation as well.
 
 Post in #status, should you be away from the keyboard for more than 1 h during 10:00 and 18:00 CET
 
@@ -2583,13 +2588,13 @@ There are 5 main reasons for ending or not extending a contract:
 1. Gross negligence or malicious behaviour hurting a client or the company
 2. Hurting another Woody or poisoning the team athmosphere
 3. Not following our vision and values
-4. Long term under-performance with no improvement through coaching. 
+4. Long term under-performance with no improvement through coaching.
 5. Financial strains the company cannot overcome
 6. The employee asks us to end the contract
 
 ### Process
 
-This process is only valid for reasons #3. 
+This process is only valid for reasons #3.
 
 #1 leads to immediate termination without any severance package
 
@@ -2636,9 +2641,12 @@ For reasons #2, #4 or #5 we only honour the contracts.
 
 Every team member who leaves the company on his accord will become part of the esteemed club of stanwood alumni.
 
-They keep their email and slack account and get invited to all company retreats and workshops.
+### Stanwood Alumni Perks
+As a Stanwood Alumni, you: 
 
-Travel expenses are paid but not the hours.
+- Keep your email and slack account 
+- Get invited to all company retreats and workshops (travel expenses are paid but not the hours).
+- Can keep using your Private 1Password Vault
 
 
 # Support processes
@@ -2752,7 +2760,7 @@ The whole process takes 10 business days at best and sometimes up to three weeks
 - App data
 - Consulting: Big data scientiesty + business casper
 - Business planing and concepting
-- Street credibility 
+- Street credibility
 - ON AIR
 - Corporate background
 - Funke Exit
@@ -2907,10 +2915,10 @@ The whole process takes 10 business days at best and sometimes up to three weeks
 
 #### 1. Social Media
 
-We schedule post to instagram, facebook, twitter (MD and company accounts), 
-linkedin (MD and company accounts) and xing (via API) via [Hubspot's social 
+We schedule post to instagram, facebook, twitter (MD and company accounts),
+linkedin (MD and company accounts) and xing (via API) via [Hubspot's social
 media publishing tool](https://app.hubspot.com/social/4628060)
- at least 7 days in advance. 
+ at least 7 days in advance.
 
 We write and plan the posts in a [GDoc](https://docs.google.com/document/d/1E4mt5aAR0tQEbOnuPBJ7nzczP2morFc9oUH18Fd3LRs/edit#).
 
@@ -2928,18 +2936,16 @@ We plan our blog articles in a [GSheet](https://docs.google.com/spreadsheets/d/1
 Terms of use (last updated April 2019): [GDoc](https://docs.google.com/document/d/15mriJT3NfzvHvZFWaPkfCyjCZY5cGsjWfkNb8Eky6GY/edit?usp=sharing).
 We always should add this as a PDF to our quotes.
 
-Note: We offer our clients "maintenance contracts" as of Apr 2019 to "keep the app running and fix all upcoming bugs" in the extent of the usual 
+Note: We offer our clients "maintenance contracts" as of Apr 2019 to "keep the app running and fix all upcoming bugs" in the extent of the usual
 bug fixing (20% of the total budget).
 
-Example of maintenance contract: [GDoc](https://docs.google.com/document/d/1HHuQet8C-DDFBtdHAbu7wZL_Pkb7XKkxHrt8G5HIT0g/edit?usp=sharing). 
-Maintenance contracts are drafted by MD. 
+Example of maintenance contract: [GDoc](https://docs.google.com/document/d/1HHuQet8C-DDFBtdHAbu7wZL_Pkb7XKkxHrt8G5HIT0g/edit?usp=sharing).
+Maintenance contracts are drafted by MD.
 
 *Process*
-1. PMs or MD prepare quotes for the clients (in Debitoor) and attach ToU as PDF to the quote 
+1. PMs or MD prepare quotes for the clients (in Debitoor) and attach ToU as PDF to the quote
 2. In case PM creates the quote, it should always be approved by MD
 3. In case PM creates the quote and it requires a maintenance contract, PM should contact MD.
 
-Note: maintenance contracts are only sent with the initial quotes for MVPs and bigger project tasks. You don't need to attach the maintenance contract 
+Note: maintenance contracts are only sent with the initial quotes for MVPs and bigger project tasks. You don't need to attach the maintenance contract
 to later quotes with smaller changes after the MVP was submitted (e.g. for change requests & redesigns).
-
-
