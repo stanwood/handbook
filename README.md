@@ -654,7 +654,7 @@ Of course, we always strive to involve everyone in all discussions.
 
 We are facing four opposing principles when it comes to permissions.
 
-1. Transparency and openness by default: Every team member should be able to read and change anything.
+1. Transparency and openness by default: Every team member should be able to read and change anything.
 2. CD/CI: We need to save guard against breaking our continuous integration and deployment or production environments.
 3. Data protection: Private end-user data (databases, logs etc.) should be visible only to the smallest amount of people.
 4. We do not want a bottleneck on permissions should an admin be not available.
@@ -665,7 +665,7 @@ We are facing four opposing principles when it comes to permissions.
 2. Code and documentation: Every team member has read permissions.
 3. Our Head of Automation closely guards writing-permissions.
 4. Contact the Head of Automation in #operations in Slack if you need more permissions.
-5. Every admin permission should be with three people: MD, Head of backend development, Head of Automation.
+5. Every admin permission should be with three people: MD, Head of backend development, Head of Automation.
 
 
 
@@ -945,7 +945,14 @@ We use Zeplin to share and discuss designs and also to host design assets and do
 We currently pay our freelancers and invoice our customers on an hourly rate and use Toggl to track time.
 
 ### Guidelines
-For each project, we have 7 standard categories for time tracking.
+Let's go through the different `projects`under which you can track time. There are four main topics around which you can track time: 
+1. Work for clients, 
+2. Stanwood related work
+3. Squad related work
+4. Platform related work (`IOS`, `Android`, ...)
+
+#### 1. Project based
+For each client based project, we have 7 standard categories for time tracking.
 
 - `Client communication` is mainly used by project managers it involves everything around communicating with clients: Workshops, Client meetings, calls, ...
 
@@ -959,7 +966,8 @@ For each project, we have 7 standard categories for time tracking.
 
 - `Ticket review`  is time spent writing tickets, editing them, ... It is mainly used by project managers.
 
-Admin contains 9 categories:
+#### 2. General Stanwood
+For general company related tasks, we use the `admin` project which contains 9 categories:
 
 - `Accounting` is mostly used by the MD
 - `Invoicing` is for sending invoices. It is mainly used by the MD.
@@ -970,13 +978,34 @@ Admin contains 9 categories:
 - `Weekly` is for weekly team calls
 - `Team Daily`  is used by the web team only for their calls
 
-Then, we have a few more categories
+Then, we have a few more categories that are Stanwood related
 
-- `CON - Content`  is for everything around content creation: social media posts, ...
+- `Marketing`  is for everything around content creation: social media posts, article writing, ...
 - `Internal Workshops`  is time spent in team workshops
 - `Recruiting`  is used for time spent interviewing candidates, replying to their emails, ...
 - `Sales`  is used for time spend optimizing our sales funnel, communication with leads, ... anything that can help us get new customers
 - `Training`  is for time spent learning a new skill: Udemy courses, masterclasses, ...
+
+#### 3. Squad related
+Squad related tasks are the following: 
+
+ - `Admin` is for general administrative tasks related to the squad, mainly used by the squad lead.
+ - `People Operations` is for tasks like recruiting or other HR related work. It's also mainly used by the squad lead
+ - `Squad Meetings & Workshops` is for all the meetings, calls & workshops that are Squad related. The weekly planning call for example.
+ - `Out of work / Nothing to do` has been introduced recently and is to be used by people who have minimum monthly hours but no work to do - it does not apply to most employees.
+
+#### 4. Platform related
+We have 5 platforms at Stanwood: `IOS`, `Android`, `Web`, `Backend`& `Project Management`. For each of these platforms there are three subprojects under which you can track time: 
+
+ - `Frameworks` is for work on frameworks. 
+ - `Training`is for courses, masterclasses or anything you are doing to sharpen your skills for the job
+ - `Workshops & Meetings`is for all platform related meetings and workshops. 
+
+The distinction between Platform work, Squad work or Stanwood work can sometimes be a bit confusing. If you have any doubts, always ask someone. Some subprojects have the same name (`Admin` for ex.): check the prefix to verify under which project you are tracking:
+
+`SQ0` is for Stanwood
+`SQ1`, `SQ2` & `SQ3` is for Squads
+
 
 ## Slack
 
@@ -1769,7 +1798,7 @@ Description of API components, i.e. firebase, GAE, 3rd party APIs with links to 
 #### 5. Views
 List of all views with different platforms and screen resolutions with links to Zeplin
 
-| Name | Link
+| Name | Link
 | - | - |
 | | |
 
