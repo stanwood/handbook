@@ -2092,9 +2092,12 @@ https://app.zeplin.io/organization/dashboard.html#oid=58a2f20e6d53d90f4bfd9fee
 
 https://stanwood.invisionapp.com/d/main#/company/members
 
-### 8. Holiday Calendar
+### 8. Holiday Calendar & All Hands Meetings
 
-https://calendar.google.com/calendar/b/1/render#
+Add user to stanwood@stanwood.io Group
+https://admin.google.com/u/1/ac/groups/00haapch4eh4h7r/members
+
+>User will be added to the Holidays calender and All hands meetings
 
 ### 9. Applause
 
