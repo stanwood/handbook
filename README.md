@@ -1,6 +1,8 @@
-# Table of contents 
+# Introduction
+## Table of contents 
 
 - [Introduction](#introduction)
+  * [Table of contents](#table-of-contents)
   * [Background](#background)
   * [Update the handbook](#update-the-handbook)
 - [Strategy](#strategy)
@@ -87,6 +89,10 @@
   * [Toggl](#toggl)
     + [Background](#background-3)
     + [Guidelines](#guidelines-1)
+      - [1. Project based](#1-project-based)
+      - [2. General Stanwood](#2-general-stanwood)
+      - [3. Squad related](#3-squad-related)
+      - [4. Platform related](#4-platform-related)
   * [Slack](#slack)
     + [Background](#background-4)
     + [Profile](#profile)
@@ -230,7 +236,7 @@
     + [5. Jira](#5-jira)
     + [6. 1password](#6-1password)
     + [7. Zeplin & Invision](#7-zeplin---invision)
-    + [8. Holiday Calendar](#8-holiday-calendar)
+    + [8. Holiday Calendar & All Hands Meetings](#8-holiday-calendar---all-hands-meetings)
     + [9. Applause](#9-applause)
     + [10. Add birthday and anniversary to Hannes Calendar and Spreadsheet](#10-add-birthday-and-anniversary-to-hannes-calendar-and-spreadsheet)
     + [11. MyTaxi](#11-mytaxi)
@@ -296,6 +302,7 @@
       - [MD](#md)
       - [Person leaving](#person-leaving)
   * [Alumni](#alumni)
+    + [Stanwood Alumni Perks](#stanwood-alumni-perks)
 - [Support processes](#support-processes)
   * [Accounting](#accounting)
     + [Tools & Processes](#tools---processes)
@@ -967,16 +974,15 @@ For each client based project, we have 7 standard categories for time tracking.
 - `Ticket review`  is time spent writing tickets, editing them, ... It is mainly used by project managers.
 
 #### 2. General Stanwood
-For general company related tasks, we use the `admin` project which contains 9 categories:
+For general company related tasks, we use the `admin` project which contains 6 categories:
 
 - `Accounting` is mostly used by the MD
 - `Invoicing` is for sending invoices. It is mainly used by the MD.
 - `Onboarding`  is used by Wookies (new employees/freelancers) during their first weeks for all the things they can't categorize: setting up accounts, ...
-- `Processes`  is used by leads for discussions about processes
-- `Squad discussion`  is used for everything around our transition to Squads: calls, discussions, ...
 - `Strategy`  is mainly used by leads for discussions about the company's strategy
-- `Weekly` is for weekly team calls
-- `Team Daily`  is used by the web team only for their calls
+- `Zero inbox` is mainly used by the MD or leads
+- `Travel`is only used by the MD to get a better understanding of how he spends his time.
+
 
 Then, we have a few more categories that are Stanwood related
 
