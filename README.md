@@ -596,7 +596,8 @@ To read more on the process and background on goal setting, read [Measure what M
 ### Objective 1: Profitability
 
 - Key result 1: More than 50% project profit margin
-- Key result 2: More than 4 weeks worth of work for the devs in approved backlog
+- Key result 2: More than 90 hours worth of work per dev in `Approved Backlog`
+- Key result 3: More than 30 hours worth of work per dev in in `Ready for Development`
 
 ### Objective 2: Reliability & Quality
 
@@ -612,12 +613,10 @@ To read more on the process and background on goal setting, read [Measure what M
 
 ## Platform OKRs
 
-### Web OKRs
-
 #### Objective 1: Build an eight A-level dev rooster
 
 - Key result 1: Performance rating of 2 for everyone
-- Key result 2: Eight developers on October 1st
+- Key result 2: Six developers per platform on October 1st
 
 #### Objective 2: Reliability & Quality
 
@@ -627,7 +626,6 @@ To read more on the process and background on goal setting, read [Measure what M
 ### Objective 3: Profitability
 
 - Key result 1: More than 40% platform profit margin
-
 
 # Responsibilities
 
