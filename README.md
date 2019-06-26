@@ -641,19 +641,54 @@ We need to have clear policies on
 
 Of course, we always strive to involve everyone in all discussions.
 
-| Topic | MD | Team Leads | Heads | PMs | Developers | Examples
-| - | - | - | - | - | - | -
-| Initial project staffing | Advise | Decide |  | Advice |  |
-| Ongoing project staffing | Decide | Advise |  | Advise |  |
-| Coding practices |  | Decide |  |  | Advise | Switching to a new language, dependency management tool, 3rd party libs, coding style
-| Stack | Decide | Advice | Advice |  |  | Native code vs reacting/xamarin/vue/angular, Google App Engine, AWS, Python vs Node.js, Firebase vs Azure
-| Tools | Decide |  | Advice |  |  | Github vs Confluence, Slack vs Hipchat, CD/CI Tools
-| Internal frameworks | Decide | Advice |  |  | Propose | Analytics, Rating, Core...
-| Recruiting | Advise | Decide |  |  | Propose | Finding and hiring new devs
-| Training | Advise | Decide |  |  | Advise | Masterclasses, pair programming, Udemy courses
-| Personal development | Advise | Decide |  |  |  | Leadership training, language classes, mentoring
-| Contract extension | Advise | Decide |  |  |  | Freelancers (1x per year), full-time employees after a trial period
-| Promotions | Advice | Decide |  |  |  | Mid > Senior > Project lead
+  
+
+
+|  **`Topic`** | **`Init`** | **`Advice`** | **`Decide`** | **`Implement`** | **`Comment`** |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|  `Freelancer invoicing` | `Squad` | `-` | **`Squad`** | `Squad` |  |
+|  `Time tracking` | `Squad` | `-` | **`Managing director`** | `Squad` |  |
+|  `Admin` | `Managing director` | `Managing director/Squad` | **`Managing director`** | `Managing director/Squad` |  |
+|  `Budgets` | `Managing director` | `Squad, Platform` | **`Squad/Managing director*`** | `-` | `- Headcount: Squad`<br/>`- Corporate (Sales, Marketing): Managing director`<br/>`- Platform: Managing director`<br/>`- Hardware: (Deferred to Compensation)`<br/>`- QA Hardware: Squad`<br/>`- Software: Squad `<br/>`- Hosting: Squad`<br/>`- Frameworks budgets: Managing director` |
+|  `Goal setting - Company & Squads` | `Managing director` | `Squad` | **`Managing director`** | `Squad` |  |
+|  `Goal setting - Woodie` | `Squad` | `Everyone` | **`Squad`** | `Everyone` ||
+|  `Revenue projection` | `Managing director` | `Squad` | **`Managing director`** | `-` |  |
+|  `Security` | `Head of tools*` | `Platform` | **`Managing director`** | `Head of tools` | `*+ external data protection officer` |
+|  `Marketing` | `Head of marketing` | `Platform/Head of sales*` | **`Managing director`** | `Marketing` | `-` |
+|  `Development process` | `Platform` | `Squad` | **`Platform`** | `Platform` |  |
+|  `Platform architecture` | `Platform` | `-` | **`Platform`** | `Platform` |  |
+|  `Workshop Organisation - Company` | `Managing director` | `Squad` | **`Managing director`** | `Karin & Squad` |  |
+|  `Workshop Organisation - Platform` | `Platform` | `Squad` | **`Platform`** | `Platform` |  |
+|  `Workshop Organisation - Squad` | `Squad` | `Platform` | **`Squad`** | `Squad` |  |
+|  `Frameworks` | `Platform` | `-` | **`Platform`** | `Platform` |  |
+|  `System architetcture` | `Platform` | `Squad` | **`Managing director`** | `Platform` |  |
+|  `Alumni` | `Managing director` | `Platform` | **`Managing director`** | `Platform` |  |
+|  `Communication - Squad` | `Squad` | `Managing director` | **`Squad`** | `Squad` |  |
+|  `Communication - Policy` | `Everyone` | `Squad` | **`Managing director*`** | `Managing director` | `*(general, thanks, random, status if not how)` |
+|  `Strategy` | `Head of biz dev` | `Everyone` | **`Owners`** | `Squad` |  |
+|  `Travel` | `Managing director` | `Squad/Platform` | **`Managing director`** | `Everyone/Assistant` |  |
+|  `Values` | `Managing director` | `Everyone` | **`Managing director`** | `Managing director` |  |
+|  `Workshops` | `Platform/Squad` | `Everyone` | **`Managing director`** | `Platform/Squad` |  |
+|  `Customer relations` | `Head of sales/Platform*` | `Platform/Head of sales*` | **`Squad`** | `Squad` | `*Head of sales (new clients) / PM Platform (existing clients)` |
+|  `Compensation` | `Platform` | `Squad` | **`Managing director`** | `Managing director` |  |
+|  `New squad creation` | `Managing director/Squad*` | `Advise Squad/Platform` | **`Managing director`** | `New squad` | `* MD (new clients) / Squad (existing clients)` |
+|  `Offboarding` | `People Ops Committee` | `-` | **`People Ops Committee`** | `Managing director` |  |
+|  `Onboarding` | `Platform/Squad` | `Platform/Squad` | **`Platform/Squad`** | `Platform/Squad` |  |
+|  `Personal development` | `Squad` | `Everyone*` | **`Squad`** | `Squad` | `*+Clients for PMs` |
+|  `Performance management` | `People Ops Committee` | `-` | **`People Ops Committee`** | `Squad` |  |
+|  `Promotions` | `People Ops Committee` | `-` | **`People Ops Committee`** | `Managing director/Squad` |  |
+|  `Recruiting` | `Squad` | `Platform` | **`People Ops Committee`** | `Platform` |  |
+|  `Trainings` | `Platform` | `-` | **`Platform`** | `Everyone` |  |
+|  `Transfer` | `Squad` | `-` | **`Squad`** | `Squad` |  |
+|  `Product documentation` | `Squad` | `-` | **`Squad`** | `Squad` |  |
+|  `Assigning projects to squads` | `Managing director` | `Squad` | **`Squad leads`** | `Squad` |  |
+|  `Project planing` | `Squad` | `-` | **`Squad`** | `Squad` |  |
+|  `Sales` | `Head of sales/Platform*` | `Platform/Head of sales*` | **`Managing director`** | `Richard` | `*Head of sales (new clients) / PM Platform (existing clients)` |
+|  `Project staffing` | `Squad` | `-` | **`Squad`** | `Squad` |  |
+|  `Utilization` | `Squad` | `-` | **`Squad`** | `Squad` |  |
+|  `Communication tools` | `Squad` | `Managing director` | **`Squad`** | `Squad` |  |
+|  `Corporate tools` | `Managing director` | `Squad*` | **`Managing director`** | `Managing director` | `*on squad related software` |
+|  `Project management process` | `Squad` | `Platform` | **`Squad`** | `Squad` |  |
 
 ## Permission Management
 
