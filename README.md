@@ -1260,10 +1260,11 @@ We use Hubspot to transparently share client communications with the team, for r
 or:
 5. *Sending:*
 Activate `Log` and `Track` in the compose-view when **sending** Mails. If it's a known contact with GDPR consent, Hubspot will add the log to the contact.
-If you no not use chrome, use `4628060@bcc.hubspot.com`
+If you no not use chrome (e.g. if you answer on your phones mail app), use `4628060@bcc.hubspot.com`
 6. *Receiving client communication:*
+See 4: Connect your Gmail to hubspot. If you *did not connect*:_
 If the client did not cc is to our sales address, the mail will not get logged.
-Forward the mail **before** replying to `4628060@forward.hubspot.com`
+Forward unlogged mails to `4628060@forward.hubspot.com`
 
 ## Jira
 
