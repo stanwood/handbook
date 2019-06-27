@@ -1,3 +1,4 @@
+
 # Introduction
 ## Table of contents 
 
@@ -900,7 +901,7 @@ Order of priorities:
 - React to all client requests in 1 workday.
 - Use hubspot to log all client communication (gmail connection or extension with bcc) [see](#hubspot-salescrm-wip)
 - Create tickets to all issues raised within one day.*
-- For client raised tickets, add the label `client_reported_bug` to any bug, that the clients caught (on stage or production) or bugs we find on production.
+- For client raised tickets, add the label `reported_by_client` to any bug, that the clients caught (on stage or production) or bugs we find on production.
 
  * During business hours.
 
@@ -1000,7 +1001,7 @@ For each client based project, we have 7 standard categories for time tracking.
 
 - `Deployment` is time spent getting the app live: writing App Store descriptions, ...
 
-- `Internal communication` is time spend discussing with the team: office hours, Slack (time spent talking on Slack is tracked automatically), ...
+- `Internal communication` is time spend discussing with the team: office hours, Slack, ...
 
 - `QA` is mostly used by the QA team and is everything that evolves around testing the app: smoke tests, general QA work, ...
 
@@ -2520,6 +2521,7 @@ We do dinners burger-and-beer-style. Anything fancy needs prior approval by the 
 
 #### Freelancers
 
+(We are currently testing `pleo`for travel expensing, the instructions below might not be accurate anymore).
 1. Expense your travels via *separate* invoices right after the event.
 2. Add the original receipts to the invoice - merge them to one PDF
 3. Sent the invoice to invoice@stanwood.de
@@ -2803,7 +2805,8 @@ In Germany, you might be a "Kleinunternehmer". Check with your accountant and th
 1. On the first of the month
 2. Grab your hours from [Toggl](https://www.toggl.com/app/reports/summary/1229046/period/prevMonth)
 3. Create an invoice with those hours
-4. Sent it to invoice@stanwood.de and put the MD on CC.
+4. Sent it to your `Squad Lead` for approval. (Do *not* put the MD or `invoice@stanwood.de` on CC.
+5. Your `Sqaud Lead` will review your invoice and forward it himself.
 6. On the 15th you should have the money on your account.
 
 
