@@ -1013,7 +1013,6 @@ For general company related tasks, we use the `admin` project which contains 6 c
 
 - `Accounting` is mostly used by the MD
 - `Invoicing` is for sending invoices. It is mainly used by the MD.
-- `Onboarding`  is used by Wookies (new employees/freelancers) during their first weeks for all the things they can't categorize: setting up accounts, ...
 - `Strategy`  is mainly used by leads for discussions about the company's strategy
 - `Zero inbox` is mainly used by the MD or leads
 - `Travel`is only used by the MD to get a better understanding of how he spends his time.
@@ -1030,7 +1029,7 @@ Then, we have a few more categories that are Stanwood related
 #### 3. Squad related
 Squad related tasks are the following: 
 
- - `Admin` is for general administrative tasks related to the squad, mainly used by the squad lead.
+ - `Admin` is for general administrative tasks related to the squad, mainly used by the squad lead and by Wookies (new employees/freelancers) during their first weeks for all the things they can't categorize: setting up accounts, ....
  - `People Operations` is for tasks like recruiting or other HR related work. It's also mainly used by the squad lead
  - `Squad Meetings & Workshops` is for all the meetings, calls & workshops that are Squad related. The weekly planning call for example.
  - `Out of work / Nothing to do` has been introduced recently and is to be used by people who have minimum monthly hours but no work to do - it does not apply to most employees.
@@ -1095,7 +1094,7 @@ PMs post status updates for all their projects on Friday before 12:00 CET. See [
 
 #### Tackleberry
 
-Our very own police bot are be sent you reminders that require your actions from time to time.
+Our very own police bot to send you reminders that require your actions from time to time.
 
 - Tickets that need your estimation
 - Tickets that need to be moved
@@ -1260,7 +1259,7 @@ We use Hubspot to transparently share client communications with the team, for r
 or:
 5. *Sending:*
 Activate `Log` and `Track` in the compose-view when **sending** Mails. If it's a known contact with GDPR consent, Hubspot will add the log to the contact.
-If you no not use chrome (e.g. if you answer on your phones mail app), use `4628060@bcc.hubspot.com`
+If you do not use chrome (e.g. if you answer on your phones mail app), use `4628060@bcc.hubspot.com`
 6. *Receiving client communication:*
 See 4: Connect your Gmail to hubspot. If you *did not connect*:_
 If the client did not cc is to our sales address, the mail will not get logged.
