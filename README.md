@@ -1249,7 +1249,8 @@ We use Uber & MyTaxi to book short trips if we want to work during the trip
 
 ### Background
 
-We use Hubspot to transparently share client communications with the team, for recruiting and to schedule social media posts. Hubspot is also a powerful tool to track website visitors.
+We use Hubspot to transparently share client communications with the team, for recruiting and to schedule social media posts. Hubspot is also a powerful tool to track website visitors.   
+It is of crucial importance that you activate 2FA when using Hubspot.
 
 ### Logging E-Mail conversations
 
