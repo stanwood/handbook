@@ -1030,7 +1030,8 @@ Then, we have a few more categories that are Stanwood related
 #### 3. Squad related
 Squad related tasks are the following: 
 
- - `Admin` is for general administrative tasks related to the squad, mainly used by the squad lead and by Wookies (new employees/freelancers) during their first weeks for all the things they can't categorize: setting up accounts, ....
+ - `Admin` is for general administrative tasks related to the squad, mainly used by the squad lead.
+ - `Admin - Onboarding`  is used by Wookies (new employees/freelancers) during their first weeks for all the things they can't categorize: setting up accounts, ...
  - `People Operations` is for tasks like recruiting or other HR related work. It's also mainly used by the squad lead
  - `Squad Meetings & Workshops` is for all the meetings, calls & workshops that are Squad related. The weekly planning call for example.
  - `Out of work / Nothing to do` has been introduced recently and is to be used by people who have minimum monthly hours but no work to do - it does not apply to most employees.
@@ -1551,6 +1552,8 @@ Overhead: We should not spend more than
 - Project manager distributes the test version to the client with release notes for review
 
 #### Ticket life-cycle
+
+> Tickets `always` need to include a `billable` or `unbillable` label to insure the accuracy of our revenue reports.
 
 - Project manager creates a ticket, adds the relevant description and moved to `Needs estimation` and assigned to Project lead
 - Project lead reviews the ticket for sufficient information and estimates 1h/ 2h/ 4h
