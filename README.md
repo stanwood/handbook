@@ -1,3 +1,4 @@
+
 # Introduction
 ## Table of contents 
 
@@ -900,7 +901,7 @@ Order of priorities:
 - React to all client requests in 1 workday.
 - Use hubspot to log all client communication (gmail connection or extension with bcc) [see](#hubspot-salescrm-wip)
 - Create tickets to all issues raised within one day.*
-- For client raised tickets, add the label `client_reported_bug` to any bug, that the clients caught (on stage or production) or bugs we find on production.
+- For client raised tickets, add the label `reported_by_client` to any bug, that the clients caught (on stage or production) or bugs we find on production.
 
  * During business hours.
 
@@ -1000,7 +1001,7 @@ For each client based project, we have 7 standard categories for time tracking.
 
 - `Deployment` is time spent getting the app live: writing App Store descriptions, ...
 
-- `Internal communication` is time spend discussing with the team: office hours, Slack (time spent talking on Slack is tracked automatically), ...
+- `Internal communication` is time spend discussing with the team: office hours, Slack, ...
 
 - `QA` is mostly used by the QA team and is everything that evolves around testing the app: smoke tests, general QA work, ...
 
@@ -1013,7 +1014,6 @@ For general company related tasks, we use the `admin` project which contains 6 c
 
 - `Accounting` is mostly used by the MD
 - `Invoicing` is for sending invoices. It is mainly used by the MD.
-- `Onboarding`  is used by Wookies (new employees/freelancers) during their first weeks for all the things they can't categorize: setting up accounts, ...
 - `Strategy`  is mainly used by leads for discussions about the company's strategy
 - `Zero inbox` is mainly used by the MD or leads
 - `Travel`is only used by the MD to get a better understanding of how he spends his time.
@@ -1031,6 +1031,7 @@ Then, we have a few more categories that are Stanwood related
 Squad related tasks are the following: 
 
  - `Admin` is for general administrative tasks related to the squad, mainly used by the squad lead.
+ - `Admin - Onboarding`  is used by Wookies (new employees/freelancers) during their first weeks for all the things they can't categorize: setting up accounts, ...
  - `People Operations` is for tasks like recruiting or other HR related work. It's also mainly used by the squad lead
  - `Squad Meetings & Workshops` is for all the meetings, calls & workshops that are Squad related. The weekly planning call for example.
  - `Out of work / Nothing to do` has been introduced recently and is to be used by people who have minimum monthly hours but no work to do - it does not apply to most employees.
@@ -1095,7 +1096,7 @@ PMs post status updates for all their projects on Friday before 12:00 CET. See [
 
 #### Tackleberry
 
-Our very own police bot are be sent you reminders that require your actions from time to time.
+Our very own police bot to send you reminders that require your actions from time to time.
 
 - Tickets that need your estimation
 - Tickets that need to be moved
@@ -1261,7 +1262,7 @@ It is of crucial importance that you activate 2FA when using Hubspot.
 or:
 5. *Sending:*
 Activate `Log` and `Track` in the compose-view when **sending** Mails. If it's a known contact with GDPR consent, Hubspot will add the log to the contact.
-If you no not use chrome (e.g. if you answer on your phones mail app), use `4628060@bcc.hubspot.com`
+If you do not use chrome (e.g. if you answer on your phones mail app), use `4628060@bcc.hubspot.com`
 6. *Receiving client communication:*
 See 4: Connect your Gmail to hubspot. If you *did not connect*:_
 If the client did not cc is to our sales address, the mail will not get logged.
@@ -1552,6 +1553,8 @@ Overhead: We should not spend more than
 - Project manager distributes the test version to the client with release notes for review
 
 #### Ticket life-cycle
+
+> Tickets `always` need to include a `billable` or `unbillable` label to insure the accuracy of our revenue reports.
 
 - Project manager creates a ticket, adds the relevant description and moved to `Needs estimation` and assigned to Project lead
 - Project lead reviews the ticket for sufficient information and estimates 1h/ 2h/ 4h
@@ -2522,6 +2525,7 @@ We do dinners burger-and-beer-style. Anything fancy needs prior approval by the 
 
 #### Freelancers
 
+(We are currently testing `pleo`for travel expensing, the instructions below might not be accurate anymore).
 1. Expense your travels via *separate* invoices right after the event.
 2. Add the original receipts to the invoice - merge them to one PDF
 3. Sent the invoice to invoice@stanwood.de
@@ -2805,7 +2809,8 @@ In Germany, you might be a "Kleinunternehmer". Check with your accountant and th
 1. On the first of the month
 2. Grab your hours from [Toggl](https://www.toggl.com/app/reports/summary/1229046/period/prevMonth)
 3. Create an invoice with those hours
-4. Sent it to invoice@stanwood.de and put the MD on CC.
+4. Sent it to your `Squad Lead` for approval. (Do *not* put the MD or `invoice@stanwood.de` on CC.
+5. Your `Sqaud Lead` will review your invoice and forward it himself.
 6. On the 15th you should have the money on your account.
 
 
