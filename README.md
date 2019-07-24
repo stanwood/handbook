@@ -576,7 +576,7 @@ To read more on the process and background on goal setting, read [Measure what M
 ### Objective 2: Delight clients
 
 - Key result: Customer satisfaction > 90% (NPS) @pms
-- Key result: Sprint burn-down > 90% * @squads
+- Key result: Sprint burn-down > 90% @squads
 - Key result: Production/client reported bugs < 1% of total tickets @squads
 
 ### Objective: 3. Become the authority on digital business and remote work
