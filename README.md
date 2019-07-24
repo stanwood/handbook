@@ -622,7 +622,7 @@ To read more on the process and background on goal setting, read [Measure what M
 
 ### Objective 2: Reliability & Quality
 
-- Key result 1: Sprint burn-down* > 90%
+- Key result 1: Sprint burn-down > 90%
 - Key result: Production/client reported bugs < 1% of total tickets
 
 ### Objective 3: Profitability
