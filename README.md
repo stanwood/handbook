@@ -596,7 +596,7 @@ To read more on the process and background on goal setting, read [Measure what M
 
 - Key result 1: Project profit margin > 50%
 - Key result 2: Tickets in `Approved Backlog` >  4 weeks per dev
-- Key result 3: Tickets in `Ready for Development` > 30 h / dev
+- Key result 3: Tickets in `Ready for Development`/`current_sprint` > 30 h / dev
 - Key result 4: Maintenance contracts with all clients
 - Key result 5: Invoices pre-approved by clients 100%
 
