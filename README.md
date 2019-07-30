@@ -2457,11 +2457,9 @@ Groups are also allowed, for instance, to do a team kick off or celebratory laun
 
 We try to minimise the accounting overhead of traveling as much as possible.
 
-Because invoices for flights are issued to the traveler - not the company - this creates an accounting nightmare.
+Every Woodie get's a company virtual credit card via pleo.com and is responsible to adding the recipts to Pleo.
 
-The bank or credit card statement just says "123.24€ Lufthansa". Then the hunt for the receipts begins.
-
-So we turn this around. The person who get's the invoice pays themselves and then expenses with the invoice.
+Sales, consultants and leads get real credit cards to pay in restaurants.
 
 ### Booking process
 
@@ -2480,7 +2478,7 @@ Our office manager books hotels in #office centrally for everyone. Invoices are 
 
 ### Flights
 
-Every team member books and pays their flights, train rides or car trips themselves in advance and expenses them.
+Every team member books and pays their flights, train rides or car trips themselves with their company credit card and expenses them.
 
 ### Dinners
 
@@ -2522,37 +2520,6 @@ We do dinners burger-and-beer-style. Anything fancy needs prior approval by the 
 - Lunch is paid by the company
 - Dinner is paid by the company
 - Drinks are paid by the MD (if present) (Note: This is not tax-deductable.)
-
-### Expensing
-
-#### Freelancers
-
-(We are currently testing `pleo`for travel expensing, the instructions below might not be accurate anymore).
-1. Expense your travels via *separate* invoices right after the event.
-2. Add the original receipts to the invoice - merge them to one PDF
-3. Sent the invoice to invoice@stanwood.de
-4. The MD wires the money every Monday.
-
-The separate invoice is for accounting purposes. We book those invoices unto a different account.
-
-#### Employees
-
-Use the expense.zoho.com
-
-1. Upload your receipts (only the ones **you** paid) and car travels
-2. Edit VAT, project, category and amounts, your IBAN and BIC
-3. When claiming food or drinks we have to adhere to strict tax law requirements
-    - add the internal attendees via the field and external attendees and freelancers in the comment
-    - add a detailed description of the occasion: i.e. client pitch for new project, pm workshop, annual review with team member etc.
-    - if > 150€ we need our company name and address on the bill
-4. Create a "New Report", add all receipts and submit for approval
-5. The MD approves all travel expenses every Monday
-6. Employees gets the "Reimbursement Reports" via email
-7. Download the report and sent it to `invoice@stanwood.de`
-8. The MD wires the amounts every Monday.
-
-Step 6 is necessary to for accounting. We book your travel on the cost centre and cost type of your team.
-The auto assigning is done via your email address.
 
 
 ## Time Tracking
