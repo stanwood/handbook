@@ -610,7 +610,7 @@ To read more on the process and background on goal setting, read [Measure what M
 
 - Key result 1: Responded to client mails 100% within 1 workday.
 - Key result 2: Inform all active clients 1x per week about budget, blockers and progress as measured via a Hubspot form
-- Key result 3: One planing call, demo call and retro including client per sprint as measured via a Hubspot
+- Key result 3: One planing call, demo call and retro including client per sprint
 
 ## Platform OKRs
 
