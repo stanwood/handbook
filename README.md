@@ -347,15 +347,22 @@ Make sure to [update](https://ecotrust-canada.github.io/markdown-toc) the TOC af
 
 ## Mission
 
-stanwood exists to build amazing technology in a fun and relaxed way.
+Stanwood exists to develop 
 
-We want to build the largest distributed digital agency in the world to bring the joys of remote work to more developers.
+1. people - to become their best self
+2. teams - high performing and trusting
+3. digital products - that are useful and have impact
 
-To achieve that, we need happy clients.
+in that order.
 
-Clients are happy when we deliver excellent products on time and budget and give them the sense that we are on top of things at all times.
+We want to revolutionize how agencies operate. 
 
-But we want to go further than that. We want to delight clients by going the extra mile and taking ownership on our projects. With our fast experience from over 100 projects we actively support our clients in becoming successful and achieving their personal and business goals.
+| Typical Agency | Our aspiration |
+| ------ | ------ |
+| Focus: Profit | Focus: People & teams |
+| Excellence: Process design and efficiency | Excellence: People operations |
+| Recruiting: Expendable ressources | Recruiting: Only hire the perfect fit that raises the team |
+| Location: In hubs | 100% distributed |
 
 ## Professional conduct
 
@@ -576,7 +583,7 @@ To read more on the process and background on goal setting, read [Measure what M
 ### Objective 2: Delight clients
 
 - Key result: Customer satisfaction > 90% (NPS) @pms
-- Key result: Sprint burn-down > 90% @squads
+- Key result: Sprint burn-down* > 90% @squads
 - Key result: Production/client reported bugs < 1% of total tickets @squads
 
 ### Objective: 3. Become the authority on digital business and remote work
@@ -588,7 +595,7 @@ To read more on the process and background on goal setting, read [Measure what M
 
 - Key result: Reduce the stress level of the company by 50% as measured via a multi-question survey @hanneskl
 - Key result: Reduce the number of Toggl tasks / hour by > 50% @hanneskl
-- Key result: 100% of the company working < 45 h / week (including Hannes)
+- Key result: 100% of the company working < 40 h / week (including Hannes)
 
 ## Squad OKRs
 
@@ -597,20 +604,20 @@ To read more on the process and background on goal setting, read [Measure what M
 - Key result 1: Project profit margin > 50%
 - Key result 2: Tickets in `Approved Backlog` >  4 weeks per dev
 - Key result 3: Tickets in `Ready for Development`/`current_sprint` > 30 h / dev
-- Key result 4: Maintenance contracts with all clients
-- Key result 5: Invoices pre-approved by clients 100%
+- Key result 4: Maintenance contracts with all clients EOY
+- Key result 5: Sprint-based contracts with all clients for feature development EOY
 
 ### Objective 2: Reliability & Quality
 
-- Key result 1: Sprint burn-down > 90 %
-- Key result: Production/client reported bugs < 1% of total tickets
+- Key result 1: Sprint burn-down* > 90 %
+- Key result 2: Production/client reported bugs < 1% of total tickets
 - Key result 3: Crash production apps latest version < 1%
 
 ### Objective 3: Become one team with the client
 
 - Key result 1: Responded to client mails 100% within 1 workday.
 - Key result 2: Inform all active clients 1x per week about budget, blockers and progress
-- Key result 3: One planing call, demo call and retro including client per sprint
+- Key result 3: One planing call, demo call and retro per sprint with the client present
 
 ## Platform OKRs
 
@@ -622,8 +629,8 @@ To read more on the process and background on goal setting, read [Measure what M
 
 ### Objective 2: Reliability & Quality
 
-- Key result 1: Sprint burn-down > 90%
-- Key result: Production/client reported bugs < 1% of total tickets
+- Key result 1: Sprint burn-down* > 90%
+- Key result 2: Production/client reported bugs < 1% of total tickets
 
 ### Objective 3: Profitability
 
@@ -631,23 +638,32 @@ To read more on the process and background on goal setting, read [Measure what M
 
 * More than 90% of tickets (as counted in `Ready for Development` and `Working on` on Monday 02:00) in `Done` on Friday 02:00
 
-## Personal Sales OKRs
+## Personal Business Development OKRs
 
-### Objective Hannes: Build agency sales
+### Objective Hannes 1: Build agency sales
 
-- Key result: One project started for another agency
+- Key result 1: Meeting with 10 agency deciders
+- Key result 2: One project started for another agency EOY
+
+### Objective Hannes 2: Build public sales
+
+- Key result 1: Participated in 10 public tender processes
+- Key result 2: One project started for a public entity EOY
 
 ### Objective Richard: Build incubator sales
 
-- Key result: One project started for another incubator
+- Key result 1: Meeting with 10 incubator deciders
+- Key result 2: One project started for another incubator EOY
 
-### Objective Tal: Build Event App SAAS model
+### Objective Tal: Build corporate sales
 
-- Key result: One new event app project started
+- Key result 1: Meeting with 10 corporate clients (for Hannes)
+- Key result 2: One new corporate project started EOY
 
-### Objective Marcin: Build Web App SAAS model
+### Objective Marcin: Build ERP sales
 
-- Key result: One new web app started
+- Key result 1: Meeting with 10 ERP clients (for Hannes)
+- Key result 2: One new ERP project started EOY
 
 # Responsibilities
 
