@@ -624,8 +624,8 @@ To read more on the process and background on goal setting, read [Measure what M
 ### Objective 1: Build an eight A-level dev rooster
 
 - Key result 1: Performance rating of 2 for 100% team members
-- Key result 2: Create a skill matrix and assess all team members by September 1st
-- Key result 3: Create training plan to train each of the skills by by October 1st
+- Key result 2: Create a skill matrix and assess all team members by November 1st
+- Key result 3: Create training plan to train each of the skills by by December 1st
 
 ### Objective 2: Reliability & Quality
 
@@ -637,33 +637,6 @@ To read more on the process and background on goal setting, read [Measure what M
 - Key result 1: Platform profit margin > 40%
 
 * More than 90% of tickets (as counted in `Ready for Development` and `Working on` on Monday 02:00) in `Done` on Friday 02:00
-
-## Personal Business Development OKRs
-
-### Objective Hannes 1: Build agency sales
-
-- Key result 1: Meeting with 10 agency deciders
-- Key result 2: One project started for another agency EOY
-
-### Objective Hannes 2: Build public sales
-
-- Key result 1: Participated in 10 public tender processes
-- Key result 2: One project started for a public entity EOY
-
-### Objective Richard: Build incubator sales
-
-- Key result 1: Meeting with 10 incubator deciders
-- Key result 2: One project started for another incubator EOY
-
-### Objective Tal: Build corporate sales
-
-- Key result 1: Meeting with 10 corporate clients (for Hannes)
-- Key result 2: One new corporate project started EOY
-
-### Objective Marcin: Build ERP sales
-
-- Key result 1: Meeting with 10 ERP clients (for Hannes)
-- Key result 2: One new ERP project started EOY
 
 # Responsibilities
 
