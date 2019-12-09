@@ -347,15 +347,22 @@ Make sure to [update](https://ecotrust-canada.github.io/markdown-toc) the TOC af
 
 ## Mission
 
-stanwood exists to build amazing technology in a fun and relaxed way.
+Stanwood exists to develop 
 
-We want to build the largest distributed digital agency in the world to bring the joys of remote work to more developers.
+1. people - to become their best self
+2. teams - high performing and trusting
+3. digital products - that are useful and have impact
 
-To achieve that, we need happy clients.
+in that order.
 
-Clients are happy when we deliver excellent products on time and budget and give them the sense that we are on top of things at all times.
+We want to revolutionize how agencies operate. 
 
-But we want to go further than that. We want to delight clients by going the extra mile and taking ownership on our projects. With our fast experience from over 100 projects we actively support our clients in becoming successful and achieving their personal and business goals.
+| Typical Agency | Our aspiration |
+| ------ | ------ |
+| Focus: Profit | Focus: People & teams |
+| Excellence: Process design and efficiency | Excellence: People operations |
+| Recruiting: Expendable ressources | Recruiting: Only hire the perfect fit that raises the team |
+| Location: In hubs | 100% distributed |
 
 ## Professional conduct
 
@@ -568,64 +575,68 @@ To read more on the process and background on goal setting, read [Measure what M
 
 ## Company OKRs 2019
 
-### Objective 1: Grow
+### Objective 1: Sustainable growth
 
-- Key result: Funnel (hours offered in quotes according to Hubspot) +400% (6 m€) @sales
-- Key result: Revenue +100% (4 m€) @sales
-- Key result: Profitability 30% EBIT margin @dev_teams @pms
+- Key result: Total quotes sent out > 6 m€ @sales
+- Key result: Profitability > 30% EBIT margin @dev_teams @pms
 
 ### Objective 2: Delight clients
 
-- Key result: Customer satisfaction 90% (NPS) @pms
-- Key result: Sprint goals hit (90% of tickets passed QA Friday 2 am) @squads
-- Key result: Production and client reported bugs < 1% of total tickets @squads
+- Key result: Customer satisfaction > 90% (NPS) @pms
+- Key result: Sprint burn-down* > 90% @squads
+- Key result: Production/client reported bugs < 1% of total tickets @squads
 
 ### Objective: 3. Become the authority on digital business and remote work
 
 - Key result: 200 social posts @karinkleist
-- Key result: 10,000 social followers across facebook, twitter, linkedin and instagram @karinkleist
 - Key result: 12 presentations held at events @hanneskl
 
 ### Objective 4: Calm our operations
 
-- Key result: Reduce the stress level (measured via a multi-question survey) of the company by 50% @hanneskl
-- Key result: Reduce the number of Toggl tasks / hour by 50% @hanneskl
+- Key result: Reduce the stress level of the company by 50% as measured via a multi-question survey @hanneskl
+- Key result: Reduce the number of Toggl tasks / hour by > 50% @hanneskl
+- Key result: 100% of the company working < 40 h / week (including Hannes)
 
 ## Squad OKRs
 
 ### Objective 1: Profitability
 
-- Key result 1: More than 50% project profit margin
-- Key result 2: More than 90 hours worth of work per dev in `Approved Backlog`
-- Key result 3: More than 30 hours worth of work per dev in in `Ready for Development`
+- Key result 1: Project profit margin > 50%
+- Key result 2: Tickets in `Approved Backlog` >  4 weeks per dev
+- Key result 3: Tickets in `Ready for Development`/`current_sprint` > 30 h / dev
+- Key result 4: Maintenance contracts with all clients EOY
+- Key result 5: Sprint-based contracts with all clients for feature development EOY
 
 ### Objective 2: Reliability & Quality
 
-- Key result 1: Less than 10% of tickets left in the backlog for a sprint on Friday 02:00 (past QA)
-- Key result 2: Less than 1% of all tickets are major production and client reported bugs
-- Key result 3: Less than 1% crash rate on production apps latest version
+- Key result 1: Sprint burn-down* > 90 %
+- Key result 2: Production/client reported bugs < 1% of total tickets
+- Key result 3: Crash production apps latest version < 1%
 
-### Objective 3: Client communication
+### Objective 3: Become one team with the client
 
-- Key result 1: Respond to client mails ø 2h. Measured via Hubspot stats.
-- Key result 2: Responded to client mails 100% within 1 workday. Measured via Hubspot stats.
-- Key result 3: For all active clients the PMs fill out a form in Hubspot once a week to answer: Did you update the client about: budget, about blocker, about progress?
+- Key result 1: Responded to client mails 100% within 1 workday.
+- Key result 2: Inform all active clients 1x per week about budget, blockers and progress
+- Key result 3: One planing call, demo call and retro per sprint with the client present
 
 ## Platform OKRs
 
-#### Objective 1: Build an eight A-level dev rooster
+### Objective 1: Build an eight A-level dev rooster
 
-- Key result 1: Performance rating of 2 for everyone
-- Key result 2: Six developers per platform on October 1st
+- Key result 1: Performance rating of 2 for 100% team members
+- Key result 2: Create a skill matrix and assess all team members by November 1st
+- Key result 3: Create training plan to train each of the skills by by December 1st
 
-#### Objective 2: Reliability & Quality
+### Objective 2: Reliability & Quality
 
-- Key result 1: Less than 10% of tickets left in the backlog for a sprint on Friday 02:00 (past QA)
-- Key result 2: Less than 1% of all tickets are major production and client reported bugs
+- Key result 1: Sprint burn-down* > 90%
+- Key result 2: Production/client reported bugs < 1% of total tickets
 
 ### Objective 3: Profitability
 
-- Key result 1: More than 40% platform profit margin
+- Key result 1: Platform profit margin > 40%
+
+* More than 90% of tickets (as counted in `Ready for Development` and `Working on` on Monday 02:00) in `Done` on Friday 02:00
 
 # Responsibilities
 
