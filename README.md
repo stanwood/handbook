@@ -573,7 +573,7 @@ We employ the OKR goal system invented at Intel and popularised by Google by Joh
 
 To read more on the process and background on goal setting, read [Measure what Matters](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221)
 
-## Company OKRs 2019
+## Company OKRs 2020
 
 ### Objective 1: Sustainable growth
 
@@ -593,16 +593,16 @@ To read more on the process and background on goal setting, read [Measure what M
 
 ### Objective 4: Calm our operations
 
-- Key result: Reduce the stress level of the company by 50% as measured via a multi-question survey @hanneskl
-- Key result: Reduce the number of Toggl tasks / hour by > 50% @hanneskl
+- Key result: Nobody reports having being stressed very often or often in the stress survey @hanneskl
+- Key result: Reduce the number of Toggl tasks / hour to 40 @hanneskl
 - Key result: 100% of the company working < 40 h / week (including Hannes)
 
 ## Squad OKRs
 
 ### Objective 1: Profitability
 
-- Key result 1: Project profit margin > 50%
-- Key result 2: Tickets in `Approved Backlog` >  4 weeks per dev
+- Key result 1: Project profit margin > 60%, squad profit margin > 50%
+- Key result 2: # of stories > 320 @hannes
 - Key result 3: Tickets in `Ready for Development`/`current_sprint` > 30 h / dev
 - Key result 4: Maintenance contracts with all clients EOY
 - Key result 5: Sprint-based contracts with all clients for feature development EOY
@@ -611,26 +611,25 @@ To read more on the process and background on goal setting, read [Measure what M
 
 - Key result 1: Sprint burn-down* > 90 %
 - Key result 2: Production/client reported bugs < 1% of total tickets
-- Key result 3: Crash production apps latest version < 1%
+- Key result 3: Crash production apps latest version < 0.5%
 
 ### Objective 3: Become one team with the client
 
-- Key result 1: Responded to client mails 100% within 1 workday.
-- Key result 2: Inform all active clients 1x per week about budget, blockers and progress
-- Key result 3: One planing call, demo call and retro per sprint with the client present
+- Key result 1: Responded to client mails on average within 12h as measured via intercom
+- Key result 2: 100% of client's project owner participates in dailies as reported by scrum masters via a weekly slack bot. @marcin
 
 ## Platform OKRs
 
 ### Objective 1: Build an eight A-level dev rooster
 
 - Key result 1: Performance rating of 2 for 100% team members
-- Key result 2: Create a skill matrix and assess all team members by November 1st
-- Key result 3: Create training plan to train each of the skills by by December 1st
+- Key result 2: Create a skill matrix and assess all team members by March 1st
+- Key result 3: Create training plan to train each of the skills by by March 1st
 
 ### Objective 2: Reliability & Quality
 
 - Key result 1: Sprint burn-down* > 90%
-- Key result 2: Production/client reported bugs < 1% of total tickets
+- Key result 2: Production/client reported bugs < 0.5% of total tickets
 
 ### Objective 3: Profitability
 
