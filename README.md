@@ -25,7 +25,7 @@
     + [IV. Respect, Friendship and Support](#iv-respect--friendship-and-support)
     + [V. Working remotely](#v-working-remotely)
 - [Goals](#goals)
-  * [Company OKRs 2019](#company-okrs-2019)
+  * [Company OKRs 2019](#company-okrs-2020)
     + [Objective 1: Grow](#objective-1--grow)
     + [Objective 2: Delight clients](#objective-2--delight-clients)
     + [Objective: 3. Become the authority on digital business and remote work](#objective--3-become-the-authority-on-digital-business-and-remote-work)
