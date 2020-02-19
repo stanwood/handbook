@@ -2809,163 +2809,63 @@ The whole process takes 10 business days at best and sometimes up to three weeks
 
 ## Sales and Marketing
 
-### Our skills
+### Target groups
 
-#### Digital Transformation
+1. Corporates with apps i.e. Lufthansa, Deutsch Bahn, Deutscha Bank
+2. Incubators with apps i.e. 7nxt health, ContiTech
+3. Digital development agencies with missing app departments i.e. Move:Elevator
+4. Ad agencies who need app development for client projects i.e. GrowFirst
+5. Design agencies who need app development for client projects i.e. GrowFirst
+6. SMB with apps i.e. Schneemenschen
+7. Startups with apps i.e. Wunderdeals
 
-- App data
-- Consulting: Big data scientiesty + business casper
-- Business planing and concepting
-- Street credibility
-- ON AIR
-- Corporate background
-- Funke Exit
+### Tools
 
-#### Product management
-- Lean development: Scope Management
-- Designen, Coden, Deployment, Hosting, Maintaining, Marketing, Monetization
+We track our contacts, companies and leads in Pipedrive https://stanwood.pipedrive.com/
 
-#### Distributed
-- Best and happiest coders
-- Around the clock
-- Mindset
-- Modern
-- One person in every country #glocal
-- "Cultured code"
-- Fits to distributed clients
-- Digital nomad family
-- Transparency
+### Outgoing funnel
 
-### Passions
+#### Cold
 
-- Fun with nerds
-- Techies
-- Number chruncher
-- Food & Booze
-- Work 2.0
-- First 100% distributed agency
-- Distributed
-- Lean product development
-- Digital transformation
-- Build stuff
+We try to get a personal meeting set up by offering slots when the CEO is in the contact's city.
 
-### Tilt
+Alternativly we go for a phone call with the goal to get a meeting set up later.
 
-- Overlap of our 3 core skills.
-- Define "Stanwood Persona" after client personas
+As an opener we review the contacts open job offerings, existing clients, apps and try to find a solid idea, how we can help.
 
-### Segments
+**Process**
 
-1. "Interims CTO" Inkubator
-2. "Workbench" for agencies
-3. "Industry 4.0"
-- SME
-- Agencies
+1. Cold email offering our services
+2. Reminder 1 a week later
+3. Reminder 2 a week later
+4. Reminder 3 a week later
+5. Reminder 4 a week later
+6. Reminder 5 a week later
+7. Contact attemped on LinkedIn one week later
+8. Contact attemped via website contact form a week later asking for the right contact.
+9. Contact attemped via phone (found on imprint) a week later.
 
-### Channels
+- If no response: Restart cycle 3 months later.
+- If rejected by contact, restart the cycle 3 months later.
+- If postponed by contact, restart the cycle a month later.
 
-- Website
-- Landing page
-- Blogs
-- Youtube
-- Pintrest
-- Facebook
-- Instagram
-- Linkedin/xing
-- Twitter
-- Podcasts
-- Conferences
-- Own events/workshops
-- Magazine
-- Webinars
-- Masterclasses/webinars
-- Ads
-- Newsletter
-- Case studies
-- White paper
-- Interviews
-- Influencer
-- Book
-- Merchandise
-- PR
-- Direct mail
-- Cold calls
+We might walk to the booths of contacts an chat them up.
+
+**Follow up**
+
+After a phone call or meeting, we add that person to LinkedIn and send our slide deck.
+
+That contact becomes warm.
+
+#### Warm
+
+#### Convention & event screening
+
+#### Social media screening
 
 ### Content
 
-#### 1. Distributed
-
-- Meta: Work 4.0, Benefits, Lean
-- https://gitlab.com/stanwood/handbook/
-- Add new processes
-- Focus on core processes
-- Culture
-- Health
-- Home stories & portraits
-- Origin story
-- Sales Strategy
-- Workation
-- Future of stanwood (3 / 5 remote)
-- Hannes/Richard/Martin private digital dungeon
-
-#### 2. Product management
-
-- MVP - Why
-- Global development process - How to get an app to the App store in 2 months
-- Data driven product development
-- Feature creep
-- A/B
-- big data
-- machine learning
-- Agile software development
-- QA (add applause)
-- Monetisation strategies
-- News apps
-- (Jean)
-- App Store Optimization
-- Product stories
-- All our products & interviews
-- Hosting & API
-- No admins
-- No server
-- Highly scalable
-- Monitoring
-- Google AI APIs
-- Client communication
-- Bots
-- Lesson learned
-- Analytics
-- Onboarding
-- useronboard.com
-- IAP & Paywalls
-- Best practises
-- Why Apple will reject you
-- Apple approval strategy
-- 1.0 in Luxembourg
-- Server side feature flags
-- Design processes (re Wunderdeals)
-- Retention and conversion optimisation (CRM)
-- Push notifications & deep links
-- CRM
-- Cross platform coding (Flutter, Phone Gap, Xamarin, react)
-- Sync iOS and android development
-- Multi project management (defrag)
-- How get 5 star ratings
-- App development costs
-- Multi-tenant apps
-- Next tech: Bots, AI...
-
-#### 3. Digital Transformation
-
-- Product stories
-- Change management
-- Internal
-- Clients
-- Tools: Introduction
-- Content Marketing
-- How to make your company future proof?
-- No back-office (candies, Zohoo, Goldstein, weworks/mindspace)
-- Paperless
+#### Script for calls 
 
 ### Marketing Operations
 
@@ -2986,10 +2886,9 @@ Publish one post on every channel every day.
 
 We plan our blog articles in a [GSheet](https://docs.google.com/spreadsheets/d/1nMkUHs_I-A0i-QDiyXCdA_UaDBXNLZqX0gg_TrbjQX4/edit#gid=0)
 
-
 ## Legal & Contracts
 
-Terms of use (last updated April 2019): [GDoc](https://docs.google.com/document/d/15mriJT3NfzvHvZFWaPkfCyjCZY5cGsjWfkNb8Eky6GY/edit?usp=sharing).
+Terms and conditions: [GDoc](https://docs.google.com/document/d/15mriJT3NfzvHvZFWaPkfCyjCZY5cGsjWfkNb8Eky6GY/edit?usp=sharing).
 We always should add this as a PDF to our quotes.
 
 Note: We offer our clients "maintenance contracts" as of Apr 2019 to "keep the app running and fix all upcoming bugs" in the extent of the usual
